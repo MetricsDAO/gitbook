@@ -1,0 +1,63 @@
+# Table of contents
+
+* [Welcome to MetricsDAO!](README.md)
+
+## MetricsDAO
+
+* [Mission](metricsdao/mission.md)
+* [MetricsDAO Useful Links](metricsdao/metricsdao-useful-links.md)
+* [Analytics Experiments](metricsdao/analytics-experiments.md)
+* [Partners](metricsdao/partners.md)
+
+## Team Structure
+
+* [Overview](team-structure/overview.md)
+* [Community](team-structure/community.md)
+* [Contributor](team-structure/contributor.md)
+* [Core](team-structure/core.md)
+* [Council](team-structure/council.md)
+* [Genesis](team-structure/genesis.md)
+
+## Get Involved
+
+* [Get Involved](get-involved/get-involved.md)
+* [Operational Pods](get-involved/operational-pods/README.md)
+  * [Mentor's Circle](get-involved/operational-pods/mentors-circle/README.md)
+    * [Mentors](get-involved/operational-pods/mentors-circle/mentors.md)
+    * [Resources](get-involved/operational-pods/mentors-circle/resources.md)
+  * [MARCOM](get-involved/operational-pods/marcom.md)
+  * [POAP Studio](get-involved/operational-pods/poap-studio.md)
+  * [Biz Dev](get-involved/operational-pods/biz-dev.md)
+  * [Governance Research](get-involved/operational-pods/governance-research.md)
+  * [Protocol Development](get-involved/operational-pods/protocol-development.md)
+  * [Bounty Operations](get-involved/operational-pods/bounty-operations.md)
+  * [Data Curation](get-involved/operational-pods/data-curation.md)
+* [Workshops](get-involved/workshops/README.md)
+  * [2022-04-21+ Interactive Data Visualization with Python](get-involved/workshops/2022-04-21+-interactive-data-visualization-with-python.md)
+  * [2022-03-30+ Subgrounds Workshop Series](get-involved/workshops/2022-03-30+-subgrounds-workshop-series.md)
+  * [2022-03-11 Data Curation with dbt](get-involved/workshops/2022-03-11-data-curation-with-dbt.md)
+  * [2022-02-10 Exploring Terra Data with Flipside Crypto](get-involved/workshops/2022-02-10-exploring-terra-data-with-flipside-crypto.md)
+  * [2022-01-27 Dune Analytics and NFTs](get-involved/workshops/2022-01-27-dune-analytics-and-nfts.md)
+* [Data Curation](get-involved/data-curation/README.md)
+  * [Data Curator Onboarding](get-involved/data-curation/data-curator-onboarding.md)
+  * [Analytics Stack](get-involved/data-curation/analytics-stack/README.md)
+    * [Blocks Table](get-involved/data-curation/analytics-stack/blocks-table.md)
+    * [TXS Table](get-involved/data-curation/analytics-stack/txs-table.md)
+    * [2022-01-26 Data Curation Build in Public Meeting Notes](get-involved/data-curation/analytics-stack/2022-01-26-data-curation-build-in-public-meeting-notes.md)
+    * [2022-02-02 Data Curation Build in Public Meeting Notes](get-involved/data-curation/analytics-stack/2022-02-02-data-curation-build-in-public-meeting-notes.md)
+    * [2022-02-23 Data Curation Build in Public Meeting Notes](get-involved/data-curation/analytics-stack/2022-02-23-data-curation-build-in-public-meeting-notes.md)
+  * [NEAR](get-involved/data-curation/near/README.md)
+    * [Table Documentation](get-involved/data-curation/near/table-documentation.md)
+  * [Harmony](get-involved/data-curation/harmony/README.md)
+    * [Table Documentation](get-involved/data-curation/harmony/table-documentation.md)
+    * [Harmony Data Curation](get-involved/data-curation/harmony/harmony-data-curation/README.md)
+      * [2021-12-10 Harmony Build-In-Public Meeting Notes](get-involved/data-curation/harmony/harmony-data-curation/2021-12-10-harmony-build-in-public-meeting-notes.md)
+      * [2021-12-17 Harmony Build-In-Public Meeting Notes](get-involved/data-curation/harmony/harmony-data-curation/2021-12-17-harmony-build-in-public-meeting-notes.md)
+      * [2021-12-22 Harmony Data Curators Notes](get-involved/data-curation/harmony/harmony-data-curation/2021-12-22-harmony-data-curators-notes.md)
+      * [2021-12-29 Harmony Build in Public Meeting Notes](get-involved/data-curation/harmony/harmony-data-curation/2021-12-29-harmony-build-in-public-meeting-notes.md)
+      * [2022-01-05 Harmony Build in Public Meeting Notes](get-involved/data-curation/harmony/harmony-data-curation/2022-01-05-harmony-build-in-public-meeting-notes.md)
+      * [2022-01-12 Harmony Build in Public Meeting Notes](get-involved/data-curation/harmony/harmony-data-curation/2022-01-12-harmony-build-in-public-meeting-notes.md)
+      * [2022-01-19 Harmony Build in Public Meeting Notes](get-involved/data-curation/harmony/harmony-data-curation/2022-01-19-harmony-build-in-public-meeting-notes.md)
+* [Analytics Bounties](get-involved/analytics-bounties/README.md)
+  * [Question Sourcing](get-involved/analytics-bounties/question-sourcing.md)
+  * [Question Solving](get-involved/analytics-bounties/question-solving.md)
