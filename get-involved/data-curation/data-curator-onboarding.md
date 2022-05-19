@@ -82,13 +82,14 @@ https://github.com/dbt-labs/corp/blob/master/dbt\_style\_guide.md
    * Once it finishes running, you'll be able to see the table available in dev
 7. Make sure your table successfully runs in the dev environment before pushing your branch. Command + D to exit Docker environment. git add all the changes you want to include in the branch, and then add git commit -m "your message". Push your branch to remote using git push or gp (follow what's suggested in the terminal if it's your first time pushing the branch to remote).
    * ![](<../../.gitbook/assets/image (8).png>)
-8. Create Pull Request ( [https://github.com/MetricsDAO/harmony\_dbt/compare](https://github.com/MetricsDAO/harmony\_dbt/compare) ) and write a summary on your updates/changes, as well as attaching passing test logs.
-9. Request Reviewer (From one of the leaders below).
-10. Fix Review Comments.
-11. Re-Request Reviewer after fixing review comments.
-12. If your PR has been approved, merge it to production (Production is scheduled to run every 6 hours).
-13. Congratulations! You’ve successfully contributed a table to MetricsDAO.
-14. Testboard \[Optional]: If you’d like to have some sort of testing
+8. If your PR is adding or changing existing models or documentation, run `dbt docs generate` as the last commit to ensure documentation updates to include your changes.
+9. Create Pull Request ( [https://github.com/MetricsDAO/harmony\_dbt/compare](https://github.com/MetricsDAO/harmony\_dbt/compare) ) and write a summary on your updates/changes, as well as attaching passing test logs.
+10. Request Reviewer (From one of the leaders below).
+11. Fix Review Comments.
+12. Re-Request Reviewer after fixing review comments.
+13. If your PR has been approved, merge it to production (Production is scheduled to run every 6 hours).
+14. Congratulations! You’ve successfully contributed a table to MetricsDAO.
+15. Testboard \[Optional]: If you’d like to have some sort of testing
     * [https://app.snowflake.com/us-east-1/dqa62717/harmony-tests-d7xiPyK2v](https://app.snowflake.com/us-east-1/dqa62717/harmony-tests-d7xiPyK2v)
     * dbt test
 
