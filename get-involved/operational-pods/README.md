@@ -15,7 +15,11 @@ Dive in to learn more about our pods!\
 
 [governance-research.md](governance-research.md "mention")
 
+[protocol-development.md](protocol-development.md "mention")
+
+[bounty-operations.md](bounty-operations.md "mention")
+
+[data-curation.md](data-curation.md "mention")
 
 
 
-\
