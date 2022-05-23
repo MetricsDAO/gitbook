@@ -29,7 +29,9 @@ description: >-
   * [https://github.com/MetricsDAO/harmony\_dbt#readme](https://github.com/MetricsDAO/harmony\_dbt#readme)
 * Clone the project or MetricsDao Github repo `git clone https://github.com/MetricsDAO/harmony_dbt`
 * Copy `.env.sample` and create `.env`, replace the highlights below with your own account and passwords
-* ![](<../../.gitbook/assets/image (3) (1).png>)
+* ![](<../../.gitbook/assets/image (12) (1) (2).png>)
+* Install the dbt formatter from VS Code. For ease of use, turn on "format on save" by searching for "format" in the settings menu.
+  * henriblancke.vscode-dbt-formatter
 
 #### Channels
 
