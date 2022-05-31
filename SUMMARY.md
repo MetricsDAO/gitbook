@@ -17,6 +17,7 @@
 * [Core](team-structure/core.md)
 * [Council](team-structure/council.md)
 * [Genesis](team-structure/genesis.md)
+* [Governance Committee](team-structure/governance-committee.md)
 
 ## Get Involved
 
