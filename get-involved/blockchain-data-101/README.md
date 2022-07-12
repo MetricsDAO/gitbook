@@ -62,7 +62,7 @@ Expand technical abilities with live use-cases.
 
 ### Segment 3 - Leveling Up
 
-Introducing intermediate SQL techniques and&#x20;
+Introducing intermediate SQL techniques and diving into (more) raw transaction data.
 
 * SQL Aggregations - benefits and pitfalls
 * Data, uncurated
