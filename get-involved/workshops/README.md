@@ -4,7 +4,7 @@ description: >-
   applicable. Future workshops may be adjusted or moved, so check back often!
 ---
 
-# Workshops
+# 📚 Workshops
 
 ## Schedule
 
@@ -15,7 +15,6 @@ description: >-
 | Workshop | [Guide to Data Curation - data modeling with dbt.](2022-03-11-data-curation-with-dbt.md)                | chuxin.eth               | 2022-03-11                  |
 | Series   | [Building on the Graph with Subgrounds](2022-03-30+-subgrounds-workshop-series.md)                      | Tachikoma000 and stopher | 2022-03-30 - 2022-04-13     |
 | Series   | [Interactive Data Visualization with Python](2022-04-21+-interactive-data-visualization-with-python.md) | ltirrell                 | Weekly, starting April 21st |
-| Workshop | Dataweaves                                                                                              | by                       | TBD                         |
 
 ## Where?
 
