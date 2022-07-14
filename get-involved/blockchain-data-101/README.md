@@ -24,7 +24,7 @@ Each week will have accompanying assignments. These will reinforce concepts cove
 
 Additionally, members of the course operations team will hold Office Hours weekly in [our Discord Server](https://discord.gg/H9ggUCNXt5) to assist with questions related to the prior week's course.
 
-Finally, please actively use the course chat channels in Discord, under the Education section, to help each other out!
+Finally, please actively use the #course-chat channel in MetricsDAO's Discord, under the Education section, to help each other out!
 
 
 

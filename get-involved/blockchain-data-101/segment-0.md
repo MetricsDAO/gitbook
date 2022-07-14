@@ -8,19 +8,16 @@ description: >-
 
 ## A New Future
 
-What stands between a future in which you are free to work from anywhere in the world, and your insights and analysis driving real change and understanding in the blockchain economy, a world in which your list of POAPs makes you the in-demand OG of the 2025 cycle of innovation?
+What stands between your current life and a future one in which you are free to work from anywhere in the world; your insights and analysis are driving real change and understanding in the blockchain economy; and your list of POAPs makes you the in-demand OG of the 2025 cycle of innovation?
 
-I ask this question because as seemingly improbable as that future sounds, it is possible if you are willing to start the journey, and this lesson zero may very well be that first step if you are brand new to the on-chain analysis field.
+I ask this question because as seemingly improbable as that future sounds, it is possible if you are willing to start this journey, starting with Segment Zero!
 
-### What will you learn by reviewing Lesson Zero? <a href="#docs-internal-guid-02d14b97-7fff-7546-0abc-3b8bee113ae3" id="docs-internal-guid-02d14b97-7fff-7546-0abc-3b8bee113ae3"></a>
+### What will you learn by reviewing Segment Zero? <a href="#docs-internal-guid-02d14b97-7fff-7546-0abc-3b8bee113ae3" id="docs-internal-guid-02d14b97-7fff-7546-0abc-3b8bee113ae3"></a>
 
-After completion, you will have the essential knowledge of relational databases and Structured Query Language (SQL). SQL will be the fundamental tool you'll use to interact with blockchain data across popular analytics platforms such as Dune Analytics, Flipside, a host of third party providers, and, of course, MetricsDAO. These platforms have taken raw blockchain data through an additional step of parsing the data using an ETL (extract-transform-load) layer and simplified the data into simpler relational databases.
+* Essential knowledge of relational databases and Structured Query Language (SQL). SQL will be the fundamental tool you'll use to interact with blockchain data across popular analytics platforms such as Dune Analytics, Flipside and MetricsDAO.&#x20;
+* The fundamental concepts/terminology of blockchain technology, such as block number, addresses, block hash, etc.&#x20;
 
-You'll also learn the fundamental concepts of blockchain technology so that the terminologies you'll see in the databases such as block number, addresses, block hash, etc. will be second nature to you.
-
-Once equipped with these two important tools, you’re on your way towards that new future.
-
-### How will you learn in Lesson Zero?
+### How will you learn in Segment Zero?
 
 This is a purely self-paced lesson. However, you can drop in to the Discord channel [#course-chat](https://discord.com/channels/902943676685230100/992490932412883064) to ask questions and interact with your fellow classmates and (instructor?)
 
@@ -43,7 +40,7 @@ You have made it through that crucial first step. You have actually learned quit
 
 ### Resources
 
-MetricsDAO Discord - BC Analytics Course
+[MetricsDAO Discord - BC Analytics Course](https://discord.gg/yhumK9TaV2)
 
 [#course-chat](https://discord.com/channels/902943676685230100/992490932412883064) - for all general conversation related to this course!
 
