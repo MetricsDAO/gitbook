@@ -10,11 +10,11 @@ description: >-
 
 **Github (ask danner.eth#7297)**
 
-* Hi Drake, I’m interested in doing data curation for MetricsDAO, could you give me github access please? My github profile is: \[https://github.com/antonyip]
+* Hi Drake, I’m interested in doing data curation for MetricsDAO, could you give me github access please? My github profile is: \[https://github.com/name]
 
-**Snowflake (ask danner.eth#7297 / j1mmy#3666)**
+**Snowflake (ask danner.eth#7297 / forg#9122)**
 
-* Hi Drake, I’m interested in doing data curation for MetricsDAO, could you give me snowflake access please? I’d like my username to be: \[ant]
+* Hi Drake, I’m interested in doing data curation for MetricsDAO, could you give me snowflake access please? I’d like my username to be: \[name]
 
 **dbt cloud \[Optional]**
 
@@ -102,10 +102,9 @@ https://github.com/dbt-labs/corp/blob/master/dbt\_style\_guide.md
 
 #### Leaders (Good for Pairing!)
 
-* Antonidas#8491 (Ant)
 * nosugar🍀#1554 (Chuxin)
-* MasterChETH#6807 (Matt)
 * forg#9122 (Jack)
+* issui#6571 (Issui)
 
 ### MetricsDAO Created Tables
 

@@ -43,6 +43,7 @@
   * [Segment 0](get-involved/blockchain-data-101/segment-0.md)
 * [Data Curation](get-involved/data-curation/README.md)
   * [Data Curator Onboarding](get-involved/data-curation/data-curator-onboarding.md)
+  * [Data Modeling Standards](get-involved/data-curation/data-modeling-standards.md)
   * [Analytics Stack](get-involved/data-curation/analytics-stack/README.md)
     * [Blocks Table](get-involved/data-curation/analytics-stack/blocks-table.md)
     * [TXS Table](get-involved/data-curation/analytics-stack/txs-table.md)
