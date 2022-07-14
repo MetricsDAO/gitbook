@@ -12,8 +12,8 @@ description: 'Mentor''s Workshop #2'
 
 We've created a new page under the Mentor's Circle GitBook! Resources we find helpful and that are referenced in the MetricsDAO Workshops will be added to an ever-expanding repository.
 
-{% content-ref url="../resources.md" %}
-[resources.md](../resources.md)
+{% content-ref url="../../analyst-resources/resources.md" %}
+[resources.md](../../analyst-resources/resources.md)
 {% endcontent-ref %}
 
 ## Follow Along with Starter Queries!

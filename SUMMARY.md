@@ -21,19 +21,19 @@
 
 * [Resources](analyst-resources/resources.md)
 * [📚 Workshops](analyst-resources/workshops/README.md)
-  * [2022-04-21+ Interactive Data Visualization with Python](analyst-resources/workshops/2022-04-21+-interactive-data-visualization-with-python.md)
-  * [2022-03-30+ Subgrounds Workshop Series](analyst-resources/workshops/2022-03-30+-subgrounds-workshop-series.md)
-  * [2022-03-11 Data Curation with dbt](analyst-resources/workshops/2022-03-11-data-curation-with-dbt.md)
-  * [2022-02-10 Exploring Terra Data with Flipside Crypto](analyst-resources/workshops/2022-02-10-exploring-terra-data-with-flipside-crypto.md)
-  * [2022-01-27 Dune Analytics and NFTs](analyst-resources/workshops/2022-01-27-dune-analytics-and-nfts.md)
+  * [2022-04-21+ Interactive Data Visualization with Python](get-involved/workshops/2022-04-21+-interactive-data-visualization-with-python.md)
+  * [2022-03-30+ Subgrounds Workshop Series](get-involved/workshops/2022-03-30+-subgrounds-workshop-series.md)
+  * [2022-03-11 Data Curation with dbt](get-involved/workshops/2022-03-11-data-curation-with-dbt.md)
+  * [2022-02-10 Exploring Terra Data with Flipside Crypto](get-involved/workshops/2022-02-10-exploring-terra-data-with-flipside-crypto.md)
+  * [2022-01-27 Dune Analytics and NFTs](get-involved/workshops/2022-01-27-dune-analytics-and-nfts.md)
 * [🧑🏫 Blockchain Data 101](analyst-resources/blockchain-data-101/README.md)
-  * [Segment 0](analyst-resources/blockchain-data-101/segment-0.md)
+  * [Segment 0](get-involved/blockchain-data-101/segment-0.md)
 
 ## Data Curation
 
-* [Data Curation](data-curation/data-curation.md)
+* [Data Curation](get-involved/data-curation/README.md)
 * [Data Curator Onboarding](data-curation/data-curator-onboarding/README.md)
-  * [Data Modeling Standards](data-curation/data-curator-onboarding/data-modeling-standards.md)
+  * [Data Modeling Standards](get-involved/data-curation/data-modeling-standards.md)
 * [Analytics Stack](data-curation/analytics-stack/README.md)
   * [Blocks Table](data-curation/analytics-stack/blocks-table.md)
   * [TXS Table](data-curation/analytics-stack/txs-table.md)

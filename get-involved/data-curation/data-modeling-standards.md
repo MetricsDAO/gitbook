@@ -67,6 +67,30 @@ Ethereum\_
 * Convenience View or ez\_ &#x20;
   * For convenience views where analytics is doing a lot of the “lifting” for the view - aggregate
   * Mostly for scavenger hunts/training/level-up
-  * Examples Include:
-    * `ez_balances_usd_agg_daily`
-    * `ez_dex_swaps`
+  *   Examples Include:
+
+      * `ez_balances_usd_agg_daily`
+      *   `ez_dex_swaps`Descriptive Naming Conventions
+
+          ###
+
+
+
+## Automation
+
+When creating models with _incremental_ materialization, we need to write an incremental logic within the model. It is important for the incremental logic to be based on _\_inserted\_timestamp_ and not on the _block\_timestamp._ This is important especially when the data encounters gaps on certain dates. This enables the model to heal itself because gaps are associated with _block\_timestamp_ and when they get-inserted later, they get captured by  _\_inserted\_timestamp._\
+__Here is an example:
+
+```
+ {% raw %}
+{% if is_incremental() %}
+AND _inserted_timestamp >= (
+    SELECT
+        MAX(_inserted_timestamp) :: DATE - 1
+    FROM
+        {{ this }}
+)
+{% endif %}
+{% endraw %}
+```
+
