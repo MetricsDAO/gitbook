@@ -24,4 +24,4 @@ Good partners have these characteristics:\
 • The MetricsDAO community is excited about the protocol/ecosystem.\
 • Added bonuses for synergy with existing partners\
 \
-MetricsDAO is a community of curious, bright and fun people, who are always looking for the next challenge. If you are unsure whether to apply, join our Discord and talk to @raphbaph or @danner.eth. We’re happy to show you around!
+MetricsDAO is a community of curious, bright and fun people, who are always looking for the next challenge. If you are unsure whether to apply, join our Discord. We’re happy to show you around!
