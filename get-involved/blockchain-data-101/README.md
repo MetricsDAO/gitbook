@@ -10,7 +10,7 @@ description: >-
 
 This course is designed for students who want to answer questions with data, provide context to protocol growth and change, and understand what is happening behind the scenes.
 
-The goal of this course is to take interested students and teach them the requisite knowledge to be a data analyst in web3. Our goal is that students emerge from the 6-session course with an intermediate level of knowledge. We define that as being able to confidently tackle challenges with tools such as [Flipside](https://flipsidecrypto.xyz), [Dune](https://dune.com), [Footprint](https://footprint.network), [Dapplooker](https://dapplooker.com), etc. While a "beginner" analyst may be limited to high-level overviews, an "intermediate" analyst is able to push beyond surface-level analysis, extracting insights from curiosity-directed exploration.
+The goal of this course is to take interested students and teach them the requisite knowledge to be a data analyst in web3. Our goal is that students emerge from the course with an intermediate level of knowledge. We define that as being able to confidently tackle challenges with tools such as [Flipside](https://flipsidecrypto.xyz), [Dune](https://dune.com), [Footprint](https://footprint.network), [Dapplooker](https://dapplooker.com), etc. While a "beginner" analyst may be limited to high-level overviews, an "intermediate" analyst is able to push beyond surface-level analysis, extracting insights from curiosity-directed exploration.
 
 In short, a successful course will produce a cohort of talented analysts creating great content and actively competing in bounty programs.
 
