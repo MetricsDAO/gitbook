@@ -36,7 +36,7 @@ _The following is intended to set expectations about the content of this course,
 
 We will be compiling vetted resources that students can dive into, on their own time, to get up to speed with the main topics that this course covers: blockchains and crypto, data analysis using SQL, working in web3, etc.
 
-See more on the nested page, [here](../../get-involved/blockchain-data-101/segment-0.md).
+See more on the nested page, [here](segment-0.md).
 
 ### Segment 1 - The Basics
 
