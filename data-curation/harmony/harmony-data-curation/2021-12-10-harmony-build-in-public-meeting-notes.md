@@ -10,10 +10,10 @@ description: Recap of topics covered in the first Harmony Data Curation contribu
 
 A walk-through of what **j1mmy#3666** has been building for MetricsDAO as part of the white glove bootstrap support Flipside Crypto has been providing.&#x20;
 
-![MetricsDAO Stack: Bootstrap support provided by Flipside Crypto](<../../../../.gitbook/assets/image (2).png>)
+![MetricsDAO Stack: Bootstrap support provided by Flipside Crypto](<../../../.gitbook/assets/image (2).png>)
 
-{% content-ref url="../../analytics-stack/" %}
-[analytics-stack](../../analytics-stack/)
+{% content-ref url="../../data-curator-onboarding/analytics-stack.md" %}
+[analytics-stack.md](../../data-curator-onboarding/analytics-stack.md)
 {% endcontent-ref %}
 
 **Phase 1: DBT Models to be built**&#x20;
