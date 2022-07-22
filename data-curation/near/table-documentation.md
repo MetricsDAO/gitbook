@@ -8,7 +8,7 @@ Documentation for the NEAR data tables can be found at the below link:
 
 Quick-links to the `core` tables:
 
-* ``[`fact_actions_events`](https://mdao-near.netlify.app/#!/model/model.near.core\_\_fact\_actions\_events)
+* ``[`fact_actions_events`](https://mdao-near.netlify.app/#!/model/model.near.core\_\_fact\_actions\_events)``
 * ``[`fact_actions_events_addkey`](https://mdao-near.netlify.app/#!/model/model.near.core\_\_fact\_actions\_events\_addkey)``
 * ``[`fact_actions_events_function_call`](https://mdao-near.netlify.app/#!/model/model.near.core\_\_fact\_actions\_events\_function\_call)``
 * ``[`fact_blocks`](https://mdao-near.netlify.app/#!/model/model.near.core\_\_fact\_blocks)``
