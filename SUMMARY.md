@@ -28,6 +28,13 @@
   * [2022-01-27 Dune Analytics and NFTs](get-involved/workshops/2022-01-27-dune-analytics-and-nfts.md)
 * [🧑🏫 Blockchain Data 101](analyst-resources/blockchain-data-101/README.md)
   * [Segment 0](get-involved/blockchain-data-101/segment-0.md)
+  * [Segment 1](analyst-resources/blockchain-data-101/segment-1/README.md)
+    * [SQL Basics](analyst-resources/blockchain-data-101/segment-1/sql-basics/README.md)
+      * [SELECTing data](analyst-resources/blockchain-data-101/segment-1/sql-basics/selecting-data.md)
+      * [Filter data with WHERE](analyst-resources/blockchain-data-101/segment-1/sql-basics/filter-data-with-where.md)
+      * [Aggregations, Lite](analyst-resources/blockchain-data-101/segment-1/sql-basics/aggregations-lite.md)
+    * [Analytics Showcase](analyst-resources/blockchain-data-101/segment-1/analytics-showcase.md)
+    * [Assessment 1](analyst-resources/blockchain-data-101/segment-1/assessment-1.md)
 
 ## Data Curation
 
