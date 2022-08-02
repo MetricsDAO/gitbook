@@ -60,6 +60,8 @@ Blocks are written in the order that they occur and the nodes securing the netwo
 
 ### Dive Deeper
 
+{% embed url="https://www.odysseydao.com/articles/what-is-blockchain" %}
+
 {% embed url="https://learn.rainbow.me/what-is-a-cryptoweb3-wallet-actually" %}
 
 {% embed url="https://www.investopedia.com/tech/why-crypto-users-need-know-about-erc20-token-standard/" %}
