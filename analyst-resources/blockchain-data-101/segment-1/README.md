@@ -87,7 +87,7 @@ However, finding, extracting and reading that data is where things get complicat
 ## Why?
 
 This is (and should be) a reoccuring question. Why learn all of this? What's the point, and who benefits from a robust analyst community?\
-In short, everyone. Protocols rely on insights into how their users act, blockchains want to understand operational health of their ecosystem, investors need to reliably know, **etc. add some more here**
+In short, everyone. It’s essential information for these blockchains and protocols. Providing metrics into what their users are doing, parsing out genuine activity from bots, tracking marketplace metrics, etc. That is all necessary to direct engineering resources to the right areas, assess the health of their network, view growth or contraction in areas, etc. All of this, especially in a bear.
 
 There is a robust ecosystem of analysts and opportunity for work in the crypto space. For a nice overview of what's available, check out this board by Flipside Cantina member, [pinehearst](https://twitter.com/pinehearst\_).
 
