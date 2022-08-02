@@ -7,8 +7,6 @@ description: >-
 
 # Segment 1
 
-
-
 ## Recording
 
 {% embed url="https://www.youtube.com/watch?v=Icx8jJLrUA8" %}
