@@ -35,6 +35,7 @@
       * [Aggregations, Lite](analyst-resources/blockchain-data-101/segment-1/sql-basics/aggregations-lite.md)
     * [Analytics Showcase](analyst-resources/blockchain-data-101/segment-1/analytics-showcase.md)
     * [Assessment 1](analyst-resources/blockchain-data-101/segment-1/assessment-1.md)
+  * [FAQ](analyst-resources/blockchain-data-101/faq.md)
 
 ## Data Curation
 
