@@ -27,9 +27,9 @@ Additionally, members of the course operations team will hold Office Hours weekl
 
 Finally, please actively use the #course-chat channel in MetricsDAO's Discord, under the Education section, to help each other out!
 
-### [FAQ](https://app.gitbook.com/o/x38XyrjrJ4RgJMWHzzYs/s/S3V2Pnr0gJCi6qOnph2I/\~/changes/wwpBwiJEWHtGX1ymCQAa/analyst-resources/blockchain-data-101/faq)
+### ****[**FAQ**](https://docs.metricsdao.xyz/analyst-resources/blockchain-data-101/faq)****
 
-
+****
 
 ## Course Outline
 
