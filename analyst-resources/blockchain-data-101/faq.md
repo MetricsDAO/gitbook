@@ -10,7 +10,7 @@ description: Blockchain Data 101 Course FAQ
 2. Complete the weekly **Quizzes**! A passing score of 7/10 correct answers or higher will earn you an awesome POAP for the week.&#x20;
    * Quiz 1 is [here](https://s2w1pibxi3c.typeform.com/metricsdao)&#x20;
    * Typeform links for upcoming quizzes will be shared on MetricsDAO [Discord](http://discord.gg/metrics) in the [#course-faq](https://discord.com/channels/902943676685230100/996143485390426162) channel.&#x20;
-3. Join weekly live **Office Hours** on MetricsDAO [Discord](http://discord.gg/metrics) (Wednesdays at 7pm ET). Office hours links and reminders are in the [#course-faq](https://discord.com/channels/902943676685230100/996143485390426162) channel.&#x20;
+3. Join weekly live **Office Hours** on MetricsDAO [Discord](http://discord.gg/metrics) (Wednesdays at 7pm ET), or read the recap [below](https://docs.metricsdao.xyz/analyst-resources/blockchain-data-101/faq#what-are-office-hours). Office hours event links and reminders are posted regularly in the [#course-faq](https://discord.com/channels/902943676685230100/996143485390426162) Discord channel.&#x20;
 4. Discuss and ask questions on [Discord](http://discord.gg/metrics) in [#course-chat](https://discord.com/channels/902943676685230100/992490932412883064) with the community of learners!&#x20;
 
 #### Is the course recorded?&#x20;
@@ -47,7 +47,7 @@ We recommend completing the quiz before the next course session! But if you are 
 
 Office Hours is a weekly live session on Discord with the operations team, mentors, and fellow analysts where you can ask Blockchain Data 101 course questions and participate in a course discussion (Wednesdays 7pm ET):
 
-* Attend [Week 1 Office Hours](https://discord.com/events/902943676685230100/1003671056697020506)
+* Week 1 Office Hours [recap](https://docs.metricsdao.xyz/analyst-resources/blockchain-data-101/segment-1/office-hours-1)
 
 #### Where can I find help with the course materials or quiz?&#x20;
 
