@@ -41,7 +41,7 @@ We will be compiling vetted resources that students can dive into, on their own 
 
 See more on the nested page, [here](../../get-involved/blockchain-data-101/segment-0.md).
 
-### [Segment 1 - The Basics](./#segment-1-the-basics)
+### [Segment 1 - The Basics](segment-1/)
 
 Establishing foundational knowledge
 
