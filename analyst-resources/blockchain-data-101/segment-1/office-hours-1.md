@@ -49,7 +49,11 @@ A: This can be an advanced topic! A starting point can be to explore relevant do
 
 #### Q: Is there a diagram showing relationships (primary & foreign keys) between separate data tables (e.g. in Flipside)?
 
-A: We are looking into this. 📚
+A: (Updated on August 8, 2022) Currently, Flipside table relationships can be explored by accessing their _dbt_ data models => Lineage Graph view. While Lineage graphs can look complex, they provide insight into relationships between tables.
+
+* In Flipside Crypto's data [documentation](https://docs.flipsidecrypto.com/our-data/tables), you can find the blockchain table(s) you are interested in, and follow the link for that chain's Flipside data model.&#x20;
+  * E.g. the Ethereum tables [docs](https://docs.flipsidecrypto.com/our-data/tables/table-schemas) will link to the Ethereum [dbt data model](https://flipsidecrypto.github.io/ethereum-models/#!/overview/ethereum\_models).
+* Select a table from the dbt docs' left-side menu. A teal circle in the bottom right corner will open a Lineage Graph that illustrates between-table relationships.
 
 ### SQL Questions
 
