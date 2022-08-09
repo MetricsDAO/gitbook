@@ -2,6 +2,8 @@
 description: >-
   An open course that teaches students how to understand and analyze blockchain
   data using SQL.
+cover: ../../.gitbook/assets/desktop-header(1).jpg
+coverY: -471.4150453955901
 layout: landing
 ---
 
