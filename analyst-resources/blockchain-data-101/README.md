@@ -48,6 +48,7 @@ Establishing foundational knowledge
 * Blockchain, distilled, and what is Ethereum?
 * Data
   * What tools are out there?
+    * We will primarily use [Flipside](https://app.flipsidecrypto.com) and [Dune](https://dune.com/). I suggest signing up for both websites (for free) and familiarizing yourself with them!
   * Accessing curated datasets and using SQL to explore blockchain data.
 * Why do this kind of work?
   * The analytics ecosystem and work2earn.
