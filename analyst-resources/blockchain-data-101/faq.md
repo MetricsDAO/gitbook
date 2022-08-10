@@ -7,8 +7,10 @@ description: Blockchain Data 101 Course FAQ
 #### How can I become a student in the Blockchain Data 101 course?&#x20;
 
 1. Tune into a live **Course Session** on the [MetricsDAO YouTube channel](https://www.youtube.com/channel/UCDyRizBgObJB-sNuwEPlL1g) (Mondays at 4pm ET in August 2022) or watch the replay on YouTube.&#x20;
-2. Complete the weekly **Quizzes**! A passing score of 7/10 correct answers or higher will earn you an awesome POAP for the week.&#x20;
-   * Quiz 1 is [here](https://s2w1pibxi3c.typeform.com/metricsdao)&#x20;
+2. Complete the weekly **Quizzes**!&#x20;
+   * A passing score of 7/10 correct answers or higher will earn you an awesome POAP for the week and 10 xMETRIC (read more about xMETRIC token [here](https://blog.metricsdao.xyz/xmetric/)).&#x20;
+   * Quiz 1 is [here](https://s2w1pibxi3c.typeform.com/metricsdao).&#x20;
+   * Quiz 2 is [here](https://s2w1pibxi3c.typeform.com/metricsdaoquiz2).
    * Typeform links for upcoming quizzes will be shared on MetricsDAO [Discord](http://discord.gg/metrics) in the [#course-faq](https://discord.com/channels/902943676685230100/996143485390426162) channel.&#x20;
 3. Join weekly live **Office Hours** on MetricsDAO [Discord](http://discord.gg/metrics) (Wednesdays at 7pm ET), or read the recap [below](https://docs.metricsdao.xyz/analyst-resources/blockchain-data-101/faq#what-are-office-hours). Office hours event links and reminders are posted regularly in the [#course-faq](https://discord.com/channels/902943676685230100/996143485390426162) Discord channel.&#x20;
 4. Discuss and ask questions on [Discord](http://discord.gg/metrics) in [#course-chat](https://discord.com/channels/902943676685230100/992490932412883064) with the community of learners!&#x20;
@@ -17,7 +19,8 @@ description: Blockchain Data 101 Course FAQ
 
 * Yes, live YouTube sessions are recorded! Replay is available on the [MetricsDAO YouTube channel](https://www.youtube.com/channel/UCDyRizBgObJB-sNuwEPlL1g):
   * Segment 1 [replay](https://www.youtube.com/watch?v=Icx8jJLrUA8\&t=920s)
-* Shortly after each session, you can also find session notes on the course Docs page:
+  * Segment 2 [replay](https://www.youtube.com/watch?v=OAxQ-pOFf\_E)
+* Soon after each session, you can also find session notes on the course Docs page:
   * Segment 1 [notes](https://docs.metricsdao.xyz/analyst-resources/blockchain-data-101/segment-1)
 
 #### How long is each session?&#x20;
@@ -33,11 +36,18 @@ Each live course session & office hours meeting are scheduled to last for 1 hour
 
 You will have a chance to earn a POAP after each session. To receive a POAP, complete the weekly quiz with a score of 7/10 or higher!
 
+#### How do I earn xMETRIC in the course?
+
+Everyone who passes the weekly quizzes with a score of 7/10 or higher will also receive 10 xMETRIC!
+
+xMETRIC is a beta-testing token recently launched by MetricsDAO. It represents your early MetricsDAO participation on-chain, and will unlock token-gated roles and opportunities. Learn more about xMETRIC in this [post](https://blog.metricsdao.xyz/xmetric/).
+
 #### Where can I find the quiz?&#x20;
 
 * Quiz 1 is [here](https://s2w1pibxi3c.typeform.com/metricsdao)&#x20;
+* Quiz 2 is [here](https://s2w1pibxi3c.typeform.com/metricsdaoquiz2)
 * You can find the Typeform quiz links for future weeks on MetricsDAO Discord. The links will be shared in the [#course-faq](https://discord.com/channels/902943676685230100/996143485390426162) channel.&#x20;
-* Be sure not to close the quiz tab until you’ve submitted your quiz, and (for passing submissions) provided your eth address and contact details for the POAP.
+* Be sure not to close the quiz tab until you’ve submitted your quiz, and (for passing submissions) provided your eth address and contact details for the POAP and xMETRIC.
 
 #### When is the quiz deadline?&#x20;
 
