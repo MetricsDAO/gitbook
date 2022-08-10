@@ -12,7 +12,7 @@ Run the below query with and without `DISTINCT`, do we get the same number of tr
 SELECT 
     COUNT(DISTINCT tx_hash) AS unique_transactions
 FROM ethereum.core.ez_dex_swaps
-WHERE block_timestamp BETWEEN '2022-06-01' AND '2022-06-30'
+WHERE block_timestamp BETWEEN::DATE '2022-06-01' AND '2022-06-30'
   AND pool_name IN
       (
         'ENS-WETH LP',
@@ -34,12 +34,12 @@ SELECT
     SUM(platform_fee) AS total_platform_fee,
     SUM(platform_fee_usd) AS total_platform_fees_usd
 FROM ethereum.core.ez_nft_sales
-WHERE block_timestamp BETWEEN '2022-06-01' AND '2022-06-30'
+WHERE block_timestamp::DATE BETWEEN '2022-06-01' AND '2022-06-30'
     AND platform_name = 'opensea';
 ```
 
 {% hint style="warning" %}
-Ok so we have $11mm in US and.... a massive number for native token fees. Why is this? We should check the [table documentation](https://docs.flipsidecrypto.com/our-data/tables/ethereum\_core-tables) for the `total_platform_fee` column to see what we're working with in here.
+Ok so we have around $12mm in USD and.... a massive number for native token fees. Why is this? We should check the [table documentation](https://docs.flipsidecrypto.com/our-data/tables/ethereum\_core-tables) for the `total_platform_fee` column to see what we're working with in here.
 
 Is there anything that leads us to question our data or change approach?
 {% endhint %}
@@ -75,7 +75,7 @@ WHERE block_timestamp BETWEEN '2022-06-01' AND '2022-06-30'
 
 </details>
 
-## Metrics: AVG, MIN, MAX
+## Metrics: AVG, MIN, MAX, MEDIAN
 
 SQL can also easily calculate some basic metrics over a result set, like the average, min and max.
 
@@ -83,10 +83,11 @@ SQL can also easily calculate some basic metrics over a result set, like the ave
 SELECT 
     SUM(platform_fee) AS total_platform_fee,
     AVG(platform_fee) AS avg_platform_fee,
+    MEDIAN(platform_fee) AS median_platform_fee,
     MIN(platform_fee) AS min_platform_fee,
     MAX(platform_fee) AS max_platform_fee
 FROM ethereum.core.ez_nft_sales
-WHERE block_timestamp BETWEEN '2022-06-01' AND '2022-06-30'
+WHERE block_timestamp::DATE BETWEEN '2022-06-01' AND '2022-06-30'
     AND platform_name = 'opensea'
     AND currency_symbol = 'ETH';
 ```

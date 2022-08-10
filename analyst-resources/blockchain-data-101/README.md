@@ -31,8 +31,6 @@ Finally, please actively use the #course-chat channel in MetricsDAO's Discord, u
 
 ### ****[**FAQ**](https://docs.metricsdao.xyz/analyst-resources/blockchain-data-101/faq)****
 
-****
-
 ## Course Outline
 
 _The following is intended to set expectations about the content of this course, while the content covered will go into more depth than what is listed._
@@ -42,6 +40,12 @@ _The following is intended to set expectations about the content of this course,
 We will be compiling vetted resources that students can dive into, on their own time, to get up to speed with the main topics that this course covers: blockchains and crypto, data analysis using SQL, working in web3, etc.
 
 See more on the nested page, [here](../../get-involved/blockchain-data-101/segment-0.md).
+
+Finally, find some MetricsDAO resources here:
+
+* [Submission Showcase](https://metricsdao.xyz/showcase)
+* [Active Bounties](https://metricsdao.notion.site/metricsdao/Bounty-Programs-d4bac7f1908f412f8bf4ed349198e5fe)
+* [What is xMETRIC?](https://blog.metricsdao.xyz/xmetric/)
 
 ### [Segment 1 - The Basics](segment-1/)
 
@@ -55,7 +59,7 @@ Establishing foundational knowledge
 * Why do this kind of work?
   * The analytics ecosystem and work2earn.
 
-### Segment 2 - Building Blocks
+### [Segment 2 - Building Blocks](segment-2/)
 
 Expand technical abilities with live use-cases.
 
@@ -72,7 +76,8 @@ Introducing intermediate SQL techniques and diving into (more) raw transaction d
 
 * SQL Aggregations - benefits and pitfalls
 * Data, uncurated
-  * Moving beyond `ez_` tables.
+  * Moving beyond `ez_` tables working with JSON message objects.
+  * Building on Dune.
 * Professional Output
   * Presentation worthy visualizations.
   * Coherent analysis and clean writing.

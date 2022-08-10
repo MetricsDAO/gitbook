@@ -210,11 +210,23 @@ Instead of writing something like `where date >= tuesday and date <= thursday`, 
 SELECT 
     *
 FROM ethereum.core.ez_dex_swaps
-WHERE block_timestamp BETWEEN '2022-06-01' AND '2022-06-03'
+WHERE block_timestamp::DATE BETWEEN '2022-06-01' AND '2022-06-03'
 LIMIT 100;
 ```
 
 [Link to Query](https://app.flipsidecrypto.com/velocity/queries/12956021-1de3-4325-80fb-146626378811)
+
+{% hint style="info" %}
+Note the new `::DATE` added to `block_timestamp` in the where clause. This is called typecasting and what's happening here is that we are taking `block_timestamp` which is a [`timestamp`](https://docs.snowflake.com/en/sql-reference/data-types-datetime.html#timestamp) and we are changing that to a [`date`](https://docs.snowflake.com/en/sql-reference/data-types-datetime.html#date).
+
+`BETWEEN` _is_ inclusive, but when we compare a timestamp to a date, we run into some issues. The second date is interpreted as midnight _when the day starts_.
+
+In practice, this takes a timestamp (like `2022-08-01T14:00:00Z` or `2022-08-01T22:00:00Z`) and casts both those to just the date, i.e. `2022-08-01`.
+
+Take a look at [this example query](https://app.flipsidecrypto.com/velocity/queries/7361f017-6f5e-4b30-a9ac-f8f49ad8ea6f) and run the where clause both ways, with and without the typecast. Notice how the result set differs?
+
+If you _really_ want to get into the weeds with how between, timestamp, and dates interact check out [this post](https://sqlblog.org/2009/10/16/bad-habits-to-kick-mis-handling-date-range-queries).
+{% endhint %}
 
 ### NOT
 
