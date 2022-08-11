@@ -124,6 +124,10 @@ Each logical condition does not need to refer to the same column. Say we wanted 
 How would this look in SQL? Try writing it out using [Flipside](https://flipside.new) or [Dune](https://dune.com/browse/dashboards).
 {% endhint %}
 
+**‼️ Remember PEMDAS? Conditional logic has an order of operations, as well!**
+
+{% embed url="https://www.bennadel.com/blog/126-sql-and-or-order-of-operations.htm" %}
+
 ### LIKE
 
 Sometimes we don't know the full term (maybe it's an event/method name) or there are multiple identifiers with a commonality.
