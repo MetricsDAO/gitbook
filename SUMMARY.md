@@ -39,6 +39,7 @@
   * [Segment 2](analyst-resources/blockchain-data-101/segment-2/README.md)
     * [SQL, Aggregated](analyst-resources/blockchain-data-101/segment-2/sql-aggregated.md)
     * [Assessment 2](analyst-resources/blockchain-data-101/segment-2/assessment-2.md)
+    * [Office Hours 2](analyst-resources/blockchain-data-101/segment-2/office-hours-2.md)
   * [FAQ](analyst-resources/blockchain-data-101/faq.md)
 
 ## Data Curation
