@@ -65,7 +65,7 @@ We recommend completing the quiz before the next course session! But if you are 
 Office Hours is a weekly live session on Discord with the operations team, mentors, and fellow analysts where you can ask Blockchain Data 101 course questions and participate in a course discussion (Wednesdays 7pm ET):
 
 * Week 1 Office Hours [recap](https://docs.metricsdao.xyz/analyst-resources/blockchain-data-101/segment-1/office-hours-1)
-* Week 2 Office Hours [recap](https://docs.metricsdao.xyz/analyst-resources/blockchain-data-101/segment-1/office-hours-2)
+* Week 2 Office Hours [recap](https://docs.metricsdao.xyz/analyst-resources/blockchain-data-101/segment-2/office-hours-2)
 
 #### Where can I find help with the course materials or quiz?&#x20;
 
