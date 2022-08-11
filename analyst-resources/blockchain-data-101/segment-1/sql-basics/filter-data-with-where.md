@@ -104,6 +104,8 @@ LIMIT 100;
 
 Notice anything else different here? We have to add `(`parentheses`)` around the clause in which we want `OR` to apply. This is because, ultimately, the filter we apply to the query is still comprised of two parts, even though we are adding a new condition.
 
+**‼️ Remember PEMDAS? Conditional logic has an order of operations, as well!**
+
 One way to look at is the following. Each side of the table (left and right) is a side of the `AND` clause, and we only want records where both evaluate to true.
 
 The `from_address` will evaluate to true in two instances, where it equals either of those addresses. The `block_timestamp` part of the clause evaluates to true only where the date is greater than, or equal to, July 28th, 2022.
@@ -122,11 +124,9 @@ Each logical condition does not need to refer to the same column. Say we wanted 
 
 {% hint style="success" %}
 How would this look in SQL? Try writing it out using [Flipside](https://flipside.new) or [Dune](https://dune.com/browse/dashboards).
+
+Still confused? Take a look at [this page](https://www.bennadel.com/blog/126-sql-and-or-order-of-operations.htm) for further discussion on AND / OR.
 {% endhint %}
-
-**‼️ Remember PEMDAS? Conditional logic has an order of operations, as well!**
-
-{% embed url="https://www.bennadel.com/blog/126-sql-and-or-order-of-operations.htm" %}
 
 ### LIKE
 
@@ -264,3 +264,5 @@ So, we have learned a lot of ways to filter data an look through the tables at t
 {% embed url="https://mode.com/sql-tutorial/sql-operators/" %}
 
 {% embed url="https://mode.com/sql-tutorial/sql-logical-operators/" %}
+
+{% embed url="https://www.bennadel.com/blog/126-sql-and-or-order-of-operations.htm" %}
