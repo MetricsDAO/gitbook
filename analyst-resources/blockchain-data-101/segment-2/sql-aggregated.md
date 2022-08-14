@@ -345,7 +345,7 @@ sales AS (
 ),
 mints AS (
   SELECT
-      date_trunc('d', block_timestamp) aASs _date,
+      date_trunc('d', block_timestamp) AS _date,
       nft_address,
       SUM(mint_price_eth) AS total_eth_mint
   FROM ethereum.core.ez_nft_mints
