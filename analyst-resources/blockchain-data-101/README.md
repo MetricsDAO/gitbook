@@ -70,14 +70,26 @@ Expand technical abilities with live use-cases.
 * Domain knowledge - understanding your subject
 * Exploring data through visual representations
 
-### Segment 3 - Leveling Up
+### [Segment 3 - Leveling Up](segment-3/)
 
 Introducing intermediate SQL techniques and diving into (more) raw transaction data.
 
 * SQL Aggregations - benefits and pitfalls
 * Data, uncurated
   * Moving beyond `ez_` tables working with JSON message objects.
-  * Building on Dune.
+
+### Segment 4 - Dune
+
+Upcoming: August 22nd, 6pm Eastern / 10pm UTC
+
+Expert session led by Dune Wizard chuxin.eth
+
+### Segment 5 - Tying it all together
+
+Upcoming: August 29th, 4pm Eastern / 8pm UTC
+
+* Parsing JSON, really diving into events and logs.
 * Professional Output
   * Presentation worthy visualizations.
   * Coherent analysis and clean writing.
+* Course recap
