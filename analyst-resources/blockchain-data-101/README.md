@@ -82,14 +82,14 @@ Introducing intermediate SQL techniques and diving into (more) raw transaction d
 
 Upcoming: August 22nd, 6pm Eastern / 10pm UTC
 
-Expert session led by Dune Wizard chuxin.eth
+Expert session led by Dune Wizard [chuxin.eth](https://twitter.com/chuxin\_h)
 
 ### Segment 5 - Tying it all together
 
-Upcoming: August 29th, 4pm Eastern / 8pm UTC
+Upcoming: September 1st, 4pm Eastern / 8pm UTC
 
-* Parsing JSON, really diving into events and logs.
-* Professional Output
+* Parsing JSON, final dive into events and logs.
+* Professional Output, led by [GJ](https://twitter.com/GJFlannery19/)
   * Presentation worthy visualizations.
   * Coherent analysis and clean writing.
 * Course recap
