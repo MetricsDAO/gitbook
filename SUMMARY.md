@@ -41,6 +41,8 @@
     * [Assessment 2](analyst-resources/blockchain-data-101/segment-2/assessment-2.md)
     * [Office Hours 2](analyst-resources/blockchain-data-101/segment-2/office-hours-2.md)
   * [Segment 3](analyst-resources/blockchain-data-101/segment-3/README.md)
+    * [Recap, ez\_ mode](analyst-resources/blockchain-data-101/segment-3/recap-ez\_-mode.md)
+    * [JSON](analyst-resources/blockchain-data-101/segment-3/json.md)
     * [Assessment 3](analyst-resources/blockchain-data-101/segment-3/assessment-3.md)
   * [FAQ](analyst-resources/blockchain-data-101/faq.md)
 
