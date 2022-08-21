@@ -44,6 +44,7 @@
     * [Recap, ez\_ mode](analyst-resources/blockchain-data-101/segment-3/recap-ez\_-mode.md)
     * [JSON](analyst-resources/blockchain-data-101/segment-3/json.md)
     * [Assessment 3](analyst-resources/blockchain-data-101/segment-3/assessment-3.md)
+    * [Office Hours 3](analyst-resources/blockchain-data-101/segment-3/office-hours-3.md)
   * [FAQ](analyst-resources/blockchain-data-101/faq.md)
 
 ## Data Curation
