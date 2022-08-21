@@ -25,7 +25,8 @@ LOWER('0xbf3c19fc31cf921085bac089053cf611629d4fbc6002a18eb0da710a8b0ae5be')
 
 A: One approach can be to use CTEs to find NFT projects’ first mint dates, and then only look at projects where minting began within a recent period of your choosing, e.g. over the past week:
 
-<pre class="language-sql"><code class="lang-sql">WITH launch_date AS ( 
+```sql
+WITH launch_date AS ( 
   SELECT 
     min(block_timestamp) AS first_tx_date, 
     project_name 
@@ -45,17 +46,20 @@ SELECT
   /* , [add project metrics that you are interested in for your analysis:
       e.g. number of mint transactions, number of minter addresses, 
       amount spent, gas, number of tokens (token_id) minted] */   
-         
-<strong>FROM ethereum.core.ez_nft_mints
-</strong><strong>
-</strong>WHERE project_name in (SELECT DISTINCT project_name from new_projects) 
+      
+FROM ethereum.core.ez_nft_mints         
+
+WHERE project_name in (SELECT DISTINCT project_name from new_projects) 
       /* AND [insert any filters you are interested in, 
             e.g. block_timestamp::date between, project_name is not null, etc.] */   
                         
 GROUP BY project_name 
 
 ORDER BY unique_mint_txs /* [or instead choose one of your other metrics of interest
-          from the select statement: e.g. volume of eth or usd spent, etc.] */ DESC</code></pre>
+          from the select statement: e.g. volume of eth or usd spent, etc.] */ DESC
+
+/* optional: limit the number of results e.g. LIMIT 10 */          
+```
 
 #### Q: For Educational practice bounty #2, how can I isolate NFTs of by project (e.g. Uniswap NFTs, other NFTs)?&#x20;
 

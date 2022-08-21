@@ -86,7 +86,7 @@ Office Hours is a weekly live session on Discord with the operations team, mento
 
 * Week 1 Office Hours [recap](https://docs.metricsdao.xyz/analyst-resources/blockchain-data-101/segment-1/office-hours-1)
 * Week 2 Office Hours [recap](https://docs.metricsdao.xyz/analyst-resources/blockchain-data-101/segment-2/office-hours-2)
-* Week 3 Office Hours will take place on Friday, August 19th, 2022 at 6pm ET: add to calendar or sign up for a notification [here](https://discord.com/events/902943676685230100/1008737401088262185)
+* Week 3 Office Hours [recap](https://docs.metricsdao.xyz/analyst-resources/blockchain-data-101/segment-3/office-hours-3)
 
 #### Where can I find help with the course materials or quiz?&#x20;
 
