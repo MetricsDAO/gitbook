@@ -10,8 +10,8 @@ description: Blockchain Data 101 Course FAQ
    * Segment 1 [replay](https://docs.metricsdao.xyz/analyst-resources/blockchain-data-101/segment-1)
    * Segment 2 [replay](https://docs.metricsdao.xyz/analyst-resources/blockchain-data-101/segment-2)
    * Segment 3 [replay](https://docs.metricsdao.xyz/analyst-resources/blockchain-data-101/segment-3)
-   * Segment 4: Dune Analytics with Dune wizard Chuxin will [stream live](https://www.youtube.com/c/MetricsDAO) on Monday, August 22nd, 2022, at 6pm ET
-   * Segment 5: Tying It All Together, with GJ on producing professional outputs, will [stream live](https://www.youtube.com/c/MetricsDAO) on Thursday, September 1st, 2022, at 4pm ET
+   * Segment 4 [livestream](https://youtu.be/ahBFD\_eQvKU): This session on Dune Analytics with Dune wizard Chuxin will stream live on Monday, August 22nd, 2022, at 6pm ET
+   * Segment 5: Tying It All Together, with GJ on producing professional outputs, will stream live on Thursday, September 1st, 2022, at 4pm ET
 2. Complete the weekly **Quizzes**!&#x20;
    * A passing score of 7/10 correct answers or higher will earn you an awesome POAP for the week and 10 xMETRIC (read more about xMETRIC token [here](https://blog.metricsdao.xyz/xmetric/) and about viewing your xMETRIC balance [here](https://blog.metricsdao.xyz/xmetric-balance/)).&#x20;
    * Quiz 1 is [here](https://s2w1pibxi3c.typeform.com/metricsdao). A few days after completing Quiz 1, you can claim your first course POAP [here](https://poap.delivery/blockchainanalytics1).
@@ -29,8 +29,8 @@ description: Blockchain Data 101 Course FAQ
   * Segment 1 [replay](https://docs.metricsdao.xyz/analyst-resources/blockchain-data-101/segment-1)
   * Segment 2 [replay](https://docs.metricsdao.xyz/analyst-resources/blockchain-data-101/segment-2)
   * Segment 3 [replay](https://docs.metricsdao.xyz/analyst-resources/blockchain-data-101/segment-3)
-  * Segment 4: Dune Analytics with Dune wizard Chuxin will [stream live](https://www.youtube.com/c/MetricsDAO) on Monday, August 22nd, 2022, at 6pm ET
-  * Segment 5: Tying It All Together, with GJ on producing professional outputs, will [stream live](https://www.youtube.com/c/MetricsDAO) on Thursday, September 1st, 2022, at 4pm ET
+  * Segment 4 [livestream](https://youtu.be/ahBFD\_eQvKU): This session on Dune Analytics with Dune wizard Chuxin will stream live on Monday, August 22nd, 2022, at 6pm ET
+  * Segment 5: Tying It All Together, with GJ on producing professional outputs, will stream live on Thursday, September 1st, 2022, at 4pm ET
 * Soon after each session, you can also find session notes on the course Docs page:
   * Segment 1 [notes](https://docs.metricsdao.xyz/analyst-resources/blockchain-data-101/segment-1)
   * Segment 2 [notes](https://docs.metricsdao.xyz/analyst-resources/blockchain-data-101/segment-2/sql-aggregated)&#x20;
