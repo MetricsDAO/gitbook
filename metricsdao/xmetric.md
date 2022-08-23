@@ -53,10 +53,10 @@ Some bounties are gated and only claimable to participants who hold more than 2,
 Analytics, tools and content are peer reviewed by a dynamic network of top analysts in order to validate and score results. This component is gated to participants, and requires a certain amount of xMETRIC for someone to become a Reviewer.
 
 * xMETRIC Needed to participate: 2000&#x20;
-* xMETRIC Reward per submission reviewed: 50
+* xMETRIC Reward per submission reviewed: 50L
 
-#### GodMode NFT Raffle
+**Leaderboard**
 
-As soon as you earn your first xMETRIC, you’ll be added to the MetricsDAO’s leaderboard. The more you earn, the higher your rank. The top 100 xMETRIC holders will be entered into a raffle to win [this GodMode NFT](https://opensea.io/assets/ethereum/0x903e2f5d42ee23156d548dd46bb84b7873789e44/858), which gives you unlimited access to Flipside Crypto’s bounties ([learn more here](https://godmode.flipsidecrypto.xyz/))!
+As soon as you earn your first xMETRIC, you’ll be added to the MetricsDAO’s leaderboard. The more you earn, the higher your rank. The leaderboard can be found here: [https://metricsdao.xyz/xmetric-leaderboard](https://metricsdao.xyz/xmetric-leaderboard)
 
 \*\*_As part of MetricsDAO’s testing and analysis of the functionality and use of its protocol, xMETRIC tokens may be delivered to the blockchain wallet address that you have connected to the protocol.  xMETRIC tokens will be delivered and used solely for testing and experimental purposes.  xMETRIC tokens are not now, and will never be, transferrable, nor do they confer any rights whatsoever to holders of xMETRIC tokens (including but not limited to voting rights; governance rights; or rights to any profits, losses or distributions of any person, organization, DAO or other entity or group).  In addition, please note that xMETRIC tokens are not METRIC tokens, and do not represent any right or interest in or to METRIC tokens or to any other tokens or assets.  But please enjoy the bragging rights that xMETRIC tokens provide you as an immutable record of your early participation in MetricsDAO testing!_
