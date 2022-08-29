@@ -45,6 +45,9 @@
     * [JSON](analyst-resources/blockchain-data-101/segment-3/json.md)
     * [Assessment 3](analyst-resources/blockchain-data-101/segment-3/assessment-3.md)
     * [Office Hours 3](analyst-resources/blockchain-data-101/segment-3/office-hours-3.md)
+  * [Segment 4](analyst-resources/blockchain-data-101/segment-4/README.md)
+    * [SQL in Dune V2 vs V1](analyst-resources/blockchain-data-101/segment-4/sql-in-dune-v2-vs-v1.md)
+    * [Assessment 4](analyst-resources/blockchain-data-101/segment-4/assessment-4.md)
   * [FAQ](analyst-resources/blockchain-data-101/faq.md)
 
 ## Data Curation

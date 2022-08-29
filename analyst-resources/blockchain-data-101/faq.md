@@ -10,17 +10,17 @@ description: Blockchain Data 101 Course FAQ
    * Segment 1 [replay](https://docs.metricsdao.xyz/analyst-resources/blockchain-data-101/segment-1)
    * Segment 2 [replay](https://docs.metricsdao.xyz/analyst-resources/blockchain-data-101/segment-2)
    * Segment 3 [replay](https://docs.metricsdao.xyz/analyst-resources/blockchain-data-101/segment-3)
-   * Segment 4 [livestream](https://youtu.be/ahBFD\_eQvKU): This session on Dune Analytics with Dune wizard Chuxin will stream live on Monday, August 22nd, 2022, at 6pm ET
+   * Segment 4 [replay](https://youtu.be/ahBFD\_eQvKU)
    * Segment 5: Tying It All Together, with GJ on producing professional outputs, will stream live on Thursday, September 1st, 2022, at 4pm ET
 2. Complete the weekly **Quizzes**!&#x20;
    * A passing score of 7/10 correct answers or higher will earn you an awesome POAP for the week and 10 xMETRIC (read more about xMETRIC token [here](https://blog.metricsdao.xyz/xmetric/) and about viewing your xMETRIC balance [here](https://blog.metricsdao.xyz/xmetric-balance/)).&#x20;
-   * Quiz 1 is [here](https://s2w1pibxi3c.typeform.com/metricsdao). A few days after completing Quiz 1, you can claim your first course POAP [here](https://poap.delivery/blockchainanalytics1).
-   * Quiz 2 is [here](https://s2w1pibxi3c.typeform.com/metricsdaoquiz2).
-   * Quiz 3 is [here](https://docs.metricsdao.xyz/analyst-resources/blockchain-data-101/segment-3/assessment-3).
-   * Typeform links for upcoming quizzes will be shared on MetricsDAO [Discord](http://discord.gg/metrics) in the [#course-faq](https://discord.com/channels/902943676685230100/996143485390426162) channel.&#x20;
-3. In week 3, complete [**Educational Bounties**](https://metricsdao.notion.site/metricsdao/Bounty-Programs-d4bac7f1908f412f8bf4ed349198e5fe?p=8e6be1bfef4a4e0f87887d857b7dad96\&pm=c)! These are for learning and are not paid nor given a peer review score, but if you submit by August 22nd, 2022 11:59PM ET you will receive 100 [xMETRIC](https://blog.metricsdao.xyz/xmetric-balance/).
+   * Quiz 1 is [here](https://s2w1pibxi3c.typeform.com/metricsdao). A few days after successfully completing Quiz 1, you can claim your first course POAP [here](https://poap.delivery/blockchainanalytics1).
+   * Quiz 2 is [here](https://s2w1pibxi3c.typeform.com/metricsdaoquiz2). A few days after successfully completing Quiz 2, you can claim the POAP [here](https://poap.delivery/mdao-workshop-blockchain-analytics-2/).
+   * Quiz 3 is [here](https://docs.metricsdao.xyz/analyst-resources/blockchain-data-101/segment-3/assessment-3)
+   * Quiz 4 is [here](https://docs.metricsdao.xyz/analyst-resources/blockchain-data-101/segment-4/assessment-4)
+3. In weeks 3 & 4, complete [**Educational Bounties**](https://metricsdao.notion.site/metricsdao/Bounty-Programs-d4bac7f1908f412f8bf4ed349198e5fe?p=8e6be1bfef4a4e0f87887d857b7dad96\&pm=c)! These bounty questions are for your learning and are not paid nor given a peer review score. Submit each round's bounties by the deadline to receive 100 [xMETRIC](https://blog.metricsdao.xyz/xmetric-balance/), or continue working on the questions at your own pace.
 4. Join weekly live **Office Hours** on MetricsDAO [Discord](http://discord.gg/metrics). You can also read the office hours recaps [below](https://docs.metricsdao.xyz/analyst-resources/blockchain-data-101/faq#what-are-office-hours). Office hours event links and reminders are posted regularly in the [#course-faq](https://discord.com/channels/902943676685230100/996143485390426162) Discord channel.&#x20;
-   * The Office Hours Week 4 session will be on Friday, August 26th, 2022 at 6pm ET.&#x20;
+   * The Office Hours Week 4 session is on Friday, August 26th, 2022 at 6pm ET.&#x20;
 5. Discuss and ask questions on [Discord](http://discord.gg/metrics) in [#course-chat](https://discord.com/channels/902943676685230100/992490932412883064) with the community of learners!&#x20;
 
 #### Is the course recorded?&#x20;
@@ -29,12 +29,13 @@ description: Blockchain Data 101 Course FAQ
   * Segment 1 [replay](https://docs.metricsdao.xyz/analyst-resources/blockchain-data-101/segment-1)
   * Segment 2 [replay](https://docs.metricsdao.xyz/analyst-resources/blockchain-data-101/segment-2)
   * Segment 3 [replay](https://docs.metricsdao.xyz/analyst-resources/blockchain-data-101/segment-3)
-  * Segment 4 [livestream](https://youtu.be/ahBFD\_eQvKU): This session on Dune Analytics with Dune wizard Chuxin will stream live on Monday, August 22nd, 2022, at 6pm ET
+  * Segment 4 [replay](https://youtu.be/ahBFD\_eQvKU)
   * Segment 5: Tying It All Together, with GJ on producing professional outputs, will stream live on Thursday, September 1st, 2022, at 4pm ET
 * Soon after each session, you can also find session notes on the course Docs page:
   * Segment 1 [notes](https://docs.metricsdao.xyz/analyst-resources/blockchain-data-101/segment-1)
   * Segment 2 [notes](https://docs.metricsdao.xyz/analyst-resources/blockchain-data-101/segment-2/sql-aggregated)&#x20;
   * Segment 3 [notes](https://docs.metricsdao.xyz/analyst-resources/blockchain-data-101/segment-3/recap-ez\_-mode)
+  * Segment 4 [notes and dashboard](https://docs.metricsdao.xyz/analyst-resources/blockchain-data-101/segment-4/sql-in-dune-v2-vs-v1)
 
 #### How long is each session?&#x20;
 
@@ -49,17 +50,20 @@ Each live course session & office hours meeting are scheduled to last for 1 hour
 
 You will have a chance to earn a POAP after each session. To be eligible for the POAP, complete the weekly quiz with a score of 7/10 or higher!
 
-If you passed Quiz 1 successfully (scored a 7 or more out of 10), visit [**this link**](https://poap.delivery/blockchainanalytics1) **a few days after completing the quiz**, and claim your POAP! Be sure to use the same Ethereum address that you submitted in the Quiz 1 form.&#x20;
+If you passed a quiz successfully (scored a 7 or more out of 10), please wait **a few days after completing the quiz**, and claim your POAP at the link:
+
+* [Week 1](https://poap.delivery/blockchainanalytics1)
+* [Week 2](https://poap.delivery/mdao-workshop-blockchain-analytics-2/)
 
 Announcement about claiming each week's POAP are posted on Discord in [#course-faq](https://discord.com/channels/902943676685230100/996143485390426162).&#x20;
 
-Please be patient as we whitelist the addresses, as it is not an automatic process. Please note that "POAPs Left" is the number of people who are _currently_ whitelisted, and there is no hard limit to the number of POAPs. More people will become eligible as we process the quiz forms!
+Be sure to use the same Ethereum address that you submitted in the quiz form. Please be patient as we whitelist the addresses, as it is not an automatic process. Please note that "POAPs Left" is the number of people who are _currently_ whitelisted. More people will become eligible as we process the quiz forms!
 
 #### How do I earn xMETRIC in the course?
 
 Everyone who passes the weekly quizzes with a score of 7/10 or higher will receive 10 xMETRIC!
 
-In week 3, you can also receive 100 xMETRIC for submitting Educational Bounties (practice bounties), see [below](https://docs.metricsdao.xyz/analyst-resources/blockchain-data-101/faq#what-are-educational-bounties) for more details.
+In weeks 3 and 4, you can also receive 100 xMETRIC for submitting Educational Bounties (practice bounties), see [below](https://docs.metricsdao.xyz/analyst-resources/blockchain-data-101/faq#what-are-educational-bounties) for more details.
 
 xMETRIC is a beta-testing token recently launched by MetricsDAO. It represents your early MetricsDAO participation on-chain, and will unlock token-gated roles and opportunities. Learn more about xMETRIC in this blog [post](https://blog.metricsdao.xyz/xmetric/), and how to check your xMETRIC balance [here](https://blog.metricsdao.xyz/xmetric-balance/).
 
@@ -68,8 +72,8 @@ xMETRIC is a beta-testing token recently launched by MetricsDAO. It represents y
 * Quiz 1 is [here](https://s2w1pibxi3c.typeform.com/metricsdao), and Quiz 1 POAP claim is [here](https://poap.delivery/blockchainanalytics1).&#x20;
 * Quiz 2 is [here](https://s2w1pibxi3c.typeform.com/metricsdaoquiz2)
 * Quiz 3 is [here](https://docs.metricsdao.xyz/analyst-resources/blockchain-data-101/segment-3/assessment-3)
-* You can find the Typeform quiz links for future weeks on MetricsDAO Discord. The links will be shared in the [#course-faq](https://discord.com/channels/902943676685230100/996143485390426162) channel.&#x20;
-* Be sure not to close the quiz tab until you’ve submitted your quiz, and (for passing submissions) provided your eth address and contact details for the POAP and xMETRIC.
+* Quiz 4 is [here](https://docs.metricsdao.xyz/analyst-resources/blockchain-data-101/segment-4/assessment-4)
+* Be sure not to close the quiz tab until you’ve submitted your quiz, and (for passing submissions) provided your Ethereum address and contact details for the POAP and xMETRIC.
 
 #### When is the quiz deadline?&#x20;
 
@@ -77,9 +81,9 @@ We recommend completing the quiz before the next course session! But if you are 
 
 #### What are Educational Bounties?
 
-[Educational Bounties](https://metricsdao.notion.site/metricsdao/Bounty-Programs-d4bac7f1908f412f8bf4ed349198e5fe?p=8e6be1bfef4a4e0f87887d857b7dad96\&pm=c) have been introduced for the first time in Week 3! Submit your educational bounty dashboards by August 22nd, 2022, 11:59PM ET to receive 100 [xMETRIC](https://blog.metricsdao.xyz/xmetric-balance/).
+[Educational Bounties](https://metricsdao.notion.site/metricsdao/Bounty-Programs-d4bac7f1908f412f8bf4ed349198e5fe?p=8e6be1bfef4a4e0f87887d857b7dad96\&pm=c) have been introduced for the first time in Week 3, and a second batch in Week 4! Submit your educational bounty dashboards by the deadline to receive 100 [xMETRIC](https://blog.metricsdao.xyz/xmetric-balance/), or continue working on the questions at your own pace.
 
-These educational bounties offer an opportunity to practice the skills you’ve learned in this course, and try out the MetricsDAO analytics bounty submission process. They will not be paid nor receive a peer review score. Join [Week 3 Office Hours](https://discord.com/events/902943676685230100/1008737401088262185) on Discord (moved to Friday, August 19th, at 6PM ET to allow more time for practice-bounty-solving), where we will check out the submissions, go over the results, and answer any questions!
+These educational bounties offer an opportunity to practice the skills you’ve learned in this course, and try out the MetricsDAO analytics bounty submission process. Please note: these bounties are for your benefit! There will not be a formal review process or payment as with paid bounties, but you are more than welcome to ask for advice in any of the educational Discord channels, or for some live help during Office Hours.
 
 #### What are Office Hours?&#x20;
 
