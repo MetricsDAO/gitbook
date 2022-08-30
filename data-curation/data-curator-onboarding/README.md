@@ -106,9 +106,8 @@ https://github.com/dbt-labs/corp/blob/master/dbt\_style\_guide.md
 * Ask for help!
 * Pair programming - ask in the Curator channel to partner with someone.
 
-#### Leaders (Good for Pairing!)
+#### Current Season Pod Leaders&#x20;
 
-* nosugar🍀#1554 (Chuxin)
 * forg#9122 (Jack)
 * issui#6571 (Issui)
 
