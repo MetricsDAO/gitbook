@@ -8,7 +8,7 @@ description: >-
 
 ### Access
 
-_Reach out to forg#9122 and/or issui#6571 to start this process_
+_Reach out to forg#9122 and/or issui#6571 on Discord in the_ [_General channel_](https://discord.com/channels/902943676685230100/903338987022876702) _or via DM to start this process._
 
 **Github**
 
