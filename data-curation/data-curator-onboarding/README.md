@@ -51,11 +51,15 @@ chuxin.eth ran a workshop in March 2022 on using dbt to curate tables. Feel free
 Data Curation with Chuxin
 {% endembed %}
 
-#### The sql/dbt style guide we follow
+#### The dbt style guide and model standardsl we follow
 
 {% embed url="https://github.com/dbt-labs/corp/blob/master/dbt_style_guide.md" %}
 https://github.com/dbt-labs/corp/blob/master/dbt\_style\_guide.md
 {% endembed %}
+
+{% content-ref url="../../get-involved/data-curation/data-modeling-standards.md" %}
+[data-modeling-standards.md](../../get-involved/data-curation/data-modeling-standards.md)
+{% endcontent-ref %}
 
 #### Expected outputs
 
