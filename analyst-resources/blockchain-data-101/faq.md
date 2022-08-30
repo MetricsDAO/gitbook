@@ -11,7 +11,7 @@ description: Blockchain Data 101 Course FAQ
    * Segment 2 [replay](https://docs.metricsdao.xyz/analyst-resources/blockchain-data-101/segment-2)
    * Segment 3 [replay](https://docs.metricsdao.xyz/analyst-resources/blockchain-data-101/segment-3)
    * Segment 4 [replay](https://youtu.be/ahBFD\_eQvKU)
-   * Segment 5: Tying It All Together, with GJ on producing professional outputs, will stream live on Thursday, September 1st, 2022, at 4pm ET
+   * Segment 5: Tying It All Together, with a course recap by _forg_, and _GJ_ and _rplust_ on producing professional outputs, will stream live on the MetricsDAO YouTube channel. Tune in live on Friday, September 2nd, 2022, at 1:30pm ET.
 2. Complete the weekly **Quizzes**!&#x20;
    * A passing score of 7/10 correct answers or higher will earn you an awesome POAP for the week and 10 xMETRIC (read more about xMETRIC token [here](https://blog.metricsdao.xyz/xmetric/) and about viewing your xMETRIC balance [here](https://blog.metricsdao.xyz/xmetric-balance/)).&#x20;
    * Quiz 1 is [here](https://s2w1pibxi3c.typeform.com/metricsdao). A few days after successfully completing Quiz 1, you can claim your first course POAP [here](https://poap.delivery/blockchainanalytics1).
@@ -20,7 +20,6 @@ description: Blockchain Data 101 Course FAQ
    * Quiz 4 is [here](https://docs.metricsdao.xyz/analyst-resources/blockchain-data-101/segment-4/assessment-4)
 3. In weeks 3 & 4, complete [**Educational Bounties**](https://metricsdao.notion.site/metricsdao/Bounty-Programs-d4bac7f1908f412f8bf4ed349198e5fe?p=8e6be1bfef4a4e0f87887d857b7dad96\&pm=c)! These bounty questions are for your learning and are not paid nor given a peer review score. Submit each round's bounties by the deadline to receive 100 [xMETRIC](https://blog.metricsdao.xyz/xmetric-balance/), or continue working on the questions at your own pace.
 4. Join weekly live **Office Hours** on MetricsDAO [Discord](http://discord.gg/metrics). You can also read the office hours recaps [below](https://docs.metricsdao.xyz/analyst-resources/blockchain-data-101/faq#what-are-office-hours). Office hours event links and reminders are posted regularly in the [#course-faq](https://discord.com/channels/902943676685230100/996143485390426162) Discord channel.&#x20;
-   * The Office Hours Week 4 session is on Friday, August 26th, 2022 at 6pm ET.&#x20;
 5. Discuss and ask questions on [Discord](http://discord.gg/metrics) in [#course-chat](https://discord.com/channels/902943676685230100/992490932412883064) with the community of learners!&#x20;
 
 #### Is the course recorded?&#x20;
@@ -30,7 +29,7 @@ description: Blockchain Data 101 Course FAQ
   * Segment 2 [replay](https://docs.metricsdao.xyz/analyst-resources/blockchain-data-101/segment-2)
   * Segment 3 [replay](https://docs.metricsdao.xyz/analyst-resources/blockchain-data-101/segment-3)
   * Segment 4 [replay](https://youtu.be/ahBFD\_eQvKU)
-  * Segment 5: Tying It All Together, with GJ on producing professional outputs, will stream live on Thursday, September 1st, 2022, at 4pm ET
+  * Segment 5: Tying It All Together, with a course recap by _forg_, and _GJ_ and _rplust_ on producing professional outputs, will stream live on the MetricsDAO YouTube channel. Tune in live on Friday, September 2nd, 2022, at 1:30pm ET.
 * Soon after each session, you can also find session notes on the course Docs page:
   * Segment 1 [notes](https://docs.metricsdao.xyz/analyst-resources/blockchain-data-101/segment-1)
   * Segment 2 [notes](https://docs.metricsdao.xyz/analyst-resources/blockchain-data-101/segment-2/sql-aggregated)&#x20;
