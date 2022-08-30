@@ -48,6 +48,7 @@
   * [Segment 4](analyst-resources/blockchain-data-101/segment-4/README.md)
     * [SQL in Dune V2 vs V1](analyst-resources/blockchain-data-101/segment-4/sql-in-dune-v2-vs-v1.md)
     * [Assessment 4](analyst-resources/blockchain-data-101/segment-4/assessment-4.md)
+    * [Office Hours 4](analyst-resources/blockchain-data-101/segment-4/office-hours-4.md)
   * [FAQ](analyst-resources/blockchain-data-101/faq.md)
 
 ## Data Curation
