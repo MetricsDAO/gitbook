@@ -8,13 +8,15 @@ description: >-
 
 ### Access
 
-**Github (ask danner.eth#7297)**
+_Reach out to forg#9122 and/or issui#6571 to start this process_
 
-* Hi Drake, I’m interested in doing data curation for MetricsDAO, could you give me github access please? My github profile is: \[https://github.com/name]
+**Github**
 
-**Snowflake (ask danner.eth#7297 / forg#9122)**
+* Hi, I’m interested in doing data curation for MetricsDAO, could you give me github access please? My github profile is: \[https://github.com/name]
 
-* Hi Drake, I’m interested in doing data curation for MetricsDAO, could you give me snowflake access please? I’d like my username to be: \[name]
+**Snowflake**
+
+* Hi, I’m interested in doing data curation for MetricsDAO, could you give me snowflake access please? I’d like my username to be: \[name]
 
 **dbt cloud \[Optional]**
 
