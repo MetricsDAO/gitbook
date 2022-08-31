@@ -16,8 +16,9 @@ description: Blockchain Data 101 Course FAQ
    * A passing score of 7/10 correct answers or higher will earn you an awesome POAP for the week and 10 xMETRIC (read more about xMETRIC token [here](https://blog.metricsdao.xyz/xmetric/) and about viewing your xMETRIC balance [here](https://blog.metricsdao.xyz/xmetric-balance/)).&#x20;
    * Quiz 1 is [here](https://s2w1pibxi3c.typeform.com/metricsdao). A few days after successfully completing Quiz 1, you can claim your first course POAP [here](https://poap.delivery/blockchainanalytics1).
    * Quiz 2 is [here](https://s2w1pibxi3c.typeform.com/metricsdaoquiz2). A few days after successfully completing Quiz 2, you can claim the POAP [here](https://poap.delivery/mdao-workshop-blockchain-analytics-2/).
-   * Quiz 3 is [here](https://docs.metricsdao.xyz/analyst-resources/blockchain-data-101/segment-3/assessment-3)
-   * Quiz 4 is [here](https://docs.metricsdao.xyz/analyst-resources/blockchain-data-101/segment-4/assessment-4)
+   * Quiz 3 is [here](https://docs.metricsdao.xyz/analyst-resources/blockchain-data-101/segment-3/assessment-3) – POAP upcoming!
+   * Quiz 4 is [here](https://docs.metricsdao.xyz/analyst-resources/blockchain-data-101/segment-4/assessment-4) – POAP upcoming!
+   * Course participants who qualify for all four POAPs will also be eligible for a _fifth POAP_ – the proof of course completion! 🎓
 3. In weeks 3 & 4, complete [**Educational Bounties**](https://metricsdao.notion.site/metricsdao/Bounty-Programs-d4bac7f1908f412f8bf4ed349198e5fe?p=8e6be1bfef4a4e0f87887d857b7dad96\&pm=c)! These bounty questions are for your learning and are not paid nor given a peer review score. Submit each round's bounties by the deadline to receive 100 [xMETRIC](https://blog.metricsdao.xyz/xmetric-balance/), or continue working on the questions at your own pace.
 4. Join weekly live **Office Hours** on MetricsDAO [Discord](http://discord.gg/metrics). You can also read the office hours recaps [below](https://docs.metricsdao.xyz/analyst-resources/blockchain-data-101/faq#what-are-office-hours). Office hours event links and reminders are posted regularly in the [#course-faq](https://discord.com/channels/902943676685230100/996143485390426162) Discord channel.&#x20;
 5. Discuss and ask questions on [Discord](http://discord.gg/metrics) in [#course-chat](https://discord.com/channels/902943676685230100/992490932412883064) with the community of learners!&#x20;
@@ -51,10 +52,13 @@ You will have a chance to earn a POAP after each session. To be eligible for the
 
 If you passed a quiz successfully (scored a 7 or more out of 10), please wait **a few days after completing the quiz**, and claim your POAP at the link:
 
-* [Week 1](https://poap.delivery/blockchainanalytics1)
-* [Week 2](https://poap.delivery/mdao-workshop-blockchain-analytics-2/)
+* [Week 1](https://poap.delivery/blockchainanalytics1)&#x20;
+* [Week 2](https://poap.delivery/mdao-workshop-blockchain-analytics-2/)&#x20;
+* Week 3 – POAP upcoming!
+* Week 4 – POAP upcoming!
+* Course participants who qualify for all four POAPs will also be eligible for a _fifth POAP_ – the proof of course completion! 🎓
 
-Announcement about claiming each week's POAP are posted on Discord in [#course-faq](https://discord.com/channels/902943676685230100/996143485390426162).&#x20;
+Announcement with POAP claim links are posted on Discord in [#course-faq](https://discord.com/channels/902943676685230100/996143485390426162).&#x20;
 
 Be sure to use the same Ethereum address that you submitted in the quiz form. Please be patient as we whitelist the addresses, as it is not an automatic process. Please note that "POAPs Left" is the number of people who are _currently_ whitelisted. More people will become eligible as we process the quiz forms!
 
@@ -69,9 +73,10 @@ xMETRIC is a beta-testing token recently launched by MetricsDAO. It represents y
 #### Where can I find the quiz?&#x20;
 
 * Quiz 1 is [here](https://s2w1pibxi3c.typeform.com/metricsdao), and Quiz 1 POAP claim is [here](https://poap.delivery/blockchainanalytics1).&#x20;
-* Quiz 2 is [here](https://s2w1pibxi3c.typeform.com/metricsdaoquiz2)
-* Quiz 3 is [here](https://docs.metricsdao.xyz/analyst-resources/blockchain-data-101/segment-3/assessment-3)
-* Quiz 4 is [here](https://docs.metricsdao.xyz/analyst-resources/blockchain-data-101/segment-4/assessment-4)
+* Quiz 2 is [here](https://s2w1pibxi3c.typeform.com/metricsdaoquiz2), and Quiz 2 POAP claim is [here](https://poap.delivery/mdao-workshop-blockchain-analytics-2).
+* Quiz 3 is [here](https://docs.metricsdao.xyz/analyst-resources/blockchain-data-101/segment-3/assessment-3) – POAP upcoming!
+* Quiz 4 is [here](https://docs.metricsdao.xyz/analyst-resources/blockchain-data-101/segment-4/assessment-4) – POAP upcoming!
+* Course participants who qualify for all four POAPs will also be eligible for a _fifth POAP_ – the proof of course completion! 🎓
 * Be sure not to close the quiz tab until you’ve submitted your quiz, and (for passing submissions) provided your Ethereum address and contact details for the POAP and xMETRIC.
 
 #### When is the quiz deadline?&#x20;
