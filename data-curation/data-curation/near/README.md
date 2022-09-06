@@ -1,29 +1,13 @@
 ---
-description: >-
-  MetricsDAO is actively curating NEAR blockchain data for use in Flipside
-  Crypto's front-end SQL editor.
+cover: ../../../.gitbook/assets/1500x500.jpg
+coverY: 0
 ---
 
 # NEAR
 
 {% embed url="https://youtu.be/1cozsZP8yd4" %}
 
-## **Interested in building?**
-
-**We're actively seeking contributors to help us curate NEAR Protocol data.**&#x20;
-
-If you have spent time as an analyst or analytics engineer this may be for you!
-
-General background:
-
-* SQL&#x20;
-* dbt or other modeling frameworks
-  * NEAR dbt: [https://github.com/MetricsDAO/near\_dbt](https://github.com/MetricsDAO/near\_dbt)
-* Data analysis
-
-Please review the [curation onboarding guide](../data-curator-onboarding/) for more information, if this is new to you!
-
-If you’re interested in joining this group, please reach out to @forg#9122 or @issui#6571 [in MetricsDAO Discord](https://discord.com/channels/902943676685230100/903338987022876702).
+## ****
 
 ## Here from Flipside?
 
