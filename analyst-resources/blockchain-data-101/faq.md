@@ -7,13 +7,11 @@ description: Blockchain Data 101 Course FAQ
 #### How can I become a student in the Blockchain Data 101 course?&#x20;
 
 1. Tune into a live **Course Session** on the [MetricsDAO YouTube channel](https://www.youtube.com/channel/UCDyRizBgObJB-sNuwEPlL1g) or watch the replay on YouTube:
-   * Segment 1 [replay](https://docs.metricsdao.xyz/analyst-resources/blockchain-data-101/segment-1)
-   * Segment 2 [replay](https://docs.metricsdao.xyz/analyst-resources/blockchain-data-101/segment-2)
-   * Segment 3 [replay](https://docs.metricsdao.xyz/analyst-resources/blockchain-data-101/segment-3)
-   * Segment 4 [replay](https://youtu.be/ahBFD\_eQvKU)
-   * Segment 5: Tying It All Together, with a course recap by _forg_, and _GJ_ and _rplust_ on producing professional outputs, will stream live on the MetricsDAO YouTube channel.&#x20;
-     * Tune in live on Friday, September 2nd, 2022, at 1:30pm ET
-     * Share your questions ahead of time in [#course-chat ](https://discord.com/channels/902943676685230100/1014698490925949010)on Discord!
+   * Segment 1 [replay](https://docs.metricsdao.xyz/analyst-resources/blockchain-data-101/segment-1) with _forg_
+   * Segment 2 [replay](https://docs.metricsdao.xyz/analyst-resources/blockchain-data-101/segment-2) with _forg_
+   * Segment 3 [replay](https://docs.metricsdao.xyz/analyst-resources/blockchain-data-101/segment-3) with _forg_
+   * Segment 4 [replay](https://youtu.be/ahBFD\_eQvKU) with _Chuxin_
+   * Segment 5 [replay](https://www.youtube.com/watch?v=nxIDapWc5eg): Course Recap and Web3 Professional Outputs, with _forg_, _GJ_ and _rplust_&#x20;
 2. Complete the weekly **Quizzes**!&#x20;
    * A passing score of 7/10 correct answers or higher will earn you an awesome POAP for the week and 10 xMETRIC (read more about xMETRIC token [here](https://blog.metricsdao.xyz/xmetric/) and about viewing your xMETRIC balance [here](https://blog.metricsdao.xyz/xmetric-balance/)).&#x20;
    * Quiz 1 is [here](https://s2w1pibxi3c.typeform.com/metricsdao) and POAP [here](https://poap.delivery/blockchainanalytics1).
@@ -30,13 +28,11 @@ description: Blockchain Data 101 Course FAQ
 #### Is the course recorded?&#x20;
 
 * Yes, live YouTube sessions are recorded! Recordings are available on the [MetricsDAO YouTube channel](https://www.youtube.com/channel/UCDyRizBgObJB-sNuwEPlL1g):
-  * Segment 1 [replay](https://docs.metricsdao.xyz/analyst-resources/blockchain-data-101/segment-1)
-  * Segment 2 [replay](https://docs.metricsdao.xyz/analyst-resources/blockchain-data-101/segment-2)
-  * Segment 3 [replay](https://docs.metricsdao.xyz/analyst-resources/blockchain-data-101/segment-3)
-  * Segment 4 [replay](https://youtu.be/ahBFD\_eQvKU)
-  * Segment 5: Tying It All Together, with a course recap by _forg_, and _GJ_ and _rplust_ on producing professional outputs, will stream live on the MetricsDAO YouTube channel.&#x20;
-    * Tune in live on Friday, September 2nd, 2022, at 1:30pm ET
-    * Share your questions ahead of time in [#course-chat ](https://discord.com/channels/902943676685230100/1014698490925949010)on Discord!
+  * Segment 1 [replay](https://docs.metricsdao.xyz/analyst-resources/blockchain-data-101/segment-1) with _forg_
+  * Segment 2 [replay](https://docs.metricsdao.xyz/analyst-resources/blockchain-data-101/segment-2) with _forg_
+  * Segment 3 [replay](https://docs.metricsdao.xyz/analyst-resources/blockchain-data-101/segment-3) with _forg_
+  * Segment 4 [replay](https://youtu.be/ahBFD\_eQvKU) with _Chuxin_
+  * Segment 5 [replay](https://www.youtube.com/watch?v=nxIDapWc5eg): Course Recap and Web3 Professional Outputs, with _forg_, _GJ_ and _rplust_&#x20;
 * Soon after each session, you can also find session notes on the course Docs page:
   * Segment 1 [notes](https://docs.metricsdao.xyz/analyst-resources/blockchain-data-101/segment-1)
   * Segment 2 [notes](https://docs.metricsdao.xyz/analyst-resources/blockchain-data-101/segment-2/sql-aggregated)&#x20;
