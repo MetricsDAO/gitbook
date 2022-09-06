@@ -7,8 +7,6 @@ coverY: 0
 
 {% embed url="https://youtu.be/1cozsZP8yd4" %}
 
-## ****
-
 ## Here from Flipside?
 
 As a reminder, the legacy data structure `flipside_prod_db.mdao_near.<table>` is deprecating, please begin using the models under `near.core.<table>`
