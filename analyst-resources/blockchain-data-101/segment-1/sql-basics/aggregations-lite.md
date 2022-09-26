@@ -12,7 +12,7 @@ Run the below query with and without `DISTINCT`, do we get the same number of tr
 SELECT 
     COUNT(DISTINCT tx_hash) AS unique_transactions
 FROM ethereum.core.ez_dex_swaps
-WHERE block_timestamp BETWEEN::DATE '2022-06-01' AND '2022-06-30'
+WHERE block_timestamp::date BETWEEN '2022-06-01' AND '2022-06-30'
   AND pool_name IN
       (
         'ENS-WETH LP',
