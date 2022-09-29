@@ -1,7 +1,5 @@
 ---
-description: >-
-  A MetricsDAO guide to data curation, meeting weekly in the Build-In-Public
-  discord channel every Monday at 7PM EST / 23:00 UTC.
+description: A MetricsDAO guide to data curation.
 ---
 
 # Data Curator Onboarding
