@@ -8,11 +8,11 @@ description: >-
 
 <figure><img src="../../.gitbook/assets/1920X1080.png" alt=""><figcaption></figcaption></figure>
 
-On 12 October 2022 at 1pm ET, MetricsDAO will host a workshop by [agaperste](https://twitter.com/agaperste) on doing open-source data analytics with Dune Spellbook – a web3 community data transformation project.&#x20;
+On 12 October 2022 at 1pm ET | 5pm UTC, MetricsDAO will host a workshop by [agaperste](https://twitter.com/agaperste) on doing open-source data analytics with Dune Spellbook – a web3 community data transformation project.&#x20;
 
 Spellbook is an open-source dbt [repository](https://github.com/duneanalytics/spellbook) for high level data tables. It enables community to build toward a standardized way to transform data into meaningful abstraction layers.&#x20;
 
-This is list of prerequisites strongly recommended before you go to a Spellbook workshop!&#x20;
+This is the list of prerequisites strongly recommended before you go to a Spellbook workshop!&#x20;
 
 1. Have [Python 3.9](https://realpython.com/installing-python/) installed on your computer.&#x20;
 2. Install an IDE to edit your code. [VSCode](https://code.visualstudio.com/) is a nice free one.&#x20;
