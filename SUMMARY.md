@@ -29,6 +29,7 @@
   * [2022-03-11 Data Curation with dbt](get-involved/workshops/2022-03-11-data-curation-with-dbt.md)
   * [2022-02-10 Exploring Terra Data with Flipside Crypto](get-involved/workshops/2022-02-10-exploring-terra-data-with-flipside-crypto.md)
   * [2022-01-27 Dune Analytics and NFTs](get-involved/workshops/2022-01-27-dune-analytics-and-nfts.md)
+  * [2022-10-12 Open-Source Data Analytics via Dune Spellbook (Prerequisites)](analyst-resources/workshops/2022-10-12-open-source-data-analytics-via-dune-spellbook-prerequisites.md)
 * [🧑🏫 Blockchain Data 101](analyst-resources/blockchain-data-101/README.md)
   * [Segment 0](get-involved/blockchain-data-101/segment-0.md)
   * [Segment 1](analyst-resources/blockchain-data-101/segment-1/README.md)
