@@ -78,18 +78,18 @@ Introducing intermediate SQL techniques and diving into (more) raw transaction d
 * Data, uncurated
   * Moving beyond `ez_` tables working with JSON message objects.
 
-### Segment 4 - Dune
+### [Segment 4 - Dune](https://docs.metricsdao.xyz/analyst-resources/blockchain-data-101/segment-4)
 
-Upcoming: August 22nd, 6pm Eastern / 10pm UTC
+Expert session led by Dune Wizard [chuxin.eth](https://twitter.com/chuxin\_h).
 
-Expert session led by Dune Wizard [chuxin.eth](https://twitter.com/chuxin\_h)
+* SQL syntax: Dune Engine V2 vs. V1&#x20;
+* Column-oriented data
+* Using Dune abstractions
+* Cross-chain analysis
 
-### Segment 5 - Tying it all together
+### [Segment 5 - Tying it all together](https://docs.metricsdao.xyz/analyst-resources/blockchain-data-101/segment-5)
 
-Upcoming: September 1st, 4pm Eastern / 8pm UTC
+In the closing session of the course, [Forg](https://twitter.com/forgash\_), [GJ](https://twitter.com/GJFlannery19) and [Rob](https://twitter.com/robplust) discuss:&#x20;
 
-* Parsing JSON, final dive into events and logs.
-* Professional Output, led by [GJ](https://twitter.com/GJFlannery19/)
-  * Presentation worthy visualizations.
-  * Coherent analysis and clean writing.
-* Course recap
+* Creating professional outputs
+* Breaking into web3 data.

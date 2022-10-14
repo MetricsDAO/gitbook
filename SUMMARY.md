@@ -9,7 +9,7 @@
 * [Team Structure](metricsdao/team-structure.md)
 * [Constitution](metricsdao/constitution.md)
 * [Tooling and Processes](metricsdao/tooling-and-processes.md)
-* [Governor and Genesis Councils](metricsdao/governor-and-genesis-councils.md)
+* [Governor and Genesis Councils](metricsdao/governors.md)
 * [Experiments](metricsdao/analytics-experiments.md)
 * [Useful Links](metricsdao/metricsdao-useful-links.md)
 * [Partners](metricsdao/partners.md)
@@ -53,6 +53,7 @@
     * [SQL in Dune V2 vs V1](analyst-resources/blockchain-data-101/segment-4/sql-in-dune-v2-vs-v1.md)
     * [Assessment 4](analyst-resources/blockchain-data-101/segment-4/assessment-4.md)
     * [Office Hours 4](analyst-resources/blockchain-data-101/segment-4/office-hours-4.md)
+  * [Segment 5](analyst-resources/blockchain-data-101/segment-5.md)
   * [FAQ](analyst-resources/blockchain-data-101/faq.md)
 
 ## Data Curation

@@ -1,7 +1,7 @@
 ---
 description: >-
-  This first segment will introduce basic blockchain concepts necessary to
-  understand the data before we dive in. We will also cover basic SQL and how to
+  This first segment introduces basic blockchain concepts necessary to
+  understand the data before we dive in. We also cover basic SQL and how to
   access blockchain data.
 ---
 
