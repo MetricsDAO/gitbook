@@ -9,7 +9,7 @@
 * [Team Structure](metricsdao/team-structure.md)
 * [Constitution](metricsdao/constitution.md)
 * [Tooling and Processes](metricsdao/tooling-and-processes.md)
-* [Governors](metricsdao/governors.md)
+* [Governor and Genesis Councils](metricsdao/governor-and-genesis-councils.md)
 * [Experiments](metricsdao/analytics-experiments.md)
 * [Useful Links](metricsdao/metricsdao-useful-links.md)
 * [Partners](metricsdao/partners.md)
