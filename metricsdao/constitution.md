@@ -124,3 +124,15 @@ The Genesis Council will hold a poll for each draft amendment, with polling cond
 If contradictory amendments exist for a given Section, only one can be implemented for the upcoming Season.
 
 Polls will be open for 48 hours, 1wins51.
+
+
+
+## Amendments
+
+### Amendment I - Incorporation and Bylaws
+
+In July of 2022, MetricsDAO was formally incorporated as MetricsDAO Assoc, a non-stock, non-profit Delaware corporation. As part of the incorporation process, MetricsDAO voted to ratify a set of bylaws that formally outline the purpose of MetricsDAO, requirements for membership, and responsibilities of members and designated leaders within the organization.
+
+In addition to ratifying the bylaws, MetricsDAO appointed Daphne Kwon to be designated as the first signatory on behalf of MetricsDAO. This signatory has the authority to sign contracts and other legally binding documents on behalf of MetricsDAO. The signatory is not a permanent position and may be replaced by the DAO following a proposal put forward and voted on by members of the Governing Council.
+
+The full bylaws can be viewed here: [MetricsDAO Bylaws](https://drive.google.com/file/d/1LItjh\_igK1KMMcx4L35RKuaQ7eh23x99/view)&#x20;
