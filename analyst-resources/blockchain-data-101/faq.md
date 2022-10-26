@@ -15,8 +15,8 @@ description: Blockchain Data 101 Course FAQ
 2. Complete the weekly **Quizzes**!&#x20;
    * Quiz 1 is [here](https://s2w1pibxi3c.typeform.com/metricsdao) and POAP mint [here](https://poap.delivery/blockchainanalytics1)
    * Quiz 2 is [here](https://s2w1pibxi3c.typeform.com/metricsdaoquiz2) and POAP mint [here](https://poap.delivery/mdao-workshop-blockchain-analytics-2/)
-   * Quiz 3 is [here](https://docs.metricsdao.xyz/analyst-resources/blockchain-data-101/segment-3/assessment-3) – POAP upcoming!
-   * Quiz 4 is [here](https://docs.metricsdao.xyz/analyst-resources/blockchain-data-101/segment-4/assessment-4) – POAP upcoming!
+   * Quiz 3 is [here](https://docs.metricsdao.xyz/analyst-resources/blockchain-data-101/segment-3/assessment-3) and POAP mint [here](https://poap.delivery/mdao-workshop-blockchain-analytics-3)
+   * Quiz 4 is [here](https://docs.metricsdao.xyz/analyst-resources/blockchain-data-101/segment-4/assessment-4) and POAP mint [here](https://poap.delivery/mdao-workshop-blockchain-analytics-4)
    * Course participants who pass all four quizzes will be eligible for _the final POAP –  proof of course completion_. 🎓
    * Although _POAPs 1-4_ are only available for successful quiz completions that took place until (including) September 6, 2022, you can still take the quizzes at your own pace! Participants who successfully complete all the quizzes after September 6, 2022 **will remain eligible for the **_**final course completion POAP**_.
    * Please be patient as we whitelist the addresses, as it is not an automatic process.&#x20;
@@ -55,8 +55,8 @@ Complete the weekly quizzes with the score of 7/10 each or higher to pass!
 
 * Quiz 1 is [here](https://s2w1pibxi3c.typeform.com/metricsdao) and POAP [here](https://poap.delivery/blockchainanalytics1)
 * Quiz 2 is [here](https://s2w1pibxi3c.typeform.com/metricsdaoquiz2) and POAP [here](https://poap.delivery/mdao-workshop-blockchain-analytics-2/)
-* Quiz 3 is [here](https://docs.metricsdao.xyz/analyst-resources/blockchain-data-101/segment-3/assessment-3) – POAP upcoming!
-* Quiz 4 is [here](https://docs.metricsdao.xyz/analyst-resources/blockchain-data-101/segment-4/assessment-4) – POAP upcoming!
+* Quiz 3 is [here](https://docs.metricsdao.xyz/analyst-resources/blockchain-data-101/segment-3/assessment-3) and POAP mint [here](https://poap.delivery/mdao-workshop-blockchain-analytics-3)
+* Quiz 4 is [here](https://docs.metricsdao.xyz/analyst-resources/blockchain-data-101/segment-4/assessment-4) and POAP mint [here](https://poap.delivery/mdao-workshop-blockchain-analytics-4)
 * Course participants who pass all four quizzes will be eligible for the final __ POAP –  proof of course completion. 🎓
 * Announcement with POAP claim links are posted on Discord in [#course-faq](https://discord.com/channels/902943676685230100/996143485390426162).&#x20;
 
@@ -74,8 +74,8 @@ xMETRIC is a beta-testing token recently launched by MetricsDAO. It represents y
 
 * Quiz 1 is [here](https://s2w1pibxi3c.typeform.com/metricsdao), and Quiz 1 POAP claim is [here](https://poap.delivery/blockchainanalytics1).&#x20;
 * Quiz 2 is [here](https://s2w1pibxi3c.typeform.com/metricsdaoquiz2), and Quiz 2 POAP claim is [here](https://poap.delivery/mdao-workshop-blockchain-analytics-2).
-* Quiz 3 is [here](https://docs.metricsdao.xyz/analyst-resources/blockchain-data-101/segment-3/assessment-3) – POAP upcoming!
-* Quiz 4 is [here](https://docs.metricsdao.xyz/analyst-resources/blockchain-data-101/segment-4/assessment-4) – POAP upcoming!
+* Quiz 3 is [here](https://docs.metricsdao.xyz/analyst-resources/blockchain-data-101/segment-3/assessment-3) and POAP mint [here](https://poap.delivery/mdao-workshop-blockchain-analytics-3)
+* Quiz 4 is [here](https://docs.metricsdao.xyz/analyst-resources/blockchain-data-101/segment-4/assessment-4) and POAP mint [here](https://poap.delivery/mdao-workshop-blockchain-analytics-4)
 * Be sure not to close the quiz tab until you’ve submitted your quiz, and (for passing submissions) provided your Ethereum address and contact details for the POAP and xMETRIC.
 * Course participants who qualify for all four POAPs will also be eligible for a _fifth POAP_ – the proof of course completion!&#x20;
 * While the deadline to pass quizzes to be eligible for _segment 1-4 POAPs_ was Tuesday, September 6th, 2022, you are welcome to continue taking the course and assessments async! We won't continue whitelisting additional addresses for _weekly POAPs 1-4_ after this final batch, but the participants who successfully pass all four quizzes will **continue to be eligible for the **_**Final POAP: Proof of course completion**_ that you can show off in your collection, whitelisted periodically. 🎓 Please be patient as we whitelist the addresses, as it is not an automatic process.&#x20;
