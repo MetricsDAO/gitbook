@@ -7,7 +7,7 @@ coverY: -471.4150453955901
 layout: landing
 ---
 
-# 🧑🏫 Blockchain Data 101
+# 🧑🏫 Web3 Analytics 101
 
 ## Overview
 
@@ -35,11 +35,11 @@ Finally, please actively use the #course-chat channel in MetricsDAO's Discord, u
 
 _The following is intended to set expectations about the content of this course, while the content covered will go into more depth than what is listed._
 
-### [Segment 0 - Start Here](../../get-involved/blockchain-data-101/segment-0.md)
+### [Segment 0 - Start Here](segment-0.md)
 
 We will be compiling vetted resources that students can dive into, on their own time, to get up to speed with the main topics that this course covers: blockchains and crypto, data analysis using SQL, working in web3, etc.
 
-See more on the nested page, [here](../../get-involved/blockchain-data-101/segment-0.md).
+See more on the nested page, [here](segment-0.md).
 
 Finally, find some MetricsDAO resources here:
 
