@@ -13,6 +13,7 @@
 * [Experiments](metricsdao/analytics-experiments.md)
 * [Useful Links](metricsdao/metricsdao-useful-links.md)
 * [Partners](metricsdao/partners.md)
+* [Brand Assets](metricsdao/brand-assets.md)
 
 ## Get Involved
 
