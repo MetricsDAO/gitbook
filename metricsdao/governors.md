@@ -6,7 +6,6 @@ description: List of the current members on the DAO's governing council
 
 This is a list of the current members of MetricsDAO that hold Governor badges and are eligible to vote in governing council votes:
 
-* 0xdef1.eth - 0x1fb858e4e40A07d0AAF4B5650c589E527A8582Bb
 * Aaron - 0x48ff4d06Ceb0d69C958EE7856A2629Bb568Cffdc
 * chief.jdcook.eth - 0x019700312686B2EE895679A841aB0D6423D9b990
 * chris.eth - 0xE61f3AEa84D7dc7429F46a96B8df767A120159b8
@@ -23,7 +22,6 @@ This is a list of the current members of MetricsDAO that hold Governor badges an
 
 This is a list of the founding members of MetricsDAO that make up the Genesis Council:
 
-* 0xdef1.eth - 0x1fb858e4e40A07d0AAF4B5650c589E527A8582Bb
 * chief.jdcook.eth - 0x019700312686B2EE895679A841aB0D6423D9b990
 * chris.eth - 0xE61f3AEa84D7dc7429F46a96B8df767A120159b8
 * danner.eth - 0x581BEf12967f06f2eBfcabb7504fA61f0326CD9A
