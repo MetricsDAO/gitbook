@@ -16,7 +16,7 @@ All of these are just ways get a code development UI, be that the DBT Cloud IDE 
 
 <figure><img src="../../.gitbook/assets/Data Curation Different Dev Envs.jpg" alt=""><figcaption></figcaption></figure>
 
-_If you reached this document from the Data Curator Onboarding document (insert link to Dadaoism’s new document), you should have reached out to forg#9122 and/or issui#6571 on Discord in the_[ _General channel_](https://discord.com/channels/902943676685230100/903338987022876702) _or via DM to start the onboarding process. If not, do so by following the below steps to get Snowflake and Github access_
+_If you reached this document from the_ [_Data Curator Onboarding_](./) _page, you should have reached out to forg#9122 and/or issui#6571 on Discord in the_[ _General channel_](https://discord.com/channels/902943676685230100/903338987022876702) _or via DM to start the onboarding process. If not, do so by following the below steps to get Snowflake and Github access._
 
 ## Access
 
