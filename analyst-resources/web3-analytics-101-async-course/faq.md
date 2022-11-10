@@ -12,7 +12,7 @@ description: Blockchain Data 101 Course FAQ
    * Segment 3 [replay](https://docs.metricsdao.xyz/analyst-resources/blockchain-data-101/segment-3) with [_forg_](https://twitter.com/forgash\_)__
    * Segment 4 [replay](https://youtu.be/ahBFD\_eQvKU) with [_Chuxin_](https://twitter.com/chuxin\_h)__
    * Segment 5 [replay](https://www.youtube.com/watch?v=nxIDapWc5eg) with [_forg_](https://twitter.com/forgash\_), [_GJ_](https://twitter.com/GJFlannery19) and [_rplust_](https://twitter.com/robplust)&#x20;
-2. Complete the weekly **Quizzes**!&#x20;
+2. Complete the weekly **Quizzes**! Note that the new editions of the async and live course (November 2022 onwards) do not offer POAPs.
    * Quiz 1 is [here](https://s2w1pibxi3c.typeform.com/metricsdao) and POAP mint [here](https://poap.delivery/blockchainanalytics1)
    * Quiz 2 is [here](https://s2w1pibxi3c.typeform.com/metricsdaoquiz2) and POAP mint [here](https://poap.delivery/mdao-workshop-blockchain-analytics-2/)
    * Quiz 3 is [here](https://docs.metricsdao.xyz/analyst-resources/blockchain-data-101/segment-3/assessment-3) and POAP mint [here](https://poap.delivery/mdao-workshop-blockchain-analytics-3)
