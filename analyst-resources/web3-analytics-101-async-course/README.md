@@ -7,7 +7,7 @@ coverY: -471.4150453955901
 layout: landing
 ---
 
-# 🧑🏫 Web3 Analytics 101
+# 🧑🏫 Web3 Analytics 101: Async Course
 
 ## Overview
 
@@ -21,7 +21,7 @@ We will explore Ethereum data throughout this course as it has the most robust t
 
 ### Format
 
-We will meet **weekly in August on Mondays at 20:00 UTC** for a live session. This will be recorded and available on the [MetricsDAO YouTube channel](https://www.youtube.com/channel/UCDyRizBgObJB-sNuwEPlL1g) for those that can not make the live session. An overview of each segment is available below.
+Session videos are available on the [MetricsDAO YouTube channel](https://www.youtube.com/playlist?list=PLipRrejEgf21JZiMGi8OCwrQJuc9urLds), and were recorded during the August 2022 live run of the course. An overview of each segment is available below.
 
 Each week will have accompanying assignments. These will reinforce concepts covered in each live session. The assessment may be a quiz or an analytical prompt that require querying blockchain data and producing a dashboard or a report.
 
