@@ -56,7 +56,7 @@
     * [Office Hours 4](analyst-resources/web3-analytics-101-async-course/segment-4/office-hours-4.md)
   * [Segment 5](analyst-resources/web3-analytics-101-async-course/segment-5.md)
   * [FAQ](analyst-resources/web3-analytics-101-async-course/faq.md)
-* [Web3 Analytics 101: Live Course](analyst-resources/web3-analytics-101-live-course/README.md)
+* [🧑🏫 Web3 Analytics 101: Live Course](analyst-resources/web3-analytics-101-live-course/README.md)
   * [Segment 0 - Live Course](analyst-resources/web3-analytics-101-live-course/segment-0-live-course.md)
 
 ## Data Curation
