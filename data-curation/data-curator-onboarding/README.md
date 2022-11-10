@@ -10,10 +10,10 @@ Data curators at MetricsDAO build the data tables that power our bounties and an
 
 As a data curator you have the opportunity to:
 
-* create data tables from raw blockchain data
-* improve your data modeling skills
-* receive compensation for your contributions
-* contribute with 1-off tasks, or join a curation project as a Data Curator, or Lead Data Curator
+* Create data tables from raw blockchain data.
+* Improve your data modeling skills.
+* Receive compensation for your contributions.
+* Contribute with 1-off tasks, or join a curation project as a Data Curator, or Lead Data Curator.
 
 Our data curators come from a diverse set of backgrounds. They’ve built blockchain data models for Solana, Harmony, Near, Terra, and more. Several have continued to apply their skills in full-time blockchain and web3 industry positions.
 
