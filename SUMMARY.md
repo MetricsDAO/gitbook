@@ -68,7 +68,7 @@
     * [Table Documentation](data-curation/data-curation/near/table-documentation.md)
   * [Terra 2.0](data-curation/data-curation/terra-2.0/README.md)
     * [Table Documentation](data-curation/data-curation/terra-2.0/table-documentation.md)
-* [Data Curator Onboarding](data-curation/data-curator-onboarding/README.md)
+* [Data Curator Onboarding Dev Environment Setup](data-curation/data-curator-onboarding/README.md)
   * [Analytics Stack](data-curation/data-curator-onboarding/analytics-stack.md)
   * [Data Modeling Standards](get-involved/data-curation/data-modeling-standards.md)
 * [🐛 Bug Reporting](data-curation/bug-reporting.md)
