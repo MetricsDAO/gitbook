@@ -130,16 +130,16 @@ https://github.com/dbt-labs/corp/blob/master/dbt\_style\_guide.md
 3. Start writing code in the snowflake UI to get a table.
    * You can skip to step 4-5 if you are able to start writing dbt-like SQL directly.
    * We are going to build on top of the staging table harmony.prod.stg\_blocks(see below).
-   * ![](<../../.gitbook/assets/image (3) (1).png>)
+   * ![](<../../.gitbook/assets/image (3).png>)
 4. Convert snowflake UI code to dbt cloud code. dbt combines sql with Jinja, see more: [https://docs.getdbt.com/docs/building-a-dbt-project/jinja-macros](https://docs.getdbt.com/docs/building-a-dbt-project/jinja-macros)
    * You can copy the code directly from this file and test it out on dbt cloud: [https://github.com/MetricsDAO/harmony\_dbt/blob/main/models/core/blocks.sql](https://github.com/MetricsDAO/harmony\_dbt/blob/main/models/core/blocks.sql)
 5. Copy dbt cloud code into the correct folder for the table. If you're using command line, remember to git pull (gup) from the main branch for latest updates and git checkout -b (gcb ) to create a working branch locally.
    * For this working example, you can do gcb yourname-test-blocks
    * ![](<../../.gitbook/assets/image (4).png>)
    * If you want to build the blocks table in dev, you can rename your sql file as yourname\_blocks.sql
-   * ![](<../../.gitbook/assets/image (1) (2).png>)
+   * ![](<../../.gitbook/assets/image (1).png>)
 6. Test it using the commands make `dbt-console` and then `dbt run` to run the entire project’s models on the snowflake database (It’ll take around 30 minutes). If you only want to test your own model, you can use the command `dbt run --select your_table_name`. See highlighted commands below:
-   * ![](<../../.gitbook/assets/image (3).png>)
+   * ![](<../../.gitbook/assets/image (12).png>)
    * Once it finishes running, you'll be able to see the table available in dev
 7. Make sure your table successfully runs in the dev environment before pushing your branch. Command + D to exit Docker environment. git add all the changes you want to include in the branch, and then add git commit -m "your message". Push your branch to remote using git push or gp (follow what's suggested in the terminal if it's your first time pushing the branch to remote).
    * ![](<../../.gitbook/assets/image (8).png>)

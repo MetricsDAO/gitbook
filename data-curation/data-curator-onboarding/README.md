@@ -1,5 +1,5 @@
 ---
-description: A MetricsDAO guide to data curation development environment setup
+description: How to contribute as a MetricsDAO data curator.
 ---
 
 # Data Curator Onboarding
@@ -31,7 +31,7 @@ Ready to contribute? &#x20;
 
 Contributors typically follow this path:
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 #### Onboard <a href="#docs-internal-guid-e77220a2-7fff-15ab-adf9-74347f86a854" id="docs-internal-guid-e77220a2-7fff-15ab-adf9-74347f86a854"></a>
 
@@ -75,7 +75,7 @@ Lead Data Curators are accountable for the overall project’s outcomes, includi
 \
 Again, here is the path data curators typically follow, now with more detail & roles:
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 
 
