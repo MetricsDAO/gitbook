@@ -1,30 +1,32 @@
 ---
-description: A MetricsDAO guide to data curation development environment setup
+description: A MetricsDAO guide to setting up your data curation development environment.
 ---
 
 # Dev Environment Setup
 
-## Accepted Development Environments
+MetricsDAO curators use three primary tools**:**
 
-As of October 2022, the Data Curation pod accepts the following as development environments: \*&#x20;
+| Tool                                                             | Use for                                                       |
+| ---------------------------------------------------------------- | ------------------------------------------------------------- |
+| [Snowflake](dev-environment-setup.md#snowflake-access-and-setup) | Querying tables & connecting to third party tools             |
+| [Github](dev-environment-setup.md#github-optional)               | Viewing technical documentation, contributing & collaboration |
+| [dbt](dev-environment-setup.md#dbt-access-and-setup)             | Curating table designs                                        |
 
-* dbt Cloud&#x20;
-* dbt on Linux/MacOS&#x20;
-* or dbt on Docker
+See below for details on setup and access for each tool.
 
-All of these are just ways get a code development UI, be that the DBT Cloud IDE in the first case or VSCode in the latter two cases, to talk to dbt and then in turn getting dbt to talk to the MetricsDAO Snowflake data warehouse.
 
-<figure><img src="../../.gitbook/assets/Data Curation Different Dev Envs.jpg" alt=""><figcaption></figcaption></figure>
+
+
 
 _If you reached this document from the_ [_Data Curator Onboarding_](./) _page, you should have reached out to forg#9122 and/or issui#6571 on Discord in the_[ _General channel_](https://discord.com/channels/902943676685230100/903338987022876702) _or via DM to start the onboarding process. If not, do so by following the below steps to get Snowflake and Github access._
 
-## Access
+
+
+## **Snowflake Access & Setup**
 
 _Reach out to forg#9122 and/or issui#6571 on Discord in the_ [_General channel_](https://discord.com/channels/902943676685230100/903338987022876702) _or via DM to start this process._
 
-### **Snowflake**
-
-Hi, I’m interested in doing data curation for MetricsDAO, could you give me snowflake access_,_ please? I’d like my username to be: \[name]
+"Hi, I’m interested in doing data curation for MetricsDAO, could you give me snowflake access_,_ please? I’d like my username to be: \[name]"
 
 Once you have been given the temporary password associated with your username, be sure to log in to the Snowflake UI at https://app.snowflake.com/us-east-1/dqa62717/ using your temporary password. Once you’re logged in, you should automatically be asked by Snowflake to change your temporary password to a real password of your choosing. If not, you can always go to your profile page to update your password.
 
@@ -32,20 +34,37 @@ Once you have been given the temporary password associated with your username, b
 
 
 
-### **Github (optional)**
+## **Github Access & Workflow**
 
-You have the option of asking to be added as a contributor to the MetrcsDAO repository. If this is the path you choose, send the following message to Forg or Issui:
+You have two options to contribute to MetricsDAO's Github repository:
 
-* Hi, I’m interested in doing data curation for MetricsDAO, could you give me github access please? My github profile is: \[https://github.com/name]
+* Option 1: Follow the Fork and Pull Workflow with your own Github (see below)
+* Option 2: Be added as a contributor to the [MetricsDAO Github](https://github.com/MetricsDAO) and commit directly to project repositories with pull requests. Request access by sending the following message to Forg or Issui: "Hi, I’m interested in doing data curation for MetricsDAO, could you give me github access please? My github profile is: \[https://github.com/name]"
 
-However, the above step is optional because you don’t necessary need to be added to the MetricsDAO github repositories as a contributor in order to contribute changes to the code base. You can always follow the Fork and Pull Workflow by forking a copy of the MetricsDAO project to your github account. Just make sure to:
+The Fork and Pull Workflow is:
 
-* Fork the MetricsDAO repository.
-* Git clone from your forked repository. Ex: \`git clone [https://github.com/YourAccount/terra\_dbt](https://github.com/YourAccount/terra\_dbt)\`.
-* Create a branch for the changes you'd like to make. Ex: \`git branch readme-update\`.
+* Fork the MetricsDAO repository to your Github.
+* Git clone from your forked repository to your local machine. ex: `git clone` [`https://github.com/YourAccount/terra_dbt`](https://github.com/YourAccount/terra\_dbt)\`
+* Create a branch for the changes you'd like to make. Example: `git branch readme-update`.
 * Switch to the branch. Ex: `git checkout readme-update`.
 * Make your changes on the branch and follow the rest of the steps in the [Fork and Pull Workflow ](https://reflectoring.io/github-fork-and-pull/\))to notify the MetricsDAO repository owners to review your changes.
-* **Note:** In fact, the fork-and-pull workflow is the only workflow supported if you’re using dbt Cloud.
+* **Note:** In fact, the fork-and-pull workflow is the only workflow supported if you’re using dbt Cloud for your dbt development environment (more on dbt below).
+
+### ****
+
+## dbt Access & Setup
+
+### Accepted dbt Development Environments <a href="#accepted-development-environments" id="accepted-development-environments"></a>
+
+As of October 2022, the Data Curation pod accepts the following as development environments: \*
+
+* dbt Cloud
+* dbt on Linux/MacOS&#x20;
+* dbt on Docker on Linux/MacOS (or Windows with [WSL](dev-environment-setup.md#windows-wsl))
+
+All of these are just ways get a code development UI, be that the DBT Cloud IDE in the first case or VSCode in the latter two cases, to talk to dbt and then in turn getting dbt to talk to the MetricsDAO Snowflake data warehouse.
+
+<figure><img src="../../.gitbook/assets/Data Curation Different Dev Envs.jpg" alt=""><figcaption></figcaption></figure>
 
 ### **dbt Cloud**
 
@@ -63,6 +82,8 @@ The quickest way to start working is to use dbt Cloud. The Data Curation pod has
 * Follow Docker setup
   * [https://github.com/MetricsDAO/harmony\_dbt#readme](https://github.com/MetricsDAO/harmony\_dbt#readme)
 * Install [VSCode](https://code.visualstudio.com/)
+
+#### dbt on Docker with Windows WSL
 
 For Windows users, you'll need to install WSL and connect VSCode to WSL by
 
