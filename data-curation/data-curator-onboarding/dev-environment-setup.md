@@ -93,10 +93,6 @@ We are still in the process of documenting the procedure for direct dbt installa
 
 * (Optional) Install dbt on your terminal:[ https://docs.getdbt.com/dbt-cli/install/overview](https://docs.getdbt.com/dbt-cli/install/overview)**​**
 
-#### Channels
-
-Drop your questions in the Curator’s Channel (Let's open it up to the public / People can leave feedback relating to the data in the snowflake database.)
-
 #### Simple Walkthrough of How to Contribute
 
 This is going to be a very rough guide on what is expected. You can consider it as a living document that will get updated again and again.
