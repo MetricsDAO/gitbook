@@ -56,7 +56,7 @@ The Fork and Pull Workflow is:
 
 ### Accepted dbt Development Environments <a href="#accepted-development-environments" id="accepted-development-environments"></a>
 
-As of October 2022, the Data Curation pod accepts the following as development environments: \*
+As of October 2022, the Data Curation pod accepts the following as development environments:&#x20;
 
 * dbt Cloud
 * dbt on Linux/MacOS&#x20;
