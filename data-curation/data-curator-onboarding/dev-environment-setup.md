@@ -118,7 +118,7 @@ We are still in the process of documenting the procedure for direct dbt installa
 
 This is going to be a very rough guide on what is expected. You can consider it as a living document that will get updated again and again.
 
-#### Workshop on Data Curation and dbt
+## Workshop on Data Curation and dbt
 
 chuxin.eth ran a workshop in March 2022 on using dbt to curate tables. Feel free to follow-up with any questions from this in Discord!
 
@@ -126,7 +126,7 @@ chuxin.eth ran a workshop in March 2022 on using dbt to curate tables. Feel free
 Data Curation with Chuxin
 {% endembed %}
 
-#### The dbt style guide and model standardsl we follow
+### The dbt style guide and model standards we follow
 
 {% embed url="https://github.com/dbt-labs/corp/blob/master/dbt_style_guide.md" %}
 https://github.com/dbt-labs/corp/blob/master/dbt\_style\_guide.md
@@ -136,7 +136,9 @@ https://github.com/dbt-labs/corp/blob/master/dbt\_style\_guide.md
 [data-modeling-standards.md](../../get-involved/data-curation/data-modeling-standards.md)
 {% endcontent-ref %}
 
-#### Steps to start contributing:
+### Steps to start contributing:
+
+_Note: this section is in the process of being reworked and clarified._
 
 1. Pick a task from Metrics Dao issue board:
    * Harmony: [https://github.com/MetricsDAO/harmony\_dbt/issues/](https://github.com/MetricsDAO/harmony\_dbt/issues/)
@@ -181,23 +183,6 @@ https://github.com/dbt-labs/corp/blob/master/dbt\_style\_guide.md
 
 * Ask for help!
 * Pair programming - ask in the Curator channel to partner with someone.
-
-#### Current Season Pod Leaders&#x20;
-
-* forg#9122 (Jack)
-* issui#6571 (Issui)
-
-### MetricsDAO Created Tables
-
-#### Harmony Transactions
-
-https://docs.harmony.metricsdao.xyz/#!/model/model.harmony.txs
-
-#### Existing resources
-
-* https://metricsdao.gitbook.io/internal-wiki/project-teams/analytics-stack
-* https://www.getdbt.com/docs/
-* https://rogerdudler.github.io/git-guide/
 
 ## FAQ
 
