@@ -10,6 +10,7 @@
 * [Constitution](metricsdao/constitution.md)
 * [Tooling and Processes](metricsdao/tooling-and-processes.md)
 * [Governor and Genesis Councils](metricsdao/governors.md)
+* [Code of Conduct](metricsdao/code-of-conduct.md)
 * [Experiments](metricsdao/analytics-experiments.md)
 * [Useful Links](metricsdao/metricsdao-useful-links.md)
 * [Partners](metricsdao/partners.md)
