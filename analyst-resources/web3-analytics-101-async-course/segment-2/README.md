@@ -1,3 +1,7 @@
+---
+description: Expand technical abilities with live use-cases
+---
+
 # Segment 2
 
 ## Overview
@@ -12,7 +16,9 @@ The broader message structure, as seen on Etherscan and in the `fact` tables, wa
 
 ## Recording
 
-{% embed url="https://www.youtube.com/watch?v=OAxQ-pOFf_E" %}
+{% embed url="https://drive.google.com/file/d/1L60fdvgRLtxCZgltVfbkrOByc4ljDn-c/view?usp=share_link" %}
+Web3 Analytics 101: Async Course Session 2
+{% endembed %}
 
 ## SQL Topics Covered:
 

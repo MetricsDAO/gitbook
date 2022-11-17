@@ -9,8 +9,8 @@ description: >-
 
 ## Recording
 
-{% embed url="https://www.youtube.com/watch?v=Icx8jJLrUA8" %}
-Part 1 of the first lesson in Segment 1
+{% embed url="https://drive.google.com/file/d/1msewm8hfEWOHQCVC96EZqYMLu-eCXHMp/view?usp=share_link" %}
+Web3 Analytics 101: Async Course Session 1
 {% endembed %}
 
 ## Blockchain Basics

@@ -8,4 +8,6 @@ description: >-
 
 ## Recording
 
-{% embed url="https://www.youtube.com/watch?v=ahBFD_eQvKU" %}
+{% embed url="https://drive.google.com/file/d/1jOE288dzPn2jQJBCfFnxNU-VnGKUqIpQ/view?usp=share_link" %}
+Web3 Analytics 101: Async Course Session 4
+{% endembed %}
