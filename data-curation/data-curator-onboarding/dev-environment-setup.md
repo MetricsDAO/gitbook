@@ -6,11 +6,11 @@ description: A MetricsDAO guide to setting up your data curation development env
 
 MetricsDAO curators use three primary tools**:**
 
-| Tool                                                             | Used for                                                      |
-| ---------------------------------------------------------------- | ------------------------------------------------------------- |
-| [Snowflake](dev-environment-setup.md#snowflake-access-and-setup) | Querying tables & connecting to third party tools             |
-| [Github](dev-environment-setup.md#github-optional)               | Viewing technical documentation, contributing & collaboration |
-| [d](dev-environment-setup.md#dbt-access-and-setup)               | Curating table designs                                        |
+| Tool                                                                | Used for                                                      |
+| ------------------------------------------------------------------- | ------------------------------------------------------------- |
+| [Snowflake](dev-environment-setup.md#snowflake-access-and-setup)    | Querying tables & connecting to third party tools             |
+| [Github](dev-environment-setup.md#github-optional)                  | Viewing technical documentation, contributing & collaboration |
+| [dbt Access & Setup](dev-environment-setup.md#dbt-access-and-setup) | Curating table designs                                        |
 
 See below for details on setup and access for each tool.
 
