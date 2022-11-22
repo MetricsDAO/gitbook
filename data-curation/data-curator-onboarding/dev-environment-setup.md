@@ -64,7 +64,7 @@ All of these are just ways get a code development UI, be that the DBT Cloud IDE 
 
 ### **dbt Cloud**
 
-The quickest way to start working is to use dbt Cloud. The Data Curation pod has put together a video to get you familiar with dbt concepts using dbt Cloud. However, if you’re already familiar with dbt and just want to quickly setup dbt Cloud with the MetricsDAO Snowflake, skip to 49:25 of [the video](https://youtu.be/Cw41rjFjraQ).
+The quickest way to start working is to use dbt Cloud. The Data Curation pod has put together a video to get you familiar with dbt concepts using dbt Cloud. However, if you’re already familiar with dbt and just want to quickly setup dbt Cloud with the MetricsDAO Snowflake, skip to 49:25 of [the video](https://youtu.be/OarXSXOjL0c).
 
 * dbt Cloud basics & Snowflake [5:20](https://www.youtube.com/watch?v=Cw41rjFjraQ\&t=320s)
 * dbt best practices [28:20](https://www.youtube.com/watch?v=Cw41rjFjraQ\&t=1700s)

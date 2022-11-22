@@ -1,18 +1,13 @@
 ---
-description: MetricsDAO follows dimensional modeling standards.
+description: >-
+  MetricsDAO follows dimensional modeling standards. Guidelines and requirements
+  are laid out below. Curated models must adhere to this guide for final
+  approval to merge.
 ---
 
 # Data Modeling Standards
 
-The **Terra, Harmony** and **NEAR** data tables curated by the MetricsDAO community have been built using the style standards, table layers, and 'star schema' modeling standards described below.
-
-## Style Standards
-
-Our general model and style standards are derived from the best practices guide put forth by dbt Labs:
-
-{% embed url="https://github.com/dbt-labs/corp/blob/main/dbt_style_guide.md" %}
-
-All code that is submitted for a PR should be formatted according to [this dbt autoformatter](https://github.com/henriblancke/dbt-formatter), available as an extension on the VS Code extension marketplace.
+At Flipside there are many public schemas with the majority being data curated tables that are from the blockchain, including the **Harmony** and **NEAR** data curated by the MetricsDAO community. There are some that are other types such as metadata for labeling and informing across chains. In order to have analysts, from the novice user to the skilled analyst, be delighted by data, there needs to be a shared standard across the data organization on how data is curated and presented to the end user. The star schema is a mature modeling standard optimized for analytical use.
 
 ## Table Layers
 
