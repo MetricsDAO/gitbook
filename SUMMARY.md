@@ -72,6 +72,7 @@
 * [Data Curator Onboarding](data-curation/data-curator-onboarding/README.md)
   * [Dev Environment Setup](data-curation/data-curator-onboarding/dev-environment-setup.md)
   * [Onboarding Project](data-curation/data-curator-onboarding/onboarding-project.md)
+  * [Data Curation Projects at MetricsDAO](data-curation/data-curator-onboarding/data-curation-projects-at-metricsdao.md)
   * [Data Modeling Standards](get-involved/data-curation/data-modeling-standards.md)
   * [Resources](data-curation/data-curator-onboarding/resources.md)
 * [🐛 Bug Reporting](data-curation/bug-reporting.md)
