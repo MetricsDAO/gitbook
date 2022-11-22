@@ -1,24 +1,24 @@
 ---
-description: How data curation projects are organized and coordinated at MetricsDAO.
+description: A high level overview of data curation at MetricsDAO.
 ---
 
-# Data Curation Projects at MetricsDAO
+# Overview
 
-Data curation projects create the data tables that power MetricsDAO bounties and analyses.
+Data curation creates the data tables that power MetricsDAO bounties and analyses.
 
-This page describes how curation projects are organized and coordinated.
+This page gives a high level overview of data curation and describes how curation projects are organized and coordinated.
 
 Want to get involved? Read the [Data Curator Onboarding page](https://docs.metricsdao.xyz/data-curation/data-curator-onboarding).
 
-## The Work: Data Curation <a href="#docs-internal-guid-e935f75a-7fff-4f64-b3db-665166109a0c" id="docs-internal-guid-e935f75a-7fff-4f64-b3db-665166109a0c"></a>
+## A High Level Overview of Data Curation <a href="#docs-internal-guid-e935f75a-7fff-4f64-b3db-665166109a0c" id="docs-internal-guid-e935f75a-7fff-4f64-b3db-665166109a0c"></a>
 
-Data curators write SQL code that transforms blockchain data into easy to use formats.
+At a high level, data curators write SQL code to transform blockchain data into easy to use formats.
 
-For example, a curator will write SQL that transforms JSON bytecode data into a table that is human readable, organized, and easy to query. Or a curator will write SQL that combines data from existing tables into a new table for a specific protocol or specialized analysis.
+For example, a curator will write SQL to transform JSON bytecode data into a table that is human readable, organized, and easy to query. Or a curator will write SQL to combine data from existing tables into a new table for a specific protocol or specialized analysis.
 
 Each step in the data curation process involves transforming data into progressively easier to use formats.
 
-To better understand these steps it helps to see them in the context of the full blockchain data journey: starting with a person using an application and ending with analysts creating insights from curated data tables:
+To better understand these steps it helps to see them in the context of the full blockchain data journey: starting with a person using a dApp and ending with analysts creating insights from curated data tables:
 
 | Step in the Blockchain Data Journey                                                                                                                                 | Data Format                                                                                                                                                                                                                              |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
