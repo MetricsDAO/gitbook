@@ -2,11 +2,11 @@
 description: A high level overview of data curation at MetricsDAO.
 ---
 
-# Overview
+# Overview of Data Curation
 
-Data curation creates the data tables that power MetricsDAO bounties and analyses.
+Data curation is the process of creating the data tables that power MetricsDAO bounties and analyses.
 
-This page gives a high level overview of data curation and describes how curation projects are organized and coordinated.
+This page gives a high level overview of data curation and describes how curation projects are organized and coordinated at MetricsDAO.
 
 Want to get involved? Read the [Data Curator Onboarding page](https://docs.metricsdao.xyz/data-curation/data-curator-onboarding).
 
