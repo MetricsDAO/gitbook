@@ -62,7 +62,7 @@
 
 ## Data Curation
 
-* [Projects](data-curation/data-curation/README.md)
+* [Data Curation](data-curation/data-curation/README.md)
   * [Harmony](data-curation/data-curation/harmony/README.md)
     * [Table Documentation](data-curation/data-curation/harmony/table-documentation.md)
   * [NEAR](data-curation/data-curation/near/README.md)
@@ -70,7 +70,7 @@
   * [Terra 2.0](data-curation/data-curation/terra-2.0/README.md)
     * [Table Documentation](data-curation/data-curation/terra-2.0/table-documentation.md)
 * [Data Curator Onboarding](data-curation/data-curator-onboarding/README.md)
-  * [Overview of Data Curation](data-curation/data-curator-onboarding/overview-of-data-curation.md)
+  * [Overview of Data Curation](data-curation/data-curator-onboarding/overview.md)
   * [Dev Environment Setup](data-curation/data-curator-onboarding/dev-environment-setup.md)
   * [Onboarding Project](data-curation/data-curator-onboarding/onboarding-project.md)
   * [Data Modeling Standards](get-involved/data-curation/data-modeling-standards.md)

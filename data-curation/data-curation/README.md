@@ -1,26 +1,23 @@
-# Projects
+---
+description: >-
+  Top MetricsDAO analysts are available to build, decode, and model raw
+  blockchain data on behalf of analytics providers.
+---
 
-Data Curation at MetricsDAO specializes in decoding and surfacing blockchain data that are easy to access via SQL. We want to make blockchain data a public good and empower community driven crypto analytics.
+# Data Curation
 
-As of August 2022, together with our contributors, we have partnered with Harmony, NEAR and Terra 2.0. Each project is a set of open source [dbt](https://www.getdbt.com/) models hosted on our [GitHub](https://github.com/metricsDAO/). Presently (Sept 2022), our focus is:
+The community of data curators at MetricsDAO specializes in transforming blockchain data into the SQL tables that power MetricsDAO bounties and analyses.&#x20;
 
-1. &#x20;Ramping up Terra 2.0 data
-2. Maintaining the NEAR models
+To date our contributors have partnered with [Harmony](harmony/), [NEAR](near/) and [Terra 2.0](terra-2.0/) to turn their blockchain data into a public good that analysts use to generate insights on their favorite chains and protocols. We've built a set of open source data models hosted on our [GitHub](https://github.com/metricsDAO/), which data providers such as Flipside use to build tables for public analysis.
 
-Contributions are open to all. If you have a data model that you'd like to see built out for any of MetricsDAO's open projects, open a PR for the curation pod to review!
+## **Interested in having your chain or protocol's data curated for analysis?**
+
+Reach out to @forg#9122 or @issui#6571 in [the MetricsDAO Discord](https://discord.com/channels/902943676685230100/903338987022876702).
+
+We partner with analytics providers who ingest data from node providers and use our curated models to make the data available on their platform. Curation services require existing data access and do not extend to the ingestion process.
 
 ## **Interested in building?**
 
-**We're actively seeking contributors to help us curate NEAR Protocol data.**&#x20;
+Contributions are open to all. If you have a data model you'd like to see built for any of MetricsDAO's open projects, open a PR for the curation pod to review!
 
-If you have spent time as an analyst or analytics engineer this may be for you!
-
-General background:
-
-* SQL&#x20;
-* dbt or other modeling frameworks
-* Data analysis
-
-Please review the [curation onboarding guide](../data-curator-onboarding/) for more information, if this is new to you!
-
-If you’re interested in joining this group, please reach out to @forg#9122 or @issui#6571 [in MetricsDAO Discord](https://discord.com/channels/902943676685230100/903338987022876702).
+Want to become a regular contributor? Start by reading [the Data Curator Onboarding page](../data-curator-onboarding/).
