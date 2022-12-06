@@ -2,6 +2,8 @@
 description: >-
   Top MetricsDAO analysts are available to build, decode, and model raw
   blockchain data on behalf of analytics providers.
+cover: ../../.gitbook/assets/curated_2000x500.png
+coverY: 0
 ---
 
 # Data Curation
