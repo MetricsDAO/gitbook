@@ -6,7 +6,7 @@ cover: ../../.gitbook/assets/web31021920x1080_resized.png
 coverY: 0
 ---
 
-# Web3 Analytics 101: Live Course
+# 🧑🏫 Web3 Analytics 101: Live Course
 
 ## **Overview**
 
@@ -26,7 +26,7 @@ Each week will have accompanying assignments. These will reinforce concepts cove
 
 _The following is intended to set expectations about the content of this course, while the content covered will go into more depth than what is listed._
 
-### [**​Segment 0 - Start Here​**](https://app.gitbook.com/o/x38XyrjrJ4RgJMWHzzYs/s/S3V2Pnr0gJCi6qOnph2I/\~/changes/52mSaytA8ABHRkHQtmMx/analyst-resources/web3-analytics-101-live-course/segment-0-live-course)
+### ****[**​Segment 0 - Start Here**](https://docs.metricsdao.xyz/analyst-resources/web3-analytics-101-live-course/segment-0-live-course)**​**
 
 We have compiled vetted resources that students can dive into, on their own time, to get up to speed with the main topics that this course covers: blockchains and crypto, data analysis using SQL, working in web3, etc. Yes, the content is the same as those used for the async course. It is because these fundamental topics remain valid regardless of the course format. See more on the nested page, __ [_here._ ](segment-0-live-course.md)__\
 __\
