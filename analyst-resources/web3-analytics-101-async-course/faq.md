@@ -38,10 +38,6 @@ description: Blockchain Data 101 Course FAQ
   * Segment 3 [notes](https://docs.metricsdao.xyz/analyst-resources/blockchain-data-101/segment-3/recap-ez\_-mode)
   * Segment 4 [notes and dashboard](https://docs.metricsdao.xyz/analyst-resources/blockchain-data-101/segment-4/sql-in-dune-v2-vs-v1)
 
-#### How long is each session?&#x20;
-
-Each live course session & office hours meeting are scheduled to last for 1 hour.
-
 #### Can I receive notifications for live course meetings?&#x20;
 
 * Live sessions have wrapped up, but at MetricsDAO we have more educational events! Check out the '_Events_' section on MetricsDAO [Discord](http://discord.gg/metrics), at the top of the Discord server’s menu. You can click ‘_Interested_’ on an event to receive a Discord notification at start time, or export it to your own calendar.&#x20;
@@ -101,7 +97,7 @@ Office Hours were a weekly live session on Discord with the operations team, men
 
 #### Where can I find help with the course materials or quiz?&#x20;
 
-Join office hours or bring your question to [#course-chat](https://discord.com/channels/902943676685230100/992490932412883064) to help you get unstuck :slight\_smile:
+Bring your question to [#education-chat](https://discord.com/channels/902943676685230100/992490932412883064) to help you get unstuck :slight\_smile:
 
 #### Is it too late to take the course?&#x20;
 
@@ -109,4 +105,4 @@ It’s not too late, jump right in! And you can always catch up by watching reco
 
 #### I have a question about the course & it’s not answered here&#x20;
 
-Hop over to MetricsDAO [Discord](http://discord.gg/metrics): check out [#course-faq](https://discord.com/channels/902943676685230100/996143485390426162) or ask in [#course-chat](https://discord.com/channels/902943676685230100/992490932412883064).
+Hop over to MetricsDAO [Discord](http://discord.gg/metrics) and ask away in [#education-chat](https://discord.com/channels/902943676685230100/992490932412883064)!&#x20;
