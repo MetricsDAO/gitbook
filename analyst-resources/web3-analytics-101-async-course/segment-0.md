@@ -8,7 +8,7 @@ description: >-
 
 ## A New Future
 
-What stands between your current life and a future one in which you are free to work from anywhere in the world; your insights and analysis are driving real change and understanding in the blockchain economy; and your list of POAPs makes you the in-demand OG of the 2025 cycle of innovation?
+What stands between your current life and a future one in which you are free to work from anywhere in the world; your insights and analysis are driving real change and understanding in the blockchain economy; and your list of on-chain badges makes you the in-demand OG of the 2025 cycle of innovation?
 
 I ask this question because as seemingly improbable as that future sounds, it is possible if you are willing to start this journey, starting with Segment Zero!
 
