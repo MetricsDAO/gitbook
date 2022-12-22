@@ -40,10 +40,10 @@ You have made it through that crucial first step. You have actually learned quit
 
 ### Resources
 
-[MetricsDAO Discord - BC Analytics Course](https://discord.gg/yhumK9TaV2)
+[MetricsDAO Discord](https://discord.gg/metrics)
 
-[#course-chat](https://discord.com/channels/902943676685230100/992490932412883064) - for all general conversation related to this course!
+[#education-chat](https://discord.com/channels/902943676685230100/992490932412883064) - for all general conversation related to this course!
 
-[#course-support](https://discord.com/channels/902943676685230100/992491191578923140) - for any technical support during the course, including SQL debugging.
+[#education-info](https://discord.com/channels/902943676685230100/1037830009353678949) - more about all of MetricsDAO's course offerings
 
-[#Voice](https://discord.com/channels/902943676685230100/992491297841614979) - an open voice chat channel for students and mentors to use during scheduled and async sessions.
+[#Education Voice](https://discord.com/channels/902943676685230100/992491297841614979) - an open voice chat channel for students and instructors to use during office hours and at any time.
