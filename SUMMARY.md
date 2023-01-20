@@ -33,7 +33,7 @@
   * [2022-03-11 Data Curation with dbt](get-involved/workshops/2022-03-11-data-curation-with-dbt.md)
   * [2022-02-10 Exploring Terra Data with Flipside Crypto](get-involved/workshops/2022-02-10-exploring-terra-data-with-flipside-crypto.md)
   * [2022-01-27 Dune Analytics and NFTs](get-involved/workshops/2022-01-27-dune-analytics-and-nfts.md)
-* [🧑🏫 Web3 Analytics 101: Async Course](analyst-resources/web3-analytics-101-async-course.md)
+* [🧑🏫 Web3 Analytics 101: Async Course](analyst-resources/web3-analytics-101-async-course/README.md)
 * [🧑🏫 Web3 Analytics 101: Live Course](analyst-resources/web3-analytics-101-live-course/README.md)
   * [Segment 0 - Live Course](analyst-resources/web3-analytics-101-live-course/segment-0-live-course.md)
 

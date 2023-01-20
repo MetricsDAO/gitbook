@@ -2,7 +2,7 @@
 description: >-
   An open course that teaches students how to understand and analyze blockchain
   data using SQL.
-cover: ../.gitbook/assets/async1600x900.png
+cover: ../../.gitbook/assets/async1600x900.png
 coverY: 0
 layout: landing
 ---
@@ -19,9 +19,11 @@ In short, a successful course will produce a cohort of talented analysts creatin
 
 We will explore Ethereum data throughout this course as it has the most robust tooling and data available. Core concepts can be applied across a range of EVM-compatible chains and alternate blockchains.
 
-## Teachable.com
+## [Teachable.com](https://metrics-dao.teachable.com/p/web-analytics-101)
 
-As of January 20, 2023, the Blockchain Analytics 101 Async Course is hosted on teachable.com. Please visit [https://metrics-dao.teachable.com/p/web-analytics-101](https://metrics-dao.teachable.com/p/web-analytics-101) to start the course!&#x20;
+As of January 20, 2023, the Blockchain Analytics 101 Async Course is hosted on teachable.com.&#x20;
+
+**Please visit** [**https://metrics-dao.teachable.com/p/web-analytics-101**](https://metrics-dao.teachable.com/p/web-analytics-101) **to start the course!**&#x20;
 
 ## Course Outline
 
