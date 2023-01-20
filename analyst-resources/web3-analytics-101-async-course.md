@@ -2,7 +2,7 @@
 description: >-
   An open course that teaches students how to understand and analyze blockchain
   data using SQL.
-cover: ../../.gitbook/assets/async1600x900.png
+cover: ../.gitbook/assets/async1600x900.png
 coverY: 0
 layout: landing
 ---
@@ -19,27 +19,17 @@ In short, a successful course will produce a cohort of talented analysts creatin
 
 We will explore Ethereum data throughout this course as it has the most robust tooling and data available. Core concepts can be applied across a range of EVM-compatible chains and alternate blockchains.
 
-### Format
+## Teachable.com
 
-Session videos are available on the [MetricsDAO YouTube channel](https://www.youtube.com/playlist?list=PLipRrejEgf21JZiMGi8OCwrQJuc9urLds), and were recorded during the August 2022 live run of the course. An overview of each segment is available below.
-
-Each week will have accompanying assignments. These will reinforce concepts covered in each live session. The assessment may be a quiz or an analytical prompt that require querying blockchain data and producing a dashboard or a report.
-
-Additionally, members of the course operations team will hold Office Hours weekly in [our Discord Server](https://discord.gg/H9ggUCNXt5) to assist with questions related to the prior week's course.
-
-Finally, please actively use the #course-chat channel in MetricsDAO's Discord, under the Education section, to help each other out!
-
-### ****[**FAQ**](https://docs.metricsdao.xyz/analyst-resources/blockchain-data-101/faq)****
+As of January 20, 2023, the Blockchain Analytics 101 Async Course is hosted on teachable.com. Please visit [https://metrics-dao.teachable.com/p/web-analytics-101](https://metrics-dao.teachable.com/p/web-analytics-101) to start the course!&#x20;
 
 ## Course Outline
 
 _The following is intended to set expectations about the content of this course, while the content covered will go into more depth than what is listed._
 
-### [Segment 0 - Start Here](segment-0.md)
+### Segment 0&#x20;
 
 We will be compiling vetted resources that students can dive into, on their own time, to get up to speed with the main topics that this course covers: blockchains and crypto, data analysis using SQL, working in web3, etc.
-
-See more on the nested page, [here](segment-0.md).
 
 Finally, find some MetricsDAO resources here:
 
@@ -47,7 +37,7 @@ Finally, find some MetricsDAO resources here:
 * [Active Bounties](https://metricsdao.notion.site/metricsdao/Bounty-Programs-d4bac7f1908f412f8bf4ed349198e5fe)
 * [What is xMETRIC?](https://blog.metricsdao.xyz/xmetric/)
 
-### [Segment 1 - The Basics](segment-1/)
+### Segment 1 - The Basics
 
 Establishing foundational knowledge
 
@@ -59,7 +49,7 @@ Establishing foundational knowledge
 * Why do this kind of work?
   * The analytics ecosystem and work2earn.
 
-### [Segment 2 - Building Blocks](segment-2/)
+### Segment 2 - Building Blocks
 
 Expand technical abilities with live use-cases.
 
@@ -70,7 +60,7 @@ Expand technical abilities with live use-cases.
 * Domain knowledge - understanding your subject
 * Exploring data through visual representations
 
-### [Segment 3 - Leveling Up](segment-3/)
+### Segment 3 - Leveling Up
 
 Introducing intermediate SQL techniques and diving into (more) raw transaction data.
 
@@ -78,7 +68,7 @@ Introducing intermediate SQL techniques and diving into (more) raw transaction d
 * Data, uncurated
   * Moving beyond `ez_` tables working with JSON message objects.
 
-### [Segment 4 - Dune](https://docs.metricsdao.xyz/analyst-resources/blockchain-data-101/segment-4)
+### Segment 4 - Dune
 
 Expert session led by Dune Wizard [chuxin.eth](https://twitter.com/chuxin\_h).
 
@@ -87,7 +77,7 @@ Expert session led by Dune Wizard [chuxin.eth](https://twitter.com/chuxin\_h).
 * Using Dune abstractions
 * Cross-chain analysis
 
-### [Segment 5 - Tying it all together](https://docs.metricsdao.xyz/analyst-resources/blockchain-data-101/segment-5)
+### Segment 5 - Tying it all together
 
 In the closing session of the course, [Forg](https://twitter.com/forgash\_), [GJ](https://twitter.com/GJFlannery19) and [Rob](https://twitter.com/robplust) discuss:&#x20;
 
