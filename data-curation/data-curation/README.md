@@ -14,7 +14,7 @@ To date our contributors have partnered with [Harmony](harmony/), [NEAR](near/) 
 
 ## **Interested in having your chain or protocol's data curated for analysis?**
 
-Reach out to @forg#9122 or @issui#6571 in [the MetricsDAO Discord](https://discord.com/channels/902943676685230100/903338987022876702).
+Reach out in [the MetricsDAO Discord](https://discord.com/channels/902943676685230100/903338987022876702).
 
 We partner with analytics providers who ingest data from node providers and use our curated models to make the data available on their platform. Curation services require existing data access and do not extend to the ingestion process.
 

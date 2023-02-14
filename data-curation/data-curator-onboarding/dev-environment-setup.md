@@ -16,15 +16,7 @@ See below for details on setup and access for each tool.
 
 
 
-_If you reached this document from the_ [_Data Curator Onboarding_](./) _page, you should have reached out to forg#9122 and/or issui#6571 on Discord in the_[ _General channel_](https://discord.com/channels/902943676685230100/903338987022876702) _or via DM to start the onboarding process. If not, do so by following the below steps to get Snowflake and Github access._
-
-
-
 ## **Snowflake Access & Setup**
-
-_Reach out to forg#9122 and/or issui#6571 on Discord in the_ [_General channel_](https://discord.com/channels/902943676685230100/903338987022876702) _or via DM to start this process._
-
-"Hi, I’m interested in doing data curation for MetricsDAO, could you give me snowflake access_,_ please? I’d like my username to be: \[name]"
 
 Once you have been given the temporary password associated with your username, be sure to log in to the Snowflake UI at https://app.snowflake.com/us-east-1/dqa62717/ using your temporary password. Once you’re logged in, you should automatically be asked by Snowflake to change your temporary password to a real password of your choosing. If not, you can always go to your profile page to update your password.
 
@@ -37,7 +29,7 @@ Once you have been given the temporary password associated with your username, b
 You have two options to contribute to MetricsDAO's Github repository:
 
 * Option 1: Follow the Fork and Pull Workflow with your own Github (see below)
-* Option 2: Be added as a contributor to the [MetricsDAO Github](https://github.com/MetricsDAO) and commit directly to project repositories with pull requests. Request access by sending the following message to Forg or Issui: "Hi, I’m interested in doing data curation for MetricsDAO, could you give me github access please? My github profile is: \[https://github.com/name]"
+* Option 2: Be added as a contributor to the [MetricsDAO Github](https://github.com/MetricsDAO) and commit directly to project repositories with pull requests
 
 The Fork and Pull Workflow is:
 

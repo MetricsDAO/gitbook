@@ -10,10 +10,6 @@ An onboarding repository has been set up on our Github page with core models for
 
 {% embed url="https://github.com/MetricsDAO/onboarding_dbt/" %}
 
-## Walkthrough: Swaps Model
-
-Working on this ! :)
-
 
 
 ## Video Workshop: Data Curation and dbt

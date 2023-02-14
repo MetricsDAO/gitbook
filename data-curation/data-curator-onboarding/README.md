@@ -21,7 +21,7 @@ Our data curators come from a diverse set of backgrounds. They’ve built blockc
 Ready to contribute? &#x20;
 
 1. Read [‘How to Get Involved with Data Curation at MetricsDAO’](./#how-to-get-involved-with-data-curation-at-metricsdao) below.
-2. Reach out to forg#9122 and/or issui#6571 on Discord:\
+2. Reach out on Discord:\
    \
    "Hi, I’m interested in doing data curation for MetricsDAO."
 
@@ -33,25 +33,13 @@ Contributors typically follow this path:
 
 <figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
-#### Onboard <a href="#docs-internal-guid-e77220a2-7fff-15ab-adf9-74347f86a854" id="docs-internal-guid-e77220a2-7fff-15ab-adf9-74347f86a854"></a>
-
-Reach out to forg#9122 and/or issui#6571 on Discord e.g.: “Hi, I’m interested in doing data curation for MetricsDAO.”
-
-Join the weekly data curation pod sync in Discord.\
-
-
-#### Get Setup
+#### Get Setup <a href="#docs-internal-guid-e77220a2-7fff-15ab-adf9-74347f86a854" id="docs-internal-guid-e77220a2-7fff-15ab-adf9-74347f86a854"></a>
 
 Follow the guide [here](dev-environment-setup.md) to get your machine set up with DBT, Snowflake, and Github access.
-
-
 
 #### Join a Curation Project
 
 Curation happens in projects by chain or protocol, e.g. Terra, Uniswap, etc.
-
-See our list of projects [here](../data-curation/). forg#9122 and/or issui#6571 can guide you on which project to join.\
-
 
 #### Make Your First Contributions as a ‘Data Contributor’
 
@@ -87,5 +75,3 @@ Again, here is the path data curators typically follow, now with more detail & r
 | Skills to Begin:  | SQL and interest in blockchain data.                                                                                                        | SQL, modeling standards, increased familiarity with blockchain data.                                                                   | SQL, modeling standards, blockchain data, project management.                                                                                    |
 
 View the Curation Rewards Policy, [here](https://docs.google.com/document/d/1wT8Buik42mmAXZL8d2131sQlaoS3XxHM9PucRZ-ydgA/edit?usp=sharing).
-
-Get started by reaching out to forg#9122 and/or issui#6571 on Discord e.g.: “Hi, I’m interested in doing data curation for MetricsDAO.”
