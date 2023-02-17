@@ -8,6 +8,8 @@ description: MetricsDAO's multisigs and signers
 
 [0x4fafb87de15cff7448bd0658112f4e4b0d53332c](https://gnosis-safe.io/app/eth:0x4fafb87de15cff7448bd0658112f4e4b0d53332c/balances)
 
+Hot Wallet: [0x2293A72c7dBEa25ae78E5401be56a0c79385769a](https://etherscan.io/address/0x2293a72c7dbea25ae78e5401be56a0c79385769a)
+
 Purpose: Primary ETH mainnet multisig for MetricsDAO. Receives partner grants and distributes bounty and contributor payment.
 
 Signers: 4/7
@@ -55,9 +57,11 @@ Signers: 2/6
 | gnomadic#8135 | 0xB05F20637aD9328D1aeC730fdDb98e6CA195D627 |
 | PCWCFA#0438   | 0x75eb58F818262956B75794Fbf6769108E12B0EfA |
 
-## NEAR
+## Near
 
 Metricsdao.multisafe.near
+
+Hot Wallet: [79501b068d4fcbbcea3e7c332891a7d8abfd9864657b9c2cc3c18c944b1db558](https://explorer.near.org/accounts/79501b068d4fcbbcea3e7c332891a7d8abfd9864657b9c2cc3c18c944b1db558)
 
 Purpose: Multisig to receive and distribute NEAR grants and bounties
 
@@ -71,9 +75,29 @@ Signers: 3/5
 | kakamora#2549        | 38b445487678a1173fba0e09fd346f3ecb66db858cb399d7637d7618868f9f03 |
 | imaaronlamphere#8577 | d1cba12439c2fa4e0b55ae880b830de415e70ccee22fc7e4cd2493d9a871bace |
 
-## TERRA
+## Solana
+
+J2mcf6NpWdy6oPiEeD4hb2SrWt8NXGrgQMZspWPoUgFL
+
+Hot Wallet: FPDwXFUzHYh3uBh68jPZyyvFCoqcGktMX9MTSZPixqkB
+
+Purpose: Multisig to recieve and distribute Solana grants and bounties
+
+Signers: 3/5
+
+| Discord ID    | TERRA Address                                |
+| ------------- | -------------------------------------------- |
+| Bills#5507    | FPDwXFUzHYh3uBh68jPZyyvFCoqcGktMX9MTSZPixqkB |
+| mar1na#3578   | Dp5XhxqyKumVU3XCL3DCag22SbFxqzENiptU9ZhrEUu2 |
+| jackguy#1653  | 9w31QPPhzK6J4jdhJ4GqW5znAyrqipypk21XTuYEFxEQ |
+| kakamora#2549 | AYa5JHNhvMQgNSgB7aE55TxopjcPYaS46JsSXAxSwqsS |
+| sui414#1678   | 8QVgNDWBtZhw4vhBXraGPJovhmqPKs67T16VVWYEEp5U |
+
+## Terra
 
 terra1tu5z28h9ssattvsltlzt5c8r2mvs2006qvq3tvjk5c8fxve85xss84w8vr
+
+Hot Wallet: terra1v0yhsvk9gzwglu27c02md9z9kmg0vqgrf4q433
 
 Purpose: Native Terra multisig wallet for the curation team. Used to distribute LUNA to curation contributors and LUNA bounty rewards.
 
@@ -84,3 +108,20 @@ Signers: 2/3
 | Bills#5507   | terra1sf6cj4gd6khtne5767ulfj95hpmrxh75ale05j |
 | ibcflan#9924 | terra1lztw5quumq8yv8dn5y7g6jwnj9yyc6fyaxacrs |
 | forg#9122    | terra1ke09mg4rgq87masvf56cu2wz0wppyh04ze9dkp |
+
+## Osmosis
+
+osmo1ggewp0sdcpcpv87qwfyzm03exkhfmgldtjgsu0
+
+Hot Wallet: osmo1ggewp0sdcpcpv87qwfyzm03exkhfmgldtjgsu0
+
+Purpose: Native Osmo multisig wallet used to receive
+
+Signers: 2/3
+
+| Discord ID    | TERRA Address                               |
+| ------------- | ------------------------------------------- |
+| Bills#5507    | osmo1ggewp0sdcpcpv87qwfyzm03exkhfmgldtjgsu0 |
+| ibcflan#9924  | osmo1n4s60sw7uxwuz7xx7sm55vrqhgxmejlrgk2hu9 |
+| kakamora#2549 | osmo1mafzdj8mcnp9ucrkrl7s9tjgymvu8wcy7eklxg |
+
