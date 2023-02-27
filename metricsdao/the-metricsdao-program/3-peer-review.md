@@ -1,6 +1,6 @@
 # 3- Peer Review
 
-**Component 3: Peer Review**
+#### **Component 3: Peer Review**
 
 ⇒ To Create Legitimacy & Promote Protocols
 

@@ -1,6 +1,6 @@
 # 2- Analytics
 
-**Component 2: Analytics**
+#### **Component 2: Analytics**
 
 ⇒To Generate Insights & Drive User Onboarding
 

@@ -2,7 +2,7 @@
 
 Our three-step Brainstorming, Analytics, and Review system provides a variety of ways for the community and Web3 organizations to generate engagement, education, content, and peer reviewed analytics about protocols or topics they care about.
 
-**Component 1: Community Brainstorming**
+#### Component 1: Community Brainstorming
 
 ⇒ To Engage & Educate
 
@@ -10,7 +10,7 @@ Crypto projects use this component to ask the broader community what analytics t
 
 The goal of the Community Brainstorming Component is to drive engagement with the broader community: to understand what is currently relevant, confusing, or worrisome to them. At the same time, rewarding participants at this level works to educate newcomers on how this protocol works and incentivizes the best ideas to rise to the top.
 
-**Component 2: Analytics**
+#### **Component 2: Analytics**
 
 ⇒To Generate Insights & Drive User Onboarding
 
@@ -18,7 +18,7 @@ MetricsDAO’s community of analysts creates the analytics, tooling and content 
 
 Activating MetricsDAO’s analysts allows organizations to not only generate the insights they need, but it also onboards new analysts and new users to their protocol.
 
-**Component 3: Peer Review**
+#### **Component 3: Peer Review**
 
 ⇒ To Create Legitimacy & Promote Protocols
 

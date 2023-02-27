@@ -4,7 +4,7 @@ description: MetricsDAO Tooling and Processes
 
 # Tooling and Processes
 
-### Pods
+## Pods
 
 MetricsDAO does not currently use Metropolis' platform but are heavily inspired by their philosophy.
 
@@ -17,7 +17,7 @@ MetricsDAO currently has 6 contributor pods:&#x20;
 * DAO Operations&#x20;
 * Advising
 
-### Badges
+## Badges
 
 MetricsDAO uses Badger Badges to manage roles within our community. Badger Badges are assigned by Administrators to those vital to the DAO with an NFT that is wallet bound. However, wallet bound does not mean that Badges cannot be revoked. Administrators can remove Badges of their members and members can burn their Badge if there are internal community or role shifts.
 
@@ -43,7 +43,7 @@ A roster of the current governors for the DAO can be found here: [https://docs.m
 
 This badge is given to the individuals that have been recognized as data curators.
 
-**Voting**
+## **Voting**
 
 Voting for MetricsDAO is done through two Snapshot spaces.&#x20;
 

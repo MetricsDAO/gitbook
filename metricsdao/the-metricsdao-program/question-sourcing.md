@@ -1,6 +1,6 @@
 # 1- Community Brainstorming
 
-**Component 1: Community Brainstorming**
+#### **Component 1: Community Brainstorming**
 
 ⇒ To Engage & Educate
 
