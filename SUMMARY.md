@@ -37,6 +37,12 @@
 ## Analyst Resources
 
 * [Analytics Challenge FAQ](analyst-resources/analytics-challenge-faq.md)
+* [Tips for an Impactful Analytics Dashboard](analyst-resources/tips-for-an-impactful-analytics-dashboard/README.md)
+  * [Dos](analyst-resources/tips-for-an-impactful-analytics-dashboard/dos.md)
+  * [Don'ts](analyst-resources/tips-for-an-impactful-analytics-dashboard/donts.md)
+  * [Extras](analyst-resources/tips-for-an-impactful-analytics-dashboard/extras.md)
+  * [Closing Thoughts](analyst-resources/tips-for-an-impactful-analytics-dashboard/closing-thoughts.md)
+  * [Resources](analyst-resources/tips-for-an-impactful-analytics-dashboard/resources.md)
 * [Evaluation Criteria](https://metricsdao.notion.site/Evaluation-Criteria-ee2a7dc84d694ae38bfe4b55b06d14dc)
 * [Analyst Resources](analyst-resources/resources.md)
 
