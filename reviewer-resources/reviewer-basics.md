@@ -12,7 +12,7 @@ Bounty Operations publishes calls for Reviewers in [MetricsDAO's Discord server]
 
 ## What do reviewers do?
 
-Peer Review is an essential part of our analytics process. The work entails reviewing analysts' submissions and assigning a score based on the evaluation criteria. The criteria are published on each bounty. Reviewers also write comments and remarks on the submissions. These comments ultimately end up on our Showcase page where analyst can read them. Please see our page on [how to provide effective feedback](providing-effective-feedback.md).&#x20;
+Peer Review is an essential part of our analytics process. The work entails reviewing analysts' submissions and assigning a score based on the [evaluation criteria](https://metricsdao.notion.site/Evaluation-Criteria-ee2a7dc84d694ae38bfe4b55b06d14dc). The criteria are published on each bounty. Reviewers also write comments and remarks on the submissions. These comments ultimately end up on our Showcase page where analyst can read them. Please see our page on [how to provide effective feedback](providing-effective-feedback.md).&#x20;
 
 The turnaround time for Reviews is typically 24 hours to five days. Please be aware that late Reviewers may be subject to the slashing of a minimum of 250 xMetric (or rMetrics) tokens. Poor quality work (such as ignoring special instructions or disregarding the evaluation criteria) may also result in token slashing and denial of payment.&#x20;
 

@@ -37,6 +37,7 @@
 ## Analyst Resources
 
 * [Analytics Challenge FAQ](analyst-resources/analytics-challenge-faq.md)
+* [Evaluation Criteria](https://metricsdao.notion.site/Evaluation-Criteria-ee2a7dc84d694ae38bfe4b55b06d14dc)
 * [Analyst Resources](analyst-resources/resources.md)
 
 ## Reviewer Resources
