@@ -2,19 +2,19 @@
 
 Our three-step Brainstorming, Analytics, and Review system provides a variety of ways for the community and Web3 organizations to generate engagement, education, content, and peer reviewed analytics about protocols or topics they care about.
 
-#### Component 1: Community Brainstorming
+### Component 1: Community Brainstorming
 
 ⇒ To Engage & Educate
 
 [Questions are sourced](https://bounty.metricsdao.xyz/) from community members and the most upvoted ones are turned into bounties. Anyone can submit questions and upvote others’. [Learn more about community brainstorms](https://metricsdao.ghost.io/community-brainstorming/).
 
-#### **Component 2: Analytics**
+### **Component 2: Analytics**
 
 ⇒To Generate Insights & Drive User Onboarding
 
 Questions are turned into actionable bounties for analysts to solve by creating analytics, tools and/or content. MetricsDAO is vendor-neutral so questions can be solved using any data providers and tools.&#x20;
 
-#### **Component 3: Peer Review**
+### **Component 3: Peer Review**
 
 ⇒ To Create Legitimacy & Promote Protocols
 
