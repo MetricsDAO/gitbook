@@ -1,20 +1,13 @@
 # Table of contents
 
-* [Welcome to MetricsDAO!](README.md)
-
-## MetricsDAO
-
-* [The DAO for Web3 Analytics](metricsdao/the-dao-for-web3-analytics/README.md)
-  * [1- Community Brainstorming](metricsdao/the-dao-for-web3-analytics/question-sourcing.md)
-  * [2- Analytics](metricsdao/the-dao-for-web3-analytics/question-solving.md)
-  * [3- Peer Review](metricsdao/the-dao-for-web3-analytics/3-peer-review.md)
-* [xMETRIC](metricsdao/xmetric.md)
+* [The DAO for Web3 Analytics](README.md)
 
 ## Metrics Protocol
 
 * [Metrics Protocol Docs](https://metricsdao.xyz/whitepaper)
 * [Metrics App Docs](https://metricsdao.gitbook.io/metrics-app/)
 * [Metrics App Walkthrough](metrics-protocol/metrics-app-walkthrough.md)
+* [xMETRIC](metrics-protocol/xmetric.md)
 
 ## Operations
 
