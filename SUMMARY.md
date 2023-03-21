@@ -8,6 +8,7 @@
 * [Metrics App Docs](https://metricsdao.gitbook.io/metrics-app/)
 * [Metrics App Walkthrough](metrics-protocol/metrics-app-walkthrough.md)
 * [xMETRIC](metrics-protocol/xmetric.md)
+* [rMETRIC (MDAOM)](metrics-protocol/rmetric-mdaom.md)
 
 ## Operations
 
