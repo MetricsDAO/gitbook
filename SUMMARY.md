@@ -67,23 +67,6 @@
 * [Reviewer Basics](reviewer-resources/reviewer-basics.md)
 * [Providing Effective Feedback](reviewer-resources/providing-effective-feedback.md)
 
-## Data Curation
-
-* [Data Curation](data-curation/data-curation/README.md)
-  * [Harmony](data-curation/data-curation/harmony/README.md)
-    * [Table Documentation](data-curation/data-curation/harmony/table-documentation.md)
-  * [NEAR](data-curation/data-curation/near/README.md)
-    * [Table Documentation](data-curation/data-curation/near/table-documentation.md)
-  * [Terra 2.0](data-curation/data-curation/terra-2.0/README.md)
-    * [Table Documentation](data-curation/data-curation/terra-2.0/table-documentation.md)
-* [Data Curator Onboarding](data-curation/data-curator-onboarding/README.md)
-  * [Overview of Data Curation](data-curation/data-curator-onboarding/overview.md)
-  * [Dev Environment Setup](data-curation/data-curator-onboarding/dev-environment-setup.md)
-  * [Onboarding Project](data-curation/data-curator-onboarding/onboarding-project.md)
-  * [Data Modeling Standards](get-involved/data-curation/data-modeling-standards.md)
-  * [Resources](data-curation/data-curator-onboarding/resources.md)
-* [🐛 Bug Reporting](data-curation/bug-reporting.md)
-
 ## Extras
 
 * [Experiments](extras/analytics-experiments.md)
