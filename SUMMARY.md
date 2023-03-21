@@ -2,13 +2,13 @@
 
 * [The DAO for Web3 Analytics](README.md)
 
-## Metrics Protocol
+## MetricsDAO Ecosystem
 
 * [Metrics Protocol Docs](https://metricsdao.xyz/whitepaper)
 * [Metrics App Docs](https://metricsdao.gitbook.io/metrics-app/)
-* [Metrics App Walkthrough](metrics-protocol/metrics-app-walkthrough.md)
-* [xMETRIC](metrics-protocol/xmetric.md)
-* [rMETRIC (MDAOM)](metrics-protocol/rmetric-mdaom.md)
+* [Metrics App Walkthrough](metricsdao-ecosystem/metrics-app-walkthrough.md)
+* [xMETRIC](metricsdao-ecosystem/xmetric.md)
+* [rMETRIC (MDAOM)](metricsdao-ecosystem/rmetric-mdaom.md)
 
 ## Operations
 
