@@ -22,7 +22,7 @@ Signers: 4/7
 | ibcflan#9924    | 0x385fFdc5cFDE800B3625A5a323a8b16677F044a2 |
 | jdcook#7279     | 0x019700312686B2EE895679A841aB0D6423D9b990 |
 | sui414#1678     | 0xFf8D58f85a4f7199c4b9461F787cD456Ad30e594 |
-| Bills#5507      | 0x3ae02ed67853b0615fc5b14709b6e368ed5737e2 |
+| Bills#5507      | 0x2293A72c7dBEa25ae78E5401be56a0c79385769a |
 
 ## Curation
 
@@ -50,7 +50,7 @@ Signers: 2/6
 
 | Discord ID    | Polygon Address                            |
 | ------------- | ------------------------------------------ |
-| Bills#5507    | 0x3ae02ed67853b0615fc5b14709b6e368ed5737e2 |
+| Bills#5507    | 0x2293A72c7dBEa25ae78E5401be56a0c79385769a |
 | mar1na#3578   | 0xa0F00e59ef57D82449ACcB05b9512A47b264374b |
 | catjam#6271   | 0xe406938368062CC09F00C65278d209DE5ac6Dc4C |
 | ibcflan#9924  | 0x385fFdc5cFDE800B3625A5a323a8b16677F044a2 |
