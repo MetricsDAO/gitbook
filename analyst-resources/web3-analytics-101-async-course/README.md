@@ -19,11 +19,9 @@ In short, a successful course will produce a cohort of talented analysts creatin
 
 We will explore Ethereum data throughout this course as it has the most robust tooling and data available. Core concepts can be applied across a range of EVM-compatible chains and alternate blockchains.
 
-## [Teachable.com](https://metrics-dao.teachable.com/p/web-analytics-101)
+## Register for the Course
 
-As of January 20, 2023, the Blockchain Analytics 101 Async Course is hosted on teachable.com.&#x20;
-
-**Please visit** [**https://metrics-dao.teachable.com/p/web-analytics-101**](https://metrics-dao.teachable.com/p/web-analytics-101) **to start the course!**&#x20;
+Please register using the [Web3 101 Async Course Registration Form](https://s2w1pibxi3c.typeform.com/mdao-async?utm\_source=gitbook\&utm\_medium=xxxxx\&utm\_campaign=xxxxx).
 
 ## Course Outline
 

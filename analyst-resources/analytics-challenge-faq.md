@@ -134,7 +134,7 @@ If you believe your or another analyst’s work has been copied in bad faith and
 
 At MetricsDAO, we believe that collaboration and building in public lead to producing the best analytics. This includes publicly sharing analytics to exchange ideas and crowdsource improvements, learning from one another’s dashboards and queries, forking code to add unique contributions or take it in a new direction, and **always without exception offering acknowledgments and credit** to the analysts and dashboards that we forked or were inspired by.&#x20;
 
-Plagiarism (misrepresenting another’s work as one’s own) is very different from building in public with credit and acknowledgment. Plagiarizing the work of others goes against the values of MetricsDAO and will not be accepted. To learn more about our values, and building in public vs. plagiarizing, visit our [Code of Conduct](../operations/code-of-conduct.md).
+Plagiarism (misrepresenting another’s work as one’s own) is very different from building in public with credit and acknowledgment. Plagiarizing the work of others goes against the values of MetricsDAO and will not be accepted. To learn more about our values, and building in public vs. plagiarizing, visit our [Code of Conduct](../metricsdao/code-of-conduct.md).
 
 </details>
 

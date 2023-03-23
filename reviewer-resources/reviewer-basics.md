@@ -22,4 +22,4 @@ Review work is compensated at a rate of 25 USDC per hour. A timesheet is sent sh
 
 ## Reviewer protections
 
-Reviewers should report any harassment or pressure from disgruntled analysts. This could include receiving an excessive amount of private messages from analysts whose work a Reviewer has reviewed. Harassment goes against our [Code of Conduct](../operations/code-of-conduct.md) and can result in a time out or an outright ban for the offender.
+Reviewers should report any harassment or pressure from disgruntled analysts. This could include receiving an excessive amount of private messages from analysts whose work a Reviewer has reviewed. Harassment goes against our [Code of Conduct](../metricsdao/code-of-conduct.md) and can result in a time out or an outright ban for the offender.

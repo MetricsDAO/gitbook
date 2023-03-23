@@ -13,29 +13,29 @@
 
 ## Operations
 
-* [Constitution](operations/constitution.md)
-* [Team Structure](operations/team-structure/README.md)
-  * [Governor and Genesis Councils](operations/team-structure/governor-and-genesis-councils.md)
+* [Constitution](metricsdao/constitution.md)
+* [Team Structure](metricsdao/team-structure.md)
+  * [Governor and Genesis Councils](metricsdao/governors.md)
   * [Treasury](operations/team-structure/treasury.md)
 * [Tooling and Processes](operations/tooling-and-processes.md)
-* [Code of Conduct](operations/code-of-conduct.md)
+* [Code of Conduct](metricsdao/code-of-conduct.md)
 * [Partners](operations/partners.md)
-* [Brand Assets](operations/brand-assets.md)
+* [Brand Assets](metricsdao/brand-assets.md)
 
 ## Education
 
 * [Education Overview](education/education-overview.md)
 * [MetricsDAO Courses](https://metrics-dao.teachable.com/)
-* [🧑🏫 Web3 Analytics 101: Async Course](education/web3-analytics-101-async-course.md)
-* [🧑🏫 Web3 Analytics 101: Live Course](education/web3-analytics-101-live-course/README.md)
-  * [Segment 0 - Live Course](education/web3-analytics-101-live-course/segment-0-live-course.md)
-* [📚 Workshops](education/workshops/README.md)
-  * [2022-10-12 Open-Source Data Analytics via Dune Spellbook (Prerequisites)](education/workshops/2022-10-12-open-source-data-analytics-via-dune-spellbook-prerequisites.md)
-  * [2022-04-21+ Interactive Data Visualization with Python](education/workshops/2022-04-21+-interactive-data-visualization-with-python.md)
-  * [2022-03-30+ Subgrounds Workshop Series](education/workshops/2022-03-30+-subgrounds-workshop-series.md)
-  * [2022-03-11 Data Curation with dbt](education/workshops/2022-03-11-data-curation-with-dbt.md)
-  * [2022-02-10 Exploring Terra Data with Flipside Crypto](education/workshops/2022-02-10-exploring-terra-data-with-flipside-crypto.md)
-  * [2022-01-27 Dune Analytics and NFTs](education/workshops/2022-01-27-dune-analytics-and-nfts.md)
+* [🧑🏫 Web3 Analytics 101: Async Course](analyst-resources/web3-analytics-101-async-course/README.md)
+* [🧑🏫 Web3 Analytics 101: Live Course](analyst-resources/web3-analytics-101-live-course/README.md)
+  * [Segment 0 - Live Course](analyst-resources/web3-analytics-101-live-course/segment-0-live-course.md)
+* [📚 Workshops](analyst-resources/workshops/README.md)
+  * [2022-10-12 Open-Source Data Analytics via Dune Spellbook (Prerequisites)](analyst-resources/workshops/2022-10-12-open-source-data-analytics-via-dune-spellbook-prerequisites.md)
+  * [2022-04-21+ Interactive Data Visualization with Python](get-involved/workshops/2022-04-21+-interactive-data-visualization-with-python.md)
+  * [2022-03-30+ Subgrounds Workshop Series](get-involved/workshops/2022-03-30+-subgrounds-workshop-series.md)
+  * [2022-03-11 Data Curation with dbt](get-involved/workshops/2022-03-11-data-curation-with-dbt.md)
+  * [2022-02-10 Exploring Terra Data with Flipside Crypto](get-involved/workshops/2022-02-10-exploring-terra-data-with-flipside-crypto.md)
+  * [2022-01-27 Dune Analytics and NFTs](get-involved/workshops/2022-01-27-dune-analytics-and-nfts.md)
 
 ## Analyst Resources
 
@@ -70,5 +70,5 @@
 
 ## Extras
 
-* [Experiments](extras/analytics-experiments.md)
-* [Useful Links](extras/metricsdao-useful-links.md)
+* [Experiments](metricsdao/analytics-experiments.md)
+* [Useful Links](metricsdao/metricsdao-useful-links.md)
