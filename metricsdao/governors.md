@@ -15,9 +15,7 @@ This is a list of the current members of MetricsDAO that hold Governor badges an
 * elisemarika.eth - 0xB8c2d03CaffFE98e35CEEa1A399372dD8FaFa91a
 * forgash.eth - 0x04ae8c108743167c7457073ba8C1571FD5D56325
 * ilemi.eth - 0x2Ae8c972fB2E6c00ddED8986E2dc672ED190DA06
-* meglister.eth - 0xABF28f8D9adFB2255F4a059e37d3BcE9104969dB
 * msilb7.eth - 0xEEad1396fe5f0daec6DbC04d8a43E85dDE4d97DA
-* Rochelle - 0x3138165f8d21d4869dbD406CD8bc8055CAC8fb6E
 * sunslinger.eth - 0x5970C498244CE30248711497b7886fecA0077423
 
 This is a list of the founding members of MetricsDAO that make up the Genesis Council:
