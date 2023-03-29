@@ -104,7 +104,7 @@ Peer review starts when the Analytics Challenge closes. [Evaluation criteria use
 
 <summary>How do I know my submission rank?</summary>
 
-This update to the [Showcase page](https://legacy.metricsdao.xyz/showcase) is in progress, and we hope to have it launched in January after the holidays. Thank you for your patience! Currently, Showcase results are sorted by **submittedDate DESC, overall\_score DESC** in all scenarios (page load, searching through search bar, filters on the side panel, etc). **Flagged posts** are always shown at the end of the list.
+Currently, [Showcase page](https://legacy.metricsdao.xyz/showcase) results are sorted by **submittedDate DESC, overall\_score DESC** in all scenarios (page load, searching through search bar, filters on the side panel, etc). **Flagged posts** are always shown at the end of the list.
 
 </details>
 
@@ -122,7 +122,7 @@ Our team is currently working to publicly display ranks for submissions. In the 
 
 <summary>There are so many different links to keep track of. Will it always be this complicated to participate in Analytics Challenges?</summary>
 
-You may have heard of our new Metrics App coming in mid 2023. In the app, you will find all parts of our Analytics Challenge process in one place. [Learn more here](https://blog.metricsdao.xyz/metrics-app/) and [follow us on Twitter](https://twitter.com/MetricsDAO) for the latest app updates!
+You may have heard of our new Metrics App coming in 2023. In the app, you will find all parts of our Analytics Challenge process in one place. [Learn more here](https://blog.metricsdao.xyz/metrics-app/) and [follow us on Twitter](https://twitter.com/MetricsDAO) for the latest app updates!
 
 </details>
 
