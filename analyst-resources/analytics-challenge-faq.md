@@ -96,7 +96,7 @@ You can update your submission information! As long as you provided your correct
 
 <summary>When will my submission be peer reviewed? How will I know the result?</summary>
 
-Peer review starts when the Analytics Challenge closes. [Evaluation criteria used by our peer reviewers are outlined here](https://metricsdao.notion.site/Evaluation-Criteria-ee2a7dc84d694ae38bfe4b55b06d14dc). After peer review is completed, scores and ranks are finalized. Then the submissions with scores and feedback are uploaded to [MetricsDAO's Showcase](https://metricsdao.xyz/showcase). Uploading to the Showcase is currently a manual process, we appreciate your patience!
+Peer review starts when the Analytics Challenge closes. [Evaluation criteria used by our peer reviewers are outlined here](https://metricsdao.notion.site/Evaluation-Criteria-ee2a7dc84d694ae38bfe4b55b06d14dc). After peer review is completed, scores and ranks are finalized. Then the submissions with scores and feedback are uploaded to [MetricsDAO's Showcase](https://legacy.metricsdao.xyz/showcase). Uploading to the Showcase is currently a manual process, we appreciate your patience!
 
 </details>
 
@@ -104,7 +104,7 @@ Peer review starts when the Analytics Challenge closes. [Evaluation criteria use
 
 <summary>How do I know my submission rank?</summary>
 
-This update to the [Showcase page](https://metricsdao.xyz/showcase) is in progress, and we hope to have it launched in January after the holidays. Thank you for your patience! Currently, Showcase results are sorted by **submittedDate DESC, overall\_score DESC** in all scenarios (page load, searching through search bar, filters on the side panel, etc). **Flagged posts** are always shown at the end of the list.
+This update to the [Showcase page](https://legacy.metricsdao.xyz/showcase) is in progress, and we hope to have it launched in January after the holidays. Thank you for your patience! Currently, Showcase results are sorted by **submittedDate DESC, overall\_score DESC** in all scenarios (page load, searching through search bar, filters on the side panel, etc). **Flagged posts** are always shown at the end of the list.
 
 </details>
 
@@ -114,7 +114,7 @@ This update to the [Showcase page](https://metricsdao.xyz/showcase) is in progre
 
 You can check the status of each challenge payment in [MetricsDAO’s Payment Schedule](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vTJ27PlJZe6lK3pzPJ78TQFPb8YtQO54WMDHMnH9Jn4tGUdCpYZaQyq6vK44rgIP-X0qNCYTiFnKHwY/pubhtml). You will find transaction hashes there, and can verify if your wallet received payment.&#x20;
 
-Our team is currently working to publicly display ranks for submissions. In the meantime, you can find your submission score on the [Showcase page](https://metricsdao.xyz/showcase). Sometimes the payments are sent before the Showcase is updated, or vice versa, that is not a cause for worry.
+Our team is currently working to publicly display ranks for submissions. In the meantime, you can find your submission score on the [Showcase page](https://legacy.metricsdao.xyz/showcase). Sometimes the payments are sent before the Showcase is updated, or vice versa, that is not a cause for worry.
 
 </details>
 
