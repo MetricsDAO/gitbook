@@ -59,7 +59,7 @@
   * [Extras](analyst-resources/tips-for-an-impactful-analytics-dashboard/extras.md)
   * [Closing Thoughts](analyst-resources/tips-for-an-impactful-analytics-dashboard/closing-thoughts.md)
   * [Resources](analyst-resources/tips-for-an-impactful-analytics-dashboard/resources.md)
-* [Evaluation Criteria](https://metricsdao.notion.site/Evaluation-Criteria-ee2a7dc84d694ae38bfe4b55b06d14dc)
+* [Evaluation Criteria](https://www.notion.so/metricsdao/Reviewers-Vision-and-Strategy-7032496034774a39ab61e45d08c02464)
 * [Analyst Resources](analyst-resources/resources.md)
 
 ## Reviewer Resources
