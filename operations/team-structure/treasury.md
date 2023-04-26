@@ -14,15 +14,15 @@ Purpose: Primary ETH mainnet multisig for MetricsDAO. Receives partner grants an
 
 Signers: 4/7
 
-| Discord ID      | Ethereum Address                           |
-| --------------- | ------------------------------------------ |
-| danner.eth#7297 | 0xccC3330A95D9F83e2aFAA68911BB52468E2B26FE |
-| catjam#6271     | 0x0C91cC3e672a78D49049d0b45E5a6D0A9Cd5c916 |
-| chris.eth#7351  | 0x7EAbE4F636B937628A7Fe503bD7F06772C047FEe |
-| ibcflan#9924    | 0x385fFdc5cFDE800B3625A5a323a8b16677F044a2 |
-| jdcook#7279     | 0x019700312686B2EE895679A841aB0D6423D9b990 |
-| sui414#1678     | 0xFf8D58f85a4f7199c4b9461F787cD456Ad30e594 |
-| Bills#5507      | 0x2293A72c7dBEa25ae78E5401be56a0c79385769a |
+| Discord ID          | Ethereum Address                           |
+| ------------------- | ------------------------------------------ |
+| danner.eth#7297     | 0xccC3330A95D9F83e2aFAA68911BB52468E2B26FE |
+| GJ \| Flipside#1919 | 0x54f9b0A44b66072f6ce919d96f103b51db9E4428 |
+| chris.eth#7351      | 0x7EAbE4F636B937628A7Fe503bD7F06772C047FEe |
+| ibcflan#9924        | 0x385fFdc5cFDE800B3625A5a323a8b16677F044a2 |
+| jdcook#7279         | 0x019700312686B2EE895679A841aB0D6423D9b990 |
+| sui414#1678         | 0xFf8D58f85a4f7199c4b9461F787cD456Ad30e594 |
+| Bills#5507          | 0x2293A72c7dBEa25ae78E5401be56a0c79385769a |
 
 ## Curation
 
@@ -109,11 +109,13 @@ Signers: 2/3
 | ibcflan#9924 | terra1lztw5quumq8yv8dn5y7g6jwnj9yyc6fyaxacrs |
 | forg#9122    | terra1ke09mg4rgq87masvf56cu2wz0wppyh04ze9dkp |
 
-## Osmosis
+## Osmosis / Axelar
 
-osmo1ggewp0sdcpcpv87qwfyzm03exkhfmgldtjgsu0
+osmo1l2fvuecjpakxxh6k0mhpxzeln2veqpjs7znm8mfavuwx506v0qnsg8gwnd
 
 Hot Wallet: osmo1ggewp0sdcpcpv87qwfyzm03exkhfmgldtjgsu0
+
+AXL Hot Wallet: axelar1ggewp0sdcpcpv87qwfyzm03exkhfmgld88dgpu
 
 Purpose: Native Osmo multisig wallet used to receive
 
