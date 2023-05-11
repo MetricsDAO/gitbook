@@ -1,6 +1,6 @@
 # Networks
 
-Below you can find some basic information on all of MetricsDAO's networks, including their names, points of contact, what makes them unique, and their badge ID. \
+Below you can find some basic information on all of MetricsDAO's networks, including their names, points of contact, what makes them unique, and their badge ID.. \
 \
 If you would like to add your network to this list, please fill out [this survey.](https://forms.gle/7HqE7SM3vV3EdDxq8)
 
