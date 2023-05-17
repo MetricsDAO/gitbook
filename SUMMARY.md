@@ -9,7 +9,8 @@
 * [Metrics App Walkthrough](metricsdao-ecosystem/metrics-app-walkthrough.md)
 * [xMETRIC](metricsdao-ecosystem/xmetric.md)
 * [xMETRIC Masters](metricsdao-ecosystem/xmetric-masters.md)
-* [Networks](metricsdao-ecosystem/networks.md)
+* [Networks 101](metricsdao-ecosystem/networks-101.md)
+* [Network List](metricsdao-ecosystem/network-list.md)
 
 ## Operations
 

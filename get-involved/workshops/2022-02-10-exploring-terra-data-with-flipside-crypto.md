@@ -44,7 +44,7 @@ Finally, let's order the data by day using [`order by`](https://mode.com/sql-tut
 
 * [Data Check](https://app.flipsidecrypto.com/velocity/queries/0389886a-fdae-4055-99e1-e726c6cef9e1) using [`distinct`](https://mode.com/sql-tutorial/sql-distinct/)
 * [Gross Collateral Transaction Events](https://app.flipsidecrypto.com/velocity/queries/63767222-e809-4b9a-bb78-20b5138326c6)
-* [Collateral Transaction Events, bLUNA](https://app.flipsidecrypto.com/velocity/queries/a0075801-3555-4978-b5cb-ee98c1e6612d) using [`where`](https://mode.com/sql-tutorial/sql-where/)``
+* [Collateral Transaction Events, bLUNA](https://app.flipsidecrypto.com/velocity/queries/a0075801-3555-4978-b5cb-ee98c1e6612d) using [`where`](https://mode.com/sql-tutorial/sql-where/)
 * [Collateral Transaction Events, bETH](https://app.flipsidecrypto.com/velocity/queries/7fa0643a-f208-4542-a17e-275d40ee8ab6)
 
 ### 2 - Transaction Volume

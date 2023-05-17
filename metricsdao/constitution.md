@@ -53,7 +53,7 @@ All pods in aggregate make up the DAO.
 
 Badges are assigned by DAO administrators to manage roles in the DAO. There are currently three kinds of badges: Contributor, Governor, and Curator.\
 \
-For more information on MetricsDAO tooling and processes, please view this **** page: [https://docs.metricsdao.xyz/metricsdao/tooling-and-processes](https://docs.metricsdao.xyz/metricsdao/tooling-and-processes)
+For more information on MetricsDAO tooling and processes, please view this page: [https://docs.metricsdao.xyz/metricsdao/tooling-and-processes](https://docs.metricsdao.xyz/metricsdao/tooling-and-processes)
 
 ### **Section V - Constituents & Bodies**
 

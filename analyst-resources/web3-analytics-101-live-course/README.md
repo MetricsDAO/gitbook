@@ -26,14 +26,14 @@ Each week will have accompanying assignments. These will reinforce concepts cove
 
 _The following is intended to set expectations about the content of this course, while the content covered will go into more depth than what is listed._
 
-### ****[**​Segment 0 - Start Here**](https://docs.metricsdao.xyz/analyst-resources/web3-analytics-101-live-course/segment-0-live-course)**​**
+### [**​Segment 0 - Start Here**](https://docs.metricsdao.xyz/analyst-resources/web3-analytics-101-live-course/segment-0-live-course)**​**
 
-We have compiled vetted resources that students can dive into, on their own time, to get up to speed with the main topics that this course covers: blockchains and crypto, data analysis using SQL, working in web3, etc. Yes, the content is the same as those used for the async course. It is because these fundamental topics remain valid regardless of the course format. See more on the nested page, __ [_here._ ](segment-0-live-course.md)__\
-__\
-__Finally, find some MetricsDAO resources here:
+We have compiled vetted resources that students can dive into, on their own time, to get up to speed with the main topics that this course covers: blockchains and crypto, data analysis using SQL, working in web3, etc. Yes, the content is the same as those used for the async course. It is because these fundamental topics remain valid regardless of the course format. See more on the nested page, [_here._ ](segment-0-live-course.md)\
+\
+Finally, find some MetricsDAO resources here:
 
 * **​**[Submission Showcase](https://metricsdao.xyz/showcase)**​**
-* ****[Active Bounties](https://metricsdao.notion.site/metricsdao/Bounty-Programs-d4bac7f1908f412f8bf4ed349198e5fe)
+* [Active Bounties](https://metricsdao.notion.site/metricsdao/Bounty-Programs-d4bac7f1908f412f8bf4ed349198e5fe)
 * [What is xMETRIC?](https://blog.metricsdao.xyz/xmetric/)**​​**
 
 ## ​Segment 1 - The Blockchain Basics​

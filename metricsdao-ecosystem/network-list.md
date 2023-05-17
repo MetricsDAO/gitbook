@@ -1,4 +1,4 @@
-# Networks
+# Network List
 
 Below you can find some basic information on all of MetricsDAO's networks, including their names, points of contact, what makes them unique, and their badge ID. \
 \
