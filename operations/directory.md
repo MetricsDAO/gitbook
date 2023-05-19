@@ -50,7 +50,7 @@ Metrics App, Badger badges and networks.
 Report Metrics App bugs on [Github](https://github.com/MetricsDAO/xyz/issues/new?assignees=gnomadic\&labels=triage\&template=public\_issue.yaml\&title=%5Bpublic+report%5D%3A+). Ask for other Metrics App help in [# 🛠 │ app-general](https://discord.com/channels/902943676685230100/1087743626089599006) on [Discord](https://discord.gg/metrics).
 
 * danner.eth#7297 - MetricsDAO elder, senior product manager
-  * _Contact for: networks_
+  * _Contact for: **networks**_
 * elisemarika#8643 - senior product manager
 * gnomadic#8135 - engineering team lead
 
@@ -89,9 +89,10 @@ Marketing strategy and execution.
 
 #### Teaching assistants
 
+Our awesome community TAs help learners in the Web3 Analytics live course series! Membership in this group can vary over time, but you can find them by the Discord roles that contain the word "TA" and course name.
+
 * “TA” role holders in Discord&#x20;
-* membership in this group can vary over time
-* _Contact for: a**dmin questions and help with understanding the material in Web3 Analytics courses** (make sure you ask the TA for the same course you are in)_
+* _Contact for: **admin questions and help with understanding the material in Web3 Analytics courses** (make sure you ask the TA for the same course you are in)_
 
 #### Treasury
 
