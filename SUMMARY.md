@@ -22,6 +22,7 @@
 * [Code of Conduct](metricsdao/code-of-conduct.md)
 * [Partners](operations/partners.md)
 * [Brand Assets](metricsdao/brand-assets.md)
+* [Directory](operations/directory.md)
 
 ## Education
 
