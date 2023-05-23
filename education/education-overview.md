@@ -4,11 +4,19 @@
 
 We are focused on creating training programs to onboard analysts into the vast web3 space and ensure that they can become stellar web3 analysts. The programs are focused on upskilling analysts in SQL, web3 data tooling & protocols, as well as various blockchain ecosystems, so that you are prepared to complete our analytics channels and become a web3 analytics leader.&#x20;
 
-We currently run **Web3 Analytics 101 Async and Live** programs, as well as **Web3 Analytics 201 Live** program. We also have asynchronous courses on Ethereum, Algorand, Near and other ecosystems, as well as launching a web3 analytics professional track. Be sure to follow our #education-announcements channel on [Discord](https://discord.gg/metrics) to hear about new program launches.&#x20;
+We currently run **Web3 Analytics 101 Async and Live** programs, as well as **Web3 Analytics 201 Live** programs. We also have asynchronous courses on Ethereum, Algorand, Near and other ecosystems, as well as launching a web3 analytics professional track. Be sure to follow our #education-announcements channel on [Discord](https://discord.gg/metrics) to hear about new program launches.&#x20;
 
 The best way to sign-up to our current courses is by going to our [learning platform](https://metrics-dao.teachable.com/).
 
 We also post about the upcoming programs in [our blog](https://blog.metricsdao.xyz/).
+
+### Badges
+
+Our learners and graduates receive onchain proof of participating and completing courses!&#x20;
+
+Check out [this dashboard](https://flipsidecrypto.xyz/pcwcfa/metrics-dao-live-course-badges-mtJYqu) to see which ERC-1155 badges you've got in your wallet on Polygon.&#x20;
+
+You can also find your MetricsDAO Education badges and show them off on OpenSea [here](https://opensea.io/collection/metricsdao-academy) and [here](https://opensea.io/collection/metricsdao-education-season-4).&#x20;
 
 ### FAQ
 
