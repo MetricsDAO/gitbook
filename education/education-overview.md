@@ -4,7 +4,7 @@
 
 We are focused on creating training programs to onboard analysts into the vast web3 space and ensure that they can become stellar web3 analysts. The programs are focused on upskilling analysts in SQL, web3 data tooling & protocols, as well as various blockchain ecosystems, so that you are prepared to complete our analytics channels and become a web3 analytics leader.&#x20;
 
-We currently run **Web3 Analytics 101 Async and Live** programs, as well as **Web3 Analytics 201 Live** programs. We also have asynchronous courses on Ethereum, Algorand, Near and other ecosystems, as well as launching a web3 analytics professional track. Be sure to follow our #education-announcements channel on [Discord](https://discord.gg/metrics) to hear about new program launches.&#x20;
+We currently run **Web3 Analytics 101 Async and Live** programs, as well as **Web3 Analytics 201 Live** and **Web3 Analytics 301 Live** programs. We also have asynchronous courses on Ethereum, Algorand, Near and other ecosystems, as well as launching a web3 analytics professional track. Be sure to follow our #education-announcements channel on [Discord](https://discord.gg/metrics) to hear about new program launches.&#x20;
 
 The best way to sign-up to our current courses is by going to our [learning platform](https://metrics-dao.teachable.com/).
 
