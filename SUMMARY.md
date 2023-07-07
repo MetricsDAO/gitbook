@@ -4,8 +4,8 @@
 
 ## MetricsDAO Ecosystem
 
-* [Metrics Protocol Docs](https://metricsdao.xyz/whitepaper)
-* [Metrics App Docs](https://metricsdao.gitbook.io/metrics-app/)
+* [Labor Markets Docs](https://metricsdao.gitbook.io/labor-markets-protocol/)
+* [Metrics App Docs](https://metricsdao.gitbook.io/metrics-app-1/)
 * [Metrics App Walkthrough](metricsdao-ecosystem/metrics-app-walkthrough.md)
 * [xMETRIC](metricsdao-ecosystem/xmetric.md)
 * [xMETRIC Masters](metricsdao-ecosystem/xmetric-masters.md)
