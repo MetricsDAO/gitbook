@@ -2,7 +2,7 @@
 
 ## What are networks?
 
-Networks are groups of Metrics App users and community members that self-organize around a common principle. You can: create networks, manage networks, and/or become part of existing ones.
+Networks are groups of Metrics App users and community members that self-organize around a common principle. You can: create networks, manage networks, and/or become part of existing ones.&#x20;
 
 ## Why create or be in a network?
 
@@ -61,3 +61,4 @@ Once you’re in one (or several), verify yourself with Guildbot in the [Metrics
 * Badger Network activity [https://flipsidecrypto.xyz/danner/badger-network-activity-2VpgcU](https://flipsidecrypto.xyz/danner/badger-network-activity-2VpgcU)
   * You can click the Badge Index tab to see overall data for various badge pairs.
 * How was the idea of networks born? Read up on the lore: [https://discourse.metricsdao.xyz/t/metrics-app-protocol-reviewer-network-s/266](https://discourse.metricsdao.xyz/t/metrics-app-protocol-reviewer-network-s/266)
+* Networks Week #1, June 9-16, 2023: [https://www.youtube.com/watch?v=Gu\_Q6wQaGGw](https://www.youtube.com/watch?v=Gu\_Q6wQaGGw)
