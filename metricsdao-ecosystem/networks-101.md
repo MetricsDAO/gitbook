@@ -14,17 +14,9 @@ These networks can take many forms of management - membership may be voted on by
 
 ## Who can create a network?
 
-Anyone can!&#x20;
+Anyone can! All you need is an idea and a Polygon wallet. Just go to [Quickstart: Make a Network](https://docs.metricsdao.xyz/networks/quickstart-make-a-network) and follow the easy steps.
 
-Once you mint ERC-1155 Badger badges for your network members (you can change who is in your network at any time), reach out to us in Discord in the [#🌐│networks-101](https://discord.com/channels/902943676685230100/1098664182586560662) channel. Let's get your network integrated into our community and match your network members with opportunities on the Metrics App!
-
-More about types of network managers and labor market managers: [https://docs.google.com/document/d/1AXK9fZfdADRJm4Tk5RRqAf1o\_j2-MELsewaWXvzG97s/edit?usp=sharing](https://docs.google.com/document/d/1AXK9fZfdADRJm4Tk5RRqAf1o\_j2-MELsewaWXvzG97s/edit?usp=sharing)&#x20;
-
-## How to create a network?
-
-Use [Badger](https://www.trybadger.com/) where you can deploy and manage your own token-gated groups.&#x20;
-
-Looking for step-by-step instructions? [Read the docs](https://docs.trybadger.com/basics/organizations) or watch the video below!
+For advanced network creation questions: [Read the docs](https://docs.trybadger.com/basics/organizations) or watch the video below.
 
 {% embed url="https://www.loom.com/share/4bc610d63900404caae92ba104553342" %}
 
@@ -48,12 +40,6 @@ Get to know our community members and what networks they have (maybe your Metric
 ## Want to chat live?
 
 We will run a live community call soon in MetricsDAO Discord to talk networks. Have a network in mind? We’ll help you create it!
-
-## Networks:
-
-Check out [this page](network-list.md) for a link of available networks.
-
-Once you’re in one (or several), verify yourself with Guildbot in the [MetricsDAO Discord](https://discord.gg/metrics) and watch new channels open up for you.
 
 ## Resources:
 
