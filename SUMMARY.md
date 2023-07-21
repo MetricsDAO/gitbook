@@ -10,6 +10,7 @@
 * [xMETRIC](metricsdao-ecosystem/xmetric.md)
 * [xMETRIC Masters](metricsdao-ecosystem/xmetric-masters.md)
 * [Networks 101](metricsdao-ecosystem/networks-101.md)
+* [Quickstart: Make a Network](metricsdao-ecosystem/quickstart-make-a-network.md)
 * [Network List](metricsdao-ecosystem/network-list.md)
 
 ## Operations
