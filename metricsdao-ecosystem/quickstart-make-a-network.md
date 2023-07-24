@@ -4,9 +4,9 @@ Networks are subcommunities. Already got a group of web3 frens who want to join 
 
 You can make a network in these quick steps: _Go to_ [_Badger_](https://www.trybadger.com/)_. Create an Organization. Make a Badge in the Organization. Mint this badge to whoever you want. Voila – you have a network!_&#x20;
 
-## Create an Organization
+## Go to [Badger](https://www.trybadger.com/)&#x20;
 
-#### Go to [Badger](https://www.trybadger.com/). Click on Issue Badges to enter the app.
+#### Go to [https://www.trybadger.com/](https://www.trybadger.com/). Click on Issue Badges to enter the app.
 
 ![](https://lh3.googleusercontent.com/kuyjBj4U3xOMjoBBXfb2ZQGqiVzZiHDg9I-gsScj9mKdn55q-5P2TsycQm2wXLCG1KlL-1QhcShduFwZaZXhEOpPbfIGNCeMw8HIX09iJtfzuBMwp2U7nym3kWTeldJpwW4eC4m\_oO3-eLU3mLrTN\_M)
 
