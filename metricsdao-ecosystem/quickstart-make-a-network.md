@@ -78,6 +78,14 @@ Each badge in your Organization will have a different Token ID, from 0 onwards. 
 
 If you have more questions about Badger, check out the [documentation](https://docs.trybadger.com/). If the docs don’t help, contact danner.eth on MetricsDAO’s [Discord server](https://discord.com/invite/p3GMjK2zAr).
 
+## Give your network a place to grow
+
+Both MetricsDAO and Flipside Crypto offer networks the opportunity to have their own uniquely permissioned channel with their Discord servers. We highly recommend that you reach out to both MetricsDAO and Flipside to get your own channels up and running.
+
+**MetricsDAO Contacts:** mar1na, Gab\_riel.
+
+**Flipside Crypto Contacts:** sunslinger19, mar1na, Gab\_riel.
+
 ## The fun part: Lead your network
 
 Congrats, the technical part is over! Now comes the fun part that is entirely yours to imagine. &#x20;
