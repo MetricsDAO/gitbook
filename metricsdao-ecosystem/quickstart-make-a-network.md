@@ -94,7 +94,7 @@ What helps networks flourish:&#x20;
 
 * Get a space to talk. Many networks like having their dedicated channel in the MetricsDAO Discord. Ask us for one in [# 🌐│networks-101](https://discord.com/channels/902943676685230100/1098664182586560662).&#x20;
 * Identify what unique value the network provides in the community, the role it plays. Set its goals. Discuss and decide what leadership roles you and other members want to take on. Outline the process for admitting new members (and revoking badges). Write it all up (Notion or Google Docs are great). Share it in your network’s channel.
-* [**Submit this form**](https://docs.google.com/forms/d/e/1FAIpQLSdQs9EYL660Fwq9vxDe2eC1lyO6v\_rZkSbSPllwit6e4O447A/viewform) to let MetricsDAO know you made a network and what it does. This will help our challenge partners know about it, and help us involve your network in activities.
+* [**Submit this form**](https://forms.gle/7HqE7SM3vV3EdDxq8) to let MetricsDAO know you made a network and what it does. This will help our challenge partners know about it, and help us involve your network in activities.
 * When you complete the previous step, we will invite you (and others who are active in managing your network) to join a special Network Leaders collective to help your network succeed!
 
 More questions? Find us on MetricsDAO’s [Discord server](https://discord.com/invite/p3GMjK2zAr) in [# 🌐│networks-101](https://discord.com/channels/902943676685230100/1098664182586560662).
